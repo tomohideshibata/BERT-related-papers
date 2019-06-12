@@ -53,7 +53,7 @@
 ## Inside BERT
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698)
 - [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284) (ACL2019 WS)
-- [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/pdf/1906.04341.pdf) (ACL2019 WS)
+- [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341) (ACL2019 WS)
 - [Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650)
         
 ## Domain specific
