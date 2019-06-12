@@ -49,7 +49,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
 - [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099)
 - [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077)
-- [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502)
+- [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
         
 ## Inside BERT
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698)
