@@ -1,4 +1,5 @@
 # BERT-related Papers
+This is a list of BERT-related papers. Any feedback is welcome.
 
 ## Downstream task
 ### QA, MC
