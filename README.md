@@ -2,7 +2,7 @@
 
 ## Downstream task
 ### QA, MC
-- [A BERT Baseline for the Natural Questions] (https://arxiv.org/abs/1901.08634)
+- [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718) (NAALC2019)
 - [A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848) (ACL2019 WS)
 ### Analysis
