@@ -24,6 +24,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
 ### Commonsense
 - [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) (ACL2019)
+### Extractive summarization
+- [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/abs/1905.06566) (ACL2019)
 ### IR
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)
