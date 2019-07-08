@@ -14,6 +14,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
+- [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [Resolving Gendered Ambiguous Pronouns with BERT](https://arxiv.org/abs/1906.01161) (ACL2019 WS)
 - [Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge](https://arxiv.org/abs/1905.01780) (ACL2019 WS)
 - [Gendered Pronoun Resolution using BERT and an extractive question answering formulation](https://arxiv.org/abs/1906.03695) (ACL2019 WS)
