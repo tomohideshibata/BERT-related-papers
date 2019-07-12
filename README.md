@@ -59,13 +59,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (*SEM2019)
 - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950) (ACL2019)
         
-## Multi-lingual
-- [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
-- [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
-- [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099)
-- [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077)
-- [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
-        
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698) (ACL2019 WS)
@@ -75,7 +68,14 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Inducing Syntactic Trees from BERT Representations](https://arxiv.org/abs/1906.11511) (ACL2019 WS)
 - [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/abs/1906.05714) (ACL2019 Demo)
 - [Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650)
-        
+
+## Multi-lingual
+- [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
+- [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
+- [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099)
+- [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077)
+- [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
+
 ## Domain specific
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
