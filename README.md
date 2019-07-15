@@ -95,3 +95,4 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987) (ACL2019 WS)
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962)
+- [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136) 
