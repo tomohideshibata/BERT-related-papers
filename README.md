@@ -21,6 +21,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Gendered Pronoun Resolution using BERT and an extractive question answering formulation](https://arxiv.org/abs/1906.03695) (ACL2019 WS)
 - [Assessing BERT’s Syntactic Abilities](https://arxiv.org/abs/1901.05287)
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
+- [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
+
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 ### WSC, WNLI
