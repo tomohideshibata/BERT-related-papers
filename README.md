@@ -101,3 +101,4 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136) 
+- [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
