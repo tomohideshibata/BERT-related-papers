@@ -100,6 +100,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
 - [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987) (ACL2019 WS)
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
+- [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136) 
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
