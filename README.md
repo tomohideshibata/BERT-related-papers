@@ -26,6 +26,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MSnet: A BERT-based Network for Gendered Pronoun Resolution](https://arxiv.org/abs/1908.00308) (ACL2019 WS)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+- [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
 ### WSC, WNLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
