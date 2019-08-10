@@ -49,6 +49,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### IR
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)
+- [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531)
 - [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
 - [CEDR: Contextualized Embeddings for Document Ranking](https://arxiv.org/abs/1904.07094) (SIGIR2019)
 - [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217) (SIGIR2019)
