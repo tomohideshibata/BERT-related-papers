@@ -89,7 +89,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Inducing Syntactic Trees from BERT Representations](https://arxiv.org/abs/1906.11511) (ACL2019 WS)
 - [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/abs/1906.05714) (ACL2019 Demo)
 - [Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650)
-
+- [On the Validity of Self-Attention as Explanation in Transformer Models](https://arxiv.org/abs/1908.04211)
 ## Multi-lingual
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
 - [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
