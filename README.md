@@ -66,7 +66,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
 - [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (ICML2019)
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
-    
+- [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)    
 ## Modification (multi-task, masking strategy, etc.)
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) (ACL2019)
 - [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671) (ICML2019)
