@@ -25,6 +25,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 ### Analysis
 - [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/abs/1908.04943)
+- [Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing](https://arxiv.org/abs/1908.07448) 
 - [Fine-grained Information Status Classification Using Discourse Context-Aware Self-Attention](https://arxiv.org/abs/1908.04755)
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
