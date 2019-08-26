@@ -112,6 +112,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650)
 - [On the Validity of Self-Attention as Explanation in Transformer Models](https://arxiv.org/abs/1908.04211)
 - [Visualizing and Understanding the Effectiveness of BERT](https://arxiv.org/abs/1908.05620) (EMNLP2019)
+- [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593) (EMNLP2019)
 
 ## Multi-lingual
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
