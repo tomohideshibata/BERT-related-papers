@@ -4,6 +4,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Downstream task
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
+- [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514) (EMNLP2019)
 - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718) (NAALC2019)
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) (ACL2019)
@@ -116,7 +117,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
 - [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
 - [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099)
-- [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077)
+- [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077) (EMNLP2019)
 - [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
 
 ## Domain specific
