@@ -143,6 +143,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490) (EMNLP2019)
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
 - [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530)
+- [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066)
 ## Misc.
 - [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
