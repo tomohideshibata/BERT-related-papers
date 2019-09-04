@@ -113,6 +113,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Inducing Syntactic Trees from BERT Representations](https://arxiv.org/abs/1906.11511) (ACL2019 WS)
 - [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/abs/1906.05714) (ACL2019 Demo)
 - [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715)
+- [How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings](https://arxiv.org/abs/1909.00512) (EMNLP2019) 
 - [Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650)
 - [On the Validity of Self-Attention as Explanation in Transformer Models](https://arxiv.org/abs/1908.04211)
 - [Visualizing and Understanding the Effectiveness of BERT](https://arxiv.org/abs/1908.05620) (EMNLP2019)
