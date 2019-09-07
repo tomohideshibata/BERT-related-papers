@@ -98,6 +98,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/abs/1908.05646)
 - [Semantics-aware BERT for Language Understanding](https://arxiv.org/abs/1909.02209)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
+- [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019)
