@@ -88,6 +88,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
+- [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
+
 ## Modification (multi-task, masking strategy, etc.)
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) (ACL2019)
 - [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671) (ICML2019)
