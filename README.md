@@ -104,6 +104,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577)
 - [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/abs/1908.05646)
 - [Semantics-aware BERT for Language Understanding](https://arxiv.org/abs/1909.02209)
+- [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) (EMNLP2019)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
 - [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
 ## Probe
