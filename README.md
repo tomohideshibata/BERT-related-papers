@@ -42,8 +42,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](https://arxiv.org/abs/1907.03750) (ACL2019) 
 - [Assessing BERT’s Syntactic Abilities](https://arxiv.org/abs/1901.05287)
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
-- [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158) (ACL2019)
-- [BERT-Based Multi-Head Selection for Joint Entity-Relation Extraction](https://arxiv.org/abs/1908.05908) (NLPCC2019)
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
 - [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
@@ -57,6 +55,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT Masked Language Modeling for Co-reference Resolution](https://www.aclweb.org/anthology/papers/W/W19/W19-3811/) (ACL2019 WS)
 - [BERT for Coreference Resolution: Baselines and Analysis](https://arxiv.org/abs/1908.09091) (EMNLP2019)
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
+### Relation extraction
+- [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158) (ACL2019)
+- [BERT-Based Multi-Head Selection for Joint Entity-Relation Extraction](https://arxiv.org/abs/1908.05908) (NLPCC2019)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
