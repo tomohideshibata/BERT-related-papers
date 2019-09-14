@@ -74,6 +74,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
 ### Commonsense
 - [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) (ACL2019)
+- [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361) (ACL2019)
 - [Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models](https://arxiv.org/abs/1908.06725)
 - [Informing Unsupervised Pretraining with External Linguistic Knowledge](https://arxiv.org/abs/1909.02339)
 - [Commonsense Knowledge + BERT for Level 2 Reading Comprehension Ability Test](https://arxiv.org/abs/1909.03415)
