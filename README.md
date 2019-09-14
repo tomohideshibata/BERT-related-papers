@@ -46,6 +46,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
 - [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
+- [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019)
 - [BERT-Based Arabic Social Media Author Profiling](https://arxiv.org/abs/1909.04181)
 ### Pronoun/coreference resolution
 - [Resolving Gendered Ambiguous Pronouns with BERT](https://arxiv.org/abs/1906.01161) (ACL2019 WS)
