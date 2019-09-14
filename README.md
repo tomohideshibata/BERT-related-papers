@@ -41,6 +41,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
 - [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](https://arxiv.org/abs/1907.03750) (ACL2019) 
 - [Assessing BERT’s Syntactic Abilities](https://arxiv.org/abs/1901.05287)
+- [Does BERT agree? Evaluating knowledge of structure dependence through agreement relations](https://arxiv.org/abs/1908.09892)
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
 - [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
