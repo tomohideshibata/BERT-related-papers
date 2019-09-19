@@ -69,6 +69,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
 - [DocBERT: BERT for Document Classification](https://arxiv.org/abs/1904.08398)
+- [Enriching BERT with Knowledge Graph Embeddings for Document Classification](https://arxiv.org/abs/1909.08402)
 - [Classification and Clustering of Arguments with Contextualized Word Embeddings](https://arxiv.org/abs/1906.09821) (ACL2019)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 ### WSC, WNLI
