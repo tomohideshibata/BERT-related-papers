@@ -4,6 +4,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Downstream task
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
+- [MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/abs/1905.13453) (ACL2019)
 - [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514) (EMNLP2019)
 - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718) (NAALC2019)
