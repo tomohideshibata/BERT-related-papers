@@ -47,7 +47,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT-Based Arabic Social Media Author Profiling](https://arxiv.org/abs/1909.04181)
-### Word segmentation / parsing
+### Word segmentation / parsing / NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning](https://arxiv.org/abs/1903.04190)
 - [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/abs/1908.04943)
@@ -55,6 +55,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [NEZHA: Neural Contextualized Representation for Chinese Language Understanding](https://arxiv.org/abs/1909.00204)
 - [Deep Contextualized Word Embeddings in Transition-Based and Graph-Based Dependency Parsing -- A Tale of Two Parsers Revisited](https://arxiv.org/abs/1908.07397) (EMNLP2019)
 - [Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing](https://arxiv.org/abs/1909.06775)
+- [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 ### Pronoun/coreference resolution
 - [Resolving Gendered Ambiguous Pronouns with BERT](https://arxiv.org/abs/1906.01161) (ACL2019 WS)
 - [Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge](https://arxiv.org/abs/1905.01780) (ACL2019 WS)
