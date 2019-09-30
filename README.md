@@ -111,6 +111,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) (NeurIPS2019)
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
+- [On the use of BERT for Neural Machine Translation](https://arxiv.org/abs/1909.12744)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
 
 ## Modification (multi-task, masking strategy, etc.)
@@ -133,6 +134,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
 - [Symmetric Regularization based BERT for Pair-wise Semantic Reasoning](https://arxiv.org/abs/1909.03405)
 - [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
+- [Improving Pre-Trained Multilingual Models with Vocabulary Expansion](https://arxiv.org/abs/1909.12440) (CoNLL2019)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
