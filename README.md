@@ -1,6 +1,18 @@
 # BERT-related Papers
 This is a list of BERT-related papers. Any feedback is welcome.
 
+## Table of Contents
+- [Downstream task](#downstream-task)
+- [Generation](#generation)
+- [Modification (multi-task, masking strategy, etc.)](#modification-multi-task-masking-strategy-etc)
+- [Probe](#probe)
+- [Inside BERT](#inside-bert)
+- [Multi-lingual](#multi-lingual)
+- [Domain specific](#domain-specific)
+- [Multi-modal](#multi-modal)
+- [Model compression](#model-compression)
+- [Misc.](#misc)
+
 ## Downstream task
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
