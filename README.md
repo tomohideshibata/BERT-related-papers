@@ -155,7 +155,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (*SEM2019)
 - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950) (ACL2019)
 - [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355) (ACL2019)
-        
+- [Cracking the Contextual Commonsense Code: Understanding Commonsense Reasoning Aptitude of Deep Contextual Representations](https://arxiv.org/abs/1910.01157) (EMNLP2019 WS)        
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698) (ACL2019 WS)
