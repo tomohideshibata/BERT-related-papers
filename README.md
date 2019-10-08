@@ -96,6 +96,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DocBERT: BERT for Document Classification](https://arxiv.org/abs/1904.08398)
 - [Enriching BERT with Knowledge Graph Embeddings for Document Classification](https://arxiv.org/abs/1909.08402)
 - [Classification and Clustering of Arguments with Contextualized Word Embeddings](https://arxiv.org/abs/1906.09821) (ACL2019)
+- [BERT for Evidence Retrieval and Claim Verification](https://arxiv.org/abs/1910.02655)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
