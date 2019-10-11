@@ -131,6 +131,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
 - [On the use of BERT for Neural Machine Translation](https://arxiv.org/abs/1909.12744)
+- [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://arxiv.org/abs/1907.12461)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
 
 ## Modification (multi-task, masking strategy, etc.)
