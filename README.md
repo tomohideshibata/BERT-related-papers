@@ -239,3 +239,4 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Cuneiform Language Identification with BERT](https://www.aclweb.org/anthology/papers/W/W19/W19-1402/) (NAACL2019 WS)
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
 - [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
+- [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
