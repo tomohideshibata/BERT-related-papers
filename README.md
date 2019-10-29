@@ -231,6 +231,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 - [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) (EMNLP2019)
 - [Small and Practical BERT Models for Sequence Labeling](https://arxiv.org/abs/1909.00100) (EMNLP2019)
+- [Pruning a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351)
 - [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) (NeurIPS2019 WS) [[github](https://github.com/huggingface/transformers/tree/master/examples/distillation)]
 - [Extreme Language Model Compression with Optimal Subwords and Shared Projections](https://arxiv.org/abs/1909.11687)
