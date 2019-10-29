@@ -203,6 +203,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
 - [Is Multilingual BERT Fluent in Language Generation?](https://arxiv.org/abs/1910.03806)
 - [Cross-Lingual Ability of Multilingual BERT: An Empirical Study](https://openreview.net/forum?id=HJeT3yrtDr)
+- [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
 ## Domain specific
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
