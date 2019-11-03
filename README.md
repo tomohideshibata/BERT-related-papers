@@ -254,6 +254,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962)
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
+- [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366)
 - [Glyce: Glyph-vectors for Chinese Character Representations](https://arxiv.org/abs/1901.10125)
 - [Back to the Future -- Sequential Alignment of Text Representations](https://arxiv.org/abs/1909.03464)
 - [Improving Cuneiform Language Identification with BERT](https://www.aclweb.org/anthology/papers/W/W19/W19-1402/) (NAACL2019 WS)
