@@ -220,6 +220,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-Lingual Ability of Multilingual BERT: An Empirical Study](https://openreview.net/forum?id=HJeT3yrtDr)
 - [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
 - [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116)
+- [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894)
 ## Domain specific
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
