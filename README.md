@@ -69,8 +69,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LIMIT-BERT : Linguistic Informed Multi-Task BERT](https://arxiv.org/abs/1910.14296)
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
 - [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
-- [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
-- [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT-Based Arabic Social Media Author Profiling](https://arxiv.org/abs/1909.04181)
 - [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)
 - [NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution](https://arxiv.org/abs/1911.04211)
@@ -107,6 +105,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fine-tune Bert for DocRED with Two-step Process](https://arxiv.org/abs/1909.11898)
 - [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://arxiv.org/abs/1909.03546) (EMNLP2019)
 - [Fine-tuning BERT for Joint Entity and Relation Extraction in Chinese Medical Text](https://arxiv.org/abs/1908.07721)
+### Knowledge base
+- [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
+- [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
+- [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
