@@ -262,6 +262,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530)
 - [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066)
 - [UNITER: Learning UNiversal Image-TExt Representations](https://arxiv.org/abs/1909.11740)
+- [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912)
 ## Model compression
