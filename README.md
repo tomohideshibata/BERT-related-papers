@@ -90,6 +90,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476)
 - [Training Compact Models for Low Resource Entity Tagging using Pre-trained Language Models](https://arxiv.org/abs/1910.06294)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
+- [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
 ### Pronoun/coreference resolution
 - [Resolving Gendered Ambiguous Pronouns with BERT](https://arxiv.org/abs/1906.01161) (ACL2019 WS)
 - [Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge](https://arxiv.org/abs/1905.01780) (ACL2019 WS)
