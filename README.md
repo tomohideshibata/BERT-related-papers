@@ -185,7 +185,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577)
 - [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/abs/1911.06156)
 - [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/abs/1908.05646)
-- [Semantics-aware BERT for Language Understanding](https://arxiv.org/abs/1909.02209)
+- [Semantics-aware BERT for Language Understanding](https://arxiv.org/abs/1909.02209) (AAAI2020)
 - [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/abs/1909.07606)
 - [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) (EMNLP2019)
 - [KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/abs/1911.06136)
