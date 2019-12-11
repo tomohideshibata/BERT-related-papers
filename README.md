@@ -179,7 +179,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unifying Question Answering and Text Classification via Span Extraction](https://arxiv.org/abs/1904.09286)
 - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129) (ACL2019)
 - [ERNIE: Enhanced Representation through Knowledge Integration](https://arxiv.org/abs/1904.09223)
-- [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding](https://arxiv.org/abs/1907.12412)
+- [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding](https://arxiv.org/abs/1907.12412) (AAAI2020)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) [[github](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
