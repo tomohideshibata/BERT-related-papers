@@ -241,6 +241,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
 - [How Language-Neutral is Multilingual BERT?](https://arxiv.org/abs/1911.03310)
 - [Is Multilingual BERT Fluent in Language Generation?](https://arxiv.org/abs/1910.03806)
+- [BERT is Not an Interlingua and the Bias of Tokenization](https://www.aclweb.org/anthology/D19-6106/) (EMNLP2019 WS)
 - [Cross-Lingual Ability of Multilingual BERT: An Empirical Study](https://openreview.net/forum?id=HJeT3yrtDr)
 - [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
 - [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116)
