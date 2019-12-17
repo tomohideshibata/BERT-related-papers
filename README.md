@@ -91,6 +91,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Named Entity Recognition -- Is there a glass ceiling?](https://arxiv.org/abs/1910.02403) (CoNLL2019)
 - [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476)
 - [Training Compact Models for Low Resource Entity Tagging using Pre-trained Language Models](https://arxiv.org/abs/1910.06294)
+- [Robust Named Entity Recognition with Truecasing Pretraining](https://arxiv.org/abs/1912.07095) (AAAI2020)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
 ### Pronoun/coreference resolution
