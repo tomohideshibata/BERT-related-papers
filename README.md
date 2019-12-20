@@ -121,6 +121,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [Inducing Relational Knowledge from BERT](https://arxiv.org/abs/1911.12753) (AAAI2020)
+- [Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model](https://openreview.net/forum?id=BJlzm64tDH) (ICLR2020)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
