@@ -295,6 +295,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pruning a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351) [[github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)]
 - [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) (NeurIPS2019 WS) [[github](https://github.com/huggingface/transformers/tree/master/examples/distillation)]
+- [WaLDORf: Wasteless Language-model Distillation On Reading-comprehension](https://arxiv.org/abs/1912.06638)
 - [Extreme Language Model Compression with Optimal Subwords and Shared Projections](https://arxiv.org/abs/1909.11687)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
