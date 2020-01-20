@@ -81,6 +81,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
 - [Towards Minimal Supervision BERT-based Grammar Error Correction](https://arxiv.org/abs/2001.03521)
 - [BERT-Based Arabic Social Media Author Profiling](https://arxiv.org/abs/1909.04181)
+- [Sentence-Level BERT and Multi-Task Learning of Age and Gender in Social Media](https://arxiv.org/abs/1911.00637)
 - [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)
 - [NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution](https://arxiv.org/abs/1911.04211)
 - [xSLUE: A Benchmark and Analysis Platform for Cross-Style Language Understanding and Evaluation](https://arxiv.org/abs/1911.03663)
