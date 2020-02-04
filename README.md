@@ -318,6 +318,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453)
 - [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912)
+- [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 ## Model compression
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 - [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) (EMNLP2019)
