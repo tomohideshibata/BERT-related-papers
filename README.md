@@ -185,6 +185,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
 - [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (ICML2019) [[github](https://github.com/microsoft/MASS)], [[github](https://github.com/microsoft/MASS/tree/master/MASS-fairseq)]
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) (NeurIPS2019)
+- [ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training](https://arxiv.org/abs/2001.04063)
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
 - [On the use of BERT for Neural Machine Translation](https://arxiv.org/abs/1909.12744)
