@@ -97,6 +97,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing](https://arxiv.org/abs/1908.07448) 
 - [NEZHA: Neural Contextualized Representation for Chinese Language Understanding](https://arxiv.org/abs/1909.00204)
 - [Deep Contextualized Word Embeddings in Transition-Based and Graph-Based Dependency Parsing -- A Tale of Two Parsers Revisited](https://arxiv.org/abs/1908.07397) (EMNLP2019)
+- [Parsing as Pretraining](https://arxiv.org/abs/2002.01685) (AAAI2020)
 - [Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing](https://arxiv.org/abs/1909.06775)
 - [Named Entity Recognition -- Is there a glass ceiling?](https://arxiv.org/abs/1910.02403) (CoNLL2019)
 - [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476)
