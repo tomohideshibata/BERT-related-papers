@@ -352,7 +352,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
-- [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
+- [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
 - [Extending Machine Language Models toward Human-Level Language Understanding](https://arxiv.org/abs/1912.05877)
 - [Glyce: Glyph-vectors for Chinese Character Representations](https://arxiv.org/abs/1901.10125)
