@@ -145,6 +145,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://www.aclweb.org/anthology/K19-1063/) (CoNLL2019)
 - [Improving Entity Linking by Modeling Latent Entity Type Information](https://arxiv.org/abs/2001.01447) (AAAI2020)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
+- [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
