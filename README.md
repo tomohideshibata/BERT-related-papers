@@ -363,6 +363,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
+- [Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/abs/2001.05140)
 - [Extending Machine Language Models toward Human-Level Language Understanding](https://arxiv.org/abs/1912.05877)
 - [Glyce: Glyph-vectors for Chinese Character Representations](https://arxiv.org/abs/1901.10125)
 - [Back to the Future -- Sequential Alignment of Text Representations](https://arxiv.org/abs/1909.03464)
