@@ -302,6 +302,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multilingual is not enough: BERT for Finnish](https://arxiv.org/abs/1912.07076)
 - [BERTje: A Dutch BERT Model](https://arxiv.org/abs/1912.09582)
 - [RobBERT: a Dutch RoBERTa-based Language Model](https://arxiv.org/abs/2001.06286)
+- [Adaptation of Deep Bidirectional Multilingual Transformers for Russian Language](https://arxiv.org/abs/1905.07213)
 ## Domain specific
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
