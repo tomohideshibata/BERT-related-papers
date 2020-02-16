@@ -127,6 +127,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 - ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
 - [Adversarial Training for Aspect-Based Sentiment Analysis with BERT](https://arxiv.org/abs/2001.11316)
+- [Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference](https://arxiv.org/abs/2002.04815)
 ### Relation extraction
 - [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158) (ACL2019)
 - [BERT-Based Multi-Head Selection for Joint Entity-Relation Extraction](https://arxiv.org/abs/1908.05908) (NLPCC2019)
