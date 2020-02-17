@@ -245,6 +245,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL2019) [[github](https://github.com/kimiyoung/transformer-xl)]
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (ICML2019)
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR2020) [[github](https://github.com/google/trax/tree/master/trax/models/reformer)]
+- [Transformer on a Diet](https://arxiv.org/abs/2002.06170)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
