@@ -89,6 +89,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [xSLUE: A Benchmark and Analysis Platform for Cross-Style Language Understanding and Evaluation](https://arxiv.org/abs/1911.03663)
 - [TabFact: A Large-scale Dataset for Table-based Fact Verification](https://arxiv.org/abs/1909.02164)
 - [Rapid Adaptation of BERT for Information Extraction on Domain-Specific Business Documents](https://arxiv.org/abs/2002.01861)
+- [LAMBERT: Layout-Aware language Modeling using BERT for information extraction](https://arxiv.org/abs/2002.08087)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning](https://arxiv.org/abs/1903.04190)
