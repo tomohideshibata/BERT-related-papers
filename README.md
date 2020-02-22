@@ -8,6 +8,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probe](#probe)
 - [Inside BERT](#inside-bert)
 - [Multi-lingual](#multi-lingual)
+- [Other than English models](#other-than-english-models)
 - [Domain specific](#domain-specific)
 - [Multi-modal](#multi-modal)
 - [Model compression](#model-compression)
