@@ -162,6 +162,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
+- [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/abs/1907.10641) (AAAI2020)
 - [Improving Natural Language Inference with a Pretrained Parser](https://arxiv.org/abs/1909.08217)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
