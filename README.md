@@ -345,6 +345,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912)
 - [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 - [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307)
+- [BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations](https://arxiv.org/abs/2002.10832)
 ## Model compression
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 - [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) (EMNLP2019)
@@ -359,6 +360,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning](https://arxiv.org/abs/2002.08307)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
+- [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/abs/1905.03197)
 ## Misc.
 - [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
