@@ -194,6 +194,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
+- [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/pdf/1909.10481.pdf) (AAAI2020) [[Github (original)]](https://github.com/CZWin32768/XNLG)
 - [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345) (EMNLP2019) [[github (original)](https://github.com/nlpyang/PreSumm)] [[github (huggingface)](https://github.com/huggingface/transformers/tree/master/examples/summarization)]
 - [Multi-stage Pretraining for Abstractive Summarization](https://arxiv.org/abs/1909.10599)
 - [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
@@ -263,6 +264,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 ## Inside BERT
+- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698) (ACL2019 WS)
 - [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284) (ACL2019 WS)
