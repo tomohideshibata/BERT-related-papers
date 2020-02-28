@@ -194,7 +194,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
-- [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/pdf/1909.10481.pdf) [[Github (original)]](https://github.com/CZWin32768/XNLG)
+- [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/pdf/1909.10481.pdf) (AAAI2020) [[Github (original)]](https://github.com/CZWin32768/XNLG)
 - [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345) (EMNLP2019) [[github (original)](https://github.com/nlpyang/PreSumm)] [[github (huggingface)](https://github.com/huggingface/transformers/tree/master/examples/summarization)]
 - [Multi-stage Pretraining for Abstractive Summarization](https://arxiv.org/abs/1909.10599)
 - [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
