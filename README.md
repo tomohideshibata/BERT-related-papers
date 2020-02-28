@@ -209,7 +209,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
 - [ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation](https://arxiv.org/abs/2001.11314)
-- [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/pdf/1909.10481.pdf) (AAAI2020) [[github](https://github.com/CZWin32768/XNLG)]
+- [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/abs/1909.10481) (AAAI2020) [[github](https://github.com/CZWin32768/XNLG)]
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
@@ -264,7 +264,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 ## Inside BERT
-- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698) (ACL2019 WS)
 - [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284) (ACL2019 WS)
@@ -282,6 +281,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593) (EMNLP2019)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
+- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations](https://arxiv.org/abs/1909.04925) (CIKM2019)
 - [Whatcha lookin' at? DeepLIFTing BERT's Attention in Question Answering](https://arxiv.org/abs/1910.06431)
