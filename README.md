@@ -166,6 +166,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Natural Language Inference with a Pretrained Parser](https://arxiv.org/abs/1909.08217)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
+- [Evaluating BERT for natural language inference: A case study on the CommitmentBank](https://www.aclweb.org/anthology/D19-1630/) (EMNLP2019)
 ### Commonsense
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937) (NAACL2019)
 - [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) (ACL2019) [[website](https://rowanzellers.com/hellaswag/)]
