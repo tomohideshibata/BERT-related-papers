@@ -175,10 +175,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Informing Unsupervised Pretraining with External Linguistic Knowledge](https://arxiv.org/abs/1909.02339)
 - [Commonsense Knowledge + BERT for Level 2 Reading Comprehension Ability Test](https://arxiv.org/abs/1909.03415)
 - [BIG MOOD: Relating Transformers to Explicit Commonsense Knowledge](https://arxiv.org/abs/1910.07713)
+- [Commonsense Knowledge Mining from Pretrained Models](https://arxiv.org/abs/1909.00505) (EMNLP2019)
 - [Do Massively Pretrained Language Models Make Better Storytellers?](https://arxiv.org/abs/1909.10705) (CoNLL2019)
 - [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/abs/1911.11641v1) (AAAI2020)
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024)
-- [Commonsense Knowledge Mining from Pretrained Models](https://arxiv.org/abs/2002.12327) (EMNLP 2019)
 ### Extractive summarization
 - [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/abs/1905.06566) (ACL2019)
 - [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
