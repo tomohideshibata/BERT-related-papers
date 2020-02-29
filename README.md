@@ -124,6 +124,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://arxiv.org/abs/1910.00194)  (EMNLP2019)
 - [Using BERT for Word Sense Disambiguation](https://arxiv.org/abs/1909.08358)
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://www.aclweb.org/anthology/P19-1569.pdf) (ACL2019)
+- [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings](https://arxiv.org/abs/1909.10430) (KONVENS2019)
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
