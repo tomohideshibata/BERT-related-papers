@@ -5,6 +5,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Downstream task](#downstream-task)
 - [Generation](#generation)
 - [Modification (multi-task, masking strategy, etc.)](#modification-multi-task-masking-strategy-etc)
+- [Transformer variants](#transformer-variants)
 - [Probe](#probe)
 - [Inside BERT](#inside-bert)
 - [Multi-lingual](#multi-lingual)
@@ -251,6 +252,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437)
 ## Transformer variants
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL2019) [[github](https://github.com/kimiyoung/transformer-xl)]
+- [Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (ICML2019)
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR2020) [[github](https://github.com/google/trax/tree/master/trax/models/reformer)]
 - [Transformer on a Diet](https://arxiv.org/abs/2002.06170)
