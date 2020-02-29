@@ -230,6 +230,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [Blank Language Models](https://arxiv.org/abs/2002.03079)
+- [Efficient Training of BERT by Progressively Stacking](http://proceedings.mlr.press/v97/gong19a.html) (ICML2019) [[github](https://github.com/gonglinyuan/StackingBERT)]
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) [[github](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020)
