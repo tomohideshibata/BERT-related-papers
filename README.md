@@ -71,10 +71,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
 ### Analysis
 - [Fine-grained Information Status Classification Using Discourse Context-Aware Self-Attention](https://arxiv.org/abs/1908.04755)
-- [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
-- [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://arxiv.org/abs/1910.00194)  (EMNLP2019)
-- [Using BERT for Word Sense Disambiguation](https://arxiv.org/abs/1909.08358)
-- [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://www.aclweb.org/anthology/P19-1569.pdf) (ACL2019)
 - [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](https://arxiv.org/abs/1907.03750) (ACL2019) 
 - [BERT-based Lexical Substitution](https://www.aclweb.org/anthology/P19-1328) (ACL2019) 
 - [Assessing BERT’s Syntactic Abilities](https://arxiv.org/abs/1901.05287)
@@ -123,6 +119,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
 - [Ellipsis and Coreference Resolution as Question Answering](https://arxiv.org/abs/1908.11141)
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
+### Word sense disambiguation
+- [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
+- [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://arxiv.org/abs/1910.00194)  (EMNLP2019)
+- [Using BERT for Word Sense Disambiguation](https://arxiv.org/abs/1909.08358)
+- [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://www.aclweb.org/anthology/P19-1569.pdf) (ACL2019)
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
