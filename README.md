@@ -89,6 +89,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Rapid Adaptation of BERT for Information Extraction on Domain-Specific Business Documents](https://arxiv.org/abs/2002.01861)
 - [LAMBERT: Layout-Aware language Modeling using BERT for information extraction](https://arxiv.org/abs/2002.08087)
 - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840) (ECIR2020) [[github](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data)]
+- [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407)
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
