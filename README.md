@@ -184,6 +184,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BIG MOOD: Relating Transformers to Explicit Commonsense Knowledge](https://arxiv.org/abs/1910.07713)
 - [Commonsense Knowledge Mining from Pretrained Models](https://arxiv.org/abs/1909.00505) (EMNLP2019)
 - [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://arxiv.org/abs/1909.02151) (EMNLP2019)
+- [Cracking the Contextual Commonsense Code: Understanding Commonsense Reasoning Aptitude of Deep Contextual Representations](https://www.aclweb.org/anthology/D19-6001/) (EMNLP2019 WS)
 - [Do Massively Pretrained Language Models Make Better Storytellers?](https://arxiv.org/abs/1909.10705) (CoNLL2019)
 - [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/abs/1911.11641v1) (AAAI2020)
 - [Evaluating Commonsense in Pre-trained Language Models](https://arxiv.org/abs/1911.11931) (AAAI2020)
