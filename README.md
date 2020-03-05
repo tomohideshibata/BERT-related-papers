@@ -397,6 +397,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
 - [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
+- [Learning to Speak and Act in a Fantasy Text Adventure Game](https://www.aclweb.org/anthology/D19-1062/) (EMNLP2019)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
