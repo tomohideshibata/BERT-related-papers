@@ -391,6 +391,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 ## Misc.
+- [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](https://arxiv.org/abs/2003.02249) [[github](https://github.com/nyu-mll/jiant/)]
 - [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
 - [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987) (ACL2019 WS)
