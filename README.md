@@ -400,6 +400,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
 - [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
+- [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
 - [Learning to Speak and Act in a Fantasy Text Adventure Game](https://www.aclweb.org/anthology/D19-1062/) (EMNLP2019)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
