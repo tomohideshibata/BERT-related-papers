@@ -155,6 +155,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814)
 - [Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://www.aclweb.org/anthology/K19-1063/) (CoNLL2019)
 - [Improving Entity Linking by Modeling Latent Entity Type Information](https://arxiv.org/abs/2001.01447) (AAAI2020)
+- [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
 ### Text classification
