@@ -164,7 +164,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Enriching BERT with Knowledge Graph Embeddings for Document Classification](https://arxiv.org/abs/1909.08402)
 - [Classification and Clustering of Arguments with Contextualized Word Embeddings](https://arxiv.org/abs/1906.09821) (ACL2019)
 - [BERT for Evidence Retrieval and Claim Verification](https://arxiv.org/abs/1910.02655)
-- [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 - [Stacked DeBERT: All Attention in Incomplete Data for Text Classification](https://arxiv.org/abs/2001.00137)
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
@@ -401,6 +400,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
 - [Learning to Speak and Act in a Fantasy Text Adventure Game](https://www.aclweb.org/anthology/D19-1062/) (EMNLP2019)
+- [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
+- [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
