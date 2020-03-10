@@ -242,7 +242,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Efficient Training of BERT by Progressively Stacking](http://proceedings.mlr.press/v97/gong19a.html) (ICML2019) [[github](https://github.com/gonglinyuan/StackingBERT)]
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) [[github](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
-- [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020)
+- [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
 - [KERMIT: Generative Insertion-Based Modeling for Sequences](https://arxiv.org/abs/1906.01604)
 - [DisSent: Sentence Representation Learning from Explicit Discourse Relations](https://arxiv.org/abs/1710.04334) (ACL2019)
