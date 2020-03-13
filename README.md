@@ -207,6 +207,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)            
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
+- [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
 - [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345) (EMNLP2019) [[github (original)](https://github.com/nlpyang/PreSumm)] [[github (huggingface)](https://github.com/huggingface/transformers/tree/master/examples/summarization)]
 - [Multi-stage Pretraining for Abstractive Summarization](https://arxiv.org/abs/1909.10599)
