@@ -124,6 +124,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
 - [Ellipsis and Coreference Resolution as Question Answering](https://arxiv.org/abs/1908.11141)
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
+- [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
 ### Word sense disambiguation
 - [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
 - [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://arxiv.org/abs/1910.00194)  (EMNLP2019)
