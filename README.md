@@ -432,3 +432,4 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 - [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
 - [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
+- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
