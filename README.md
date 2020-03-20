@@ -272,12 +272,17 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437)
 ## Transformer variants
+- [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL2019) [[github](https://github.com/kimiyoung/transformer-xl)]
+- [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
+- [Adaptively Sparse Transformers](https://arxiv.org/abs/1909.00015) (EMNLP2019)
 - [Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (ICML2019)
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR2020) [[github](https://github.com/google/trax/tree/master/trax/models/reformer)]
 - [GRET: Global Representation Enhanced Transformer](https://arxiv.org/abs/2002.10101) (AAAI2020)
 - [Transformer on a Diet](https://arxiv.org/abs/2002.06170) [[github](https://github.com/cgraywang/transformer-on-diet)]
+- [Efficient Content-Based Sparse Attention with Routing Transformers](https://openreview.net/forum?id=B1gjs6EtDr)
+- [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
