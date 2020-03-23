@@ -2,6 +2,7 @@
 This is a list of BERT-related papers. Any feedback is welcome.
 
 ## Table of Contents
+- [Surver paper](#survey-paper)
 - [Downstream task](#downstream-task)
 - [Generation](#generation)
 - [Quality evaluator](#quality-evaluator)
@@ -15,6 +16,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-modal](#multi-modal)
 - [Model compression](#model-compression)
 - [Misc.](#misc)
+
+## Survey paper
+- [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
+- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
+- [A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278)
 
 ## Downstream task
 ### QA, MC, Dialogue
@@ -431,5 +437,3 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
 - [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 - [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
-- [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
-- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
