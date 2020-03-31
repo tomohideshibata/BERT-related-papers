@@ -176,6 +176,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Classification and Clustering of Arguments with Contextualized Word Embeddings](https://arxiv.org/abs/1906.09821) (ACL2019)
 - [BERT for Evidence Retrieval and Claim Verification](https://arxiv.org/abs/1910.02655)
 - [Stacked DeBERT: All Attention in Incomplete Data for Text Classification](https://arxiv.org/abs/2001.00137)
+- [Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data](https://arxiv.org/abs/2003.11563)
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
