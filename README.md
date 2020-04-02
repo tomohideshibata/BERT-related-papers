@@ -98,6 +98,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840) (ECIR2020) [[github](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data)]
 - [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407)
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
+- [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning](https://arxiv.org/abs/1903.04190)
