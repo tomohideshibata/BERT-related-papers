@@ -207,6 +207,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/abs/1905.06566) (ACL2019)
 - [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
 - [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
+- [Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations](https://arxiv.org/abs/1910.11411) (EMNLP2019 WS)
 ### IR
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)
