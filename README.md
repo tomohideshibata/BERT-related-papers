@@ -170,6 +170,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
+- [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
