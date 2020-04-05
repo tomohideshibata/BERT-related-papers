@@ -52,6 +52,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BAS: An Answer Selection Method Using BERT Language Model](https://arxiv.org/abs/1911.01528)
 - [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118) (AAAI2020)
 - [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension](https://arxiv.org/abs/2002.00293)
+- [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/abs/2003.04808)
 - [A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848) (ACL2019 WS)
 - [FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension](https://arxiv.org/abs/1908.05117) (ACL2019 WS)
 - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412) (SIGIR2019)
