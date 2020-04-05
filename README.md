@@ -72,6 +72,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking](https://arxiv.org/abs/2002.00181)
 - [Goal-Oriented Multi-Task BERT-Based Dialogue State Tracker](https://arxiv.org/abs/2002.02450)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
+- [Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking](https://arxiv.org/abs/1912.08555) (ECIR2020)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
 ### Slot filling
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
