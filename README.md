@@ -358,6 +358,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fully Unsupervised Crosslingual Semantic Textual Similarity Metric Based on BERT for Identifying Parallel Data](https://www.aclweb.org/anthology/K19-1020/) (CoNLL2019)
 - [What the \[MASK\]? Making Sense of Language-Specific BERT Models](https://arxiv.org/abs/2003.02912)
 - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
+- [XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation](https://arxiv.org/abs/2004.01401)
 ## Other than English models
 - [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894)
 - [FlauBERT: Unsupervised Language Model Pre-training for French](https://arxiv.org/abs/1912.05372)
