@@ -366,7 +366,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [RobBERT: a Dutch RoBERTa-based Language Model](https://arxiv.org/abs/2001.06286)
 - [Adaptation of Deep Bidirectional Multilingual Transformers for Russian Language](https://arxiv.org/abs/1905.07213)
 - [AraBERT: Transformer-based Model for Arabic Language Understanding](https://arxiv.org/abs/2003.00104)
-- [PhoBERT: Pre-trained language models for Vietnamese](https://arxiv.org/abs/2003.00744) 
+- [PhoBERT: Pre-trained language models for Vietnamese](https://arxiv.org/abs/2003.00744)
+- [Give your Text Representation Models some Love: the Case for Basque](https://arxiv.org/abs/2004.00033) (LREC2020)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 ## Domain specific
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
