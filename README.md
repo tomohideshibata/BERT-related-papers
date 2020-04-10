@@ -259,6 +259,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
 - [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622) (EMNLP2019) [[github](https://github.com/AIPHES/emnlp19-moverscore)]
 - [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
+- [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696) (ACL2020)
 ## Modification (multi-task, masking strategy, etc.)
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) (ACL2019)
 - [The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/2002.07972)
