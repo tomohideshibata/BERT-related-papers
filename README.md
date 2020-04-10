@@ -29,6 +29,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/abs/1911.06137)
 - [BERTQA -- Attention on Steroids](https://arxiv.org/abs/1912.10435)
 - [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514) (EMNLP2019)
+- [Injecting Numerical Reasoning Skills into Language Models](https://arxiv.org/abs/2004.04487) (ACL2020)
 - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593)
 - [Multi-hop Question Answering via Reasoning Chains](https://arxiv.org/abs/1910.02610)
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://arxiv.org/abs/1911.00484)
