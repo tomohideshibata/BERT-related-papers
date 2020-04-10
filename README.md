@@ -186,6 +186,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Stacked DeBERT: All Attention in Incomplete Data for Text Classification](https://arxiv.org/abs/2001.00137)
 - [Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data](https://arxiv.org/abs/2003.11563)
 - [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970)
+- [Description Based Text Classification with Reinforcement Learning](https://arxiv.org/abs/2002.03067)
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
