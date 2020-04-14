@@ -451,6 +451,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
 - [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124)
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
+- [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 ## Misc.
