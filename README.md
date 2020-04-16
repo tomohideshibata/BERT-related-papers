@@ -169,6 +169,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://arxiv.org/abs/1909.03546) (EMNLP2019)
 - [Fine-tuning BERT for Joint Entity and Relation Extraction in Chinese Medical Text](https://arxiv.org/abs/1908.07721)
 - [Downstream Model Design of Pre-trained Language Model for Relation Extraction Task](https://arxiv.org/abs/2004.03786)
+- [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
