@@ -170,7 +170,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://arxiv.org/abs/1909.03546) (EMNLP2019)
 - [Fine-tuning BERT for Joint Entity and Relation Extraction in Chinese Medical Text](https://arxiv.org/abs/1908.07721)
 - [Downstream Model Design of Pre-trained Language Model for Relation Extraction Task](https://arxiv.org/abs/2004.03786)
+- [Efficient long-distance relation extraction with DG-SpanBERT](https://arxiv.org/abs/2004.03636)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
+- [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
@@ -221,11 +223,13 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/abs/1911.11641v1) (AAAI2020)
 - [Evaluating Commonsense in Pre-trained Language Models](https://arxiv.org/abs/1911.11931) (AAAI2020)
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024)
+- [Unsupervised Commonsense Question Answering with Self-Talk](https://arxiv.org/abs/2004.05483)
 - [Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899) (CogSci2019)
 ### Extractive summarization
 - [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/abs/1905.06566) (ACL2019)
 - [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
 - [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
+- [AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization](https://arxiv.org/abs/2004.06176)
 - [Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations](https://arxiv.org/abs/1910.11411) (EMNLP2019 WS)
 ### IR
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
