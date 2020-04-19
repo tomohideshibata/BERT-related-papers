@@ -44,6 +44,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://arxiv.org/abs/1908.04942) (ICLR2020)
 - [A Recurrent BERT-based Model for Question Generation](https://www.aclweb.org/anthology/D19-5821/) (EMNLP2019 WS)
 - [Unsupervised Question Decomposition for Question Answering](https://arxiv.org/abs/2002.09758) [[github](https://github.com/facebookresearch/UnsupervisedDecomposition)]
+- [Conversational Question Reformulation via Sequence-to-Sequence Architectures and Pretrained Language Models](https://arxiv.org/abs/2004.01909)
 - [Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds](https://arxiv.org/abs/1911.02365)
 - [Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension](https://www.aclweb.org/anthology/papers/P/P19/P19-1226/) (ACL2019)
 - [Incorporating Relation Knowledge into Commonsense Reading Comprehension with Multi-task Learning](https://arxiv.org/abs/1908.04530) (CIKM2019)
