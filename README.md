@@ -430,6 +430,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PubMedQA: A Dataset for Biomedical Research Question Answering](https://arxiv.org/abs/1909.06146) (EMNLP2019)
 - [Pre-trained Language Model for Biomedical Question Answering](https://arxiv.org/abs/1909.08229)
 - [How to Pre-Train Your Model? Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/abs/1911.00712)
+- [On Adversarial Examples for Biomedical NLP Tasks](https://arxiv.org/abs/2004.11157)
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
@@ -505,6 +506,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
+- [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
 - [The Right Tool for the Job: Matching Model and Instance Complexities](https://arxiv.org/abs/2004.07453) (ACL2020) [[github](https://github.com/allenai/sledgehammer)]
 - [Unsupervised Domain Clusters in Pretrained Language Models](https://arxiv.org/abs/2004.02105) (ACL2020)
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
