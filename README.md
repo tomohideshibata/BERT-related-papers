@@ -135,6 +135,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Robust Named Entity Recognition with Truecasing Pretraining](https://arxiv.org/abs/1912.07095) (AAAI2020)
 - [LTP: A New Active Learning Strategy for Bert-CRF Based Named Entity Recognition](https://arxiv.org/abs/2001.02524)
 - [Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve](https://arxiv.org/abs/2004.04564)
+- [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://arxiv.org/abs/2004.12440) (ACL2020)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
