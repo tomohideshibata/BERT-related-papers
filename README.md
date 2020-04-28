@@ -346,6 +346,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR2020) [[github](https://github.com/google/trax/tree/master/trax/models/reformer)]
 - [GRET: Global Representation Enhanced Transformer](https://arxiv.org/abs/2002.10101) (AAAI2020)
 - [Transformer on a Diet](https://arxiv.org/abs/2002.06170) [[github](https://github.com/cgraywang/transformer-on-diet)]
+- [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) [[github](https://github.com/mit-han-lab/lite-transformer)] (ICLR2020)
 - [Efficient Content-Based Sparse Attention with Routing Transformers](https://openreview.net/forum?id=B1gjs6EtDr)
 - [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) [[github](https://github.com/allenai/longformer)]
