@@ -513,6 +513,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
+- [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100) (ACL2020) [[github](https://github.com/camelop/NLP-Robustness)]
 - [The Right Tool for the Job: Matching Model and Instance Complexities](https://arxiv.org/abs/2004.07453) (ACL2020) [[github](https://github.com/allenai/sledgehammer)]
 - [Unsupervised Domain Clusters in Pretrained Language Models](https://arxiv.org/abs/2004.02105) (ACL2020)
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
