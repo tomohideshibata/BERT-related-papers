@@ -90,6 +90,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
+- [Data Augmentation for Spoken Language Understanding via Pretrained Models](https://arxiv.org/abs/2004.13952)
 ### Analysis
 - [Fine-grained Information Status Classification Using Discourse Context-Aware Self-Attention](https://arxiv.org/abs/1908.04755)
 - [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](https://arxiv.org/abs/1907.03750) (ACL2019) 
