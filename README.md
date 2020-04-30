@@ -224,6 +224,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference](https://arxiv.org/abs/2003.02756) (LREC2020)
 - [Evaluating BERT for natural language inference: A case study on the CommitmentBank](https://www.aclweb.org/anthology/D19-1630/) (EMNLP2019)
 - [TTTTTackling WinoGrande Schemas](https://arxiv.org/abs/2003.08380)
+- [A Review of Winograd Schema Challenge Datasets and Approaches](https://arxiv.org/abs/2004.13831)
 ### Commonsense
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937) (NAACL2019)
 - [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) (ACL2019) [[website](https://rowanzellers.com/hellaswag/)]
