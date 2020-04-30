@@ -418,6 +418,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
 - [XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation](https://arxiv.org/abs/2004.01401)
 - [A Systematic Analysis of Morphological Content in BERT Models for Multiple Languages](https://arxiv.org/abs/2004.03032)
+- [Extending Multilingual BERT to Low-Resource Languages](https://arxiv.org/abs/2004.13640)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
 ## Other than English models
