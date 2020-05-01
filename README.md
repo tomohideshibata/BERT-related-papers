@@ -340,6 +340,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
+- [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437)
 ## Transformer variants
 - [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
