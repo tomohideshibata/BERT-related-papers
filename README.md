@@ -425,6 +425,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Systematic Analysis of Morphological Content in BERT Models for Multiple Languages](https://arxiv.org/abs/2004.03032)
 - [Extending Multilingual BERT to Low-Resource Languages](https://arxiv.org/abs/2004.13640)
 - [Learning Better Universal Representations from Pre-trained Contextualized Language Models](https://arxiv.org/abs/2004.13947)
+- [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://arxiv.org/abs/2004.14958) (ACL2020) 
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
 - [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516)
