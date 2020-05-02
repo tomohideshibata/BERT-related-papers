@@ -36,6 +36,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-hop Question Answering via Reasoning Chains](https://arxiv.org/abs/1910.02610)
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://arxiv.org/abs/1911.00484)
 - [Multi-step Entity-centric Information Retrieval for Multi-Hop Question Answering](https://arxiv.org/abs/1909.07598) (EMNLP2019 WS)
+- [Fine-tuning Multi-hop Question Answering with Hierarchical Graph Network](https://arxiv.org/abs/2004.13821)
 - [HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data](https://arxiv.org/abs/2004.07347)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718) (NAALC2019)
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) (ACL2019)
