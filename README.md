@@ -223,6 +223,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition](https://arxiv.org/abs/2004.03066)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
+- [Syntactic Data Augmentation Increases Robustness to Inference Heuristics](https://arxiv.org/abs/2004.11999) (ACL2020)
 - [HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference](https://arxiv.org/abs/2003.02756) (LREC2020)
 - [Evaluating BERT for natural language inference: A case study on the CommitmentBank](https://www.aclweb.org/anthology/D19-1630/) (EMNLP2019)
 - [TTTTTackling WinoGrande Schemas](https://arxiv.org/abs/2003.08380)
