@@ -480,6 +480,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) [[github](https://github.com/LuoweiZhou/VLP)]
 - [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379)
+- [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278)
 - [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530) (ICLR2020)
 - [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066)
 - [UNITER: Learning UNiversal Image-TExt Representations](https://arxiv.org/abs/1909.11740)
