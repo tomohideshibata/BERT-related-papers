@@ -292,6 +292,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/abs/1909.10481) (AAAI2020) [[github](https://github.com/CZWin32768/XNLG)]
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931)
+- [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
