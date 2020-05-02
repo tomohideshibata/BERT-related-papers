@@ -268,7 +268,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CEDR: Contextualized Embeddings for Document Ranking](https://arxiv.org/abs/1904.07094) (SIGIR2019)
 - [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217) (SIGIR2019)
 - [FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance](https://arxiv.org/abs/1905.02851) (SIGIR2019)
-- [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)            
+- [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
+- [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
