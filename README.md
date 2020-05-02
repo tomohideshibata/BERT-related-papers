@@ -399,6 +399,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
+- [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
