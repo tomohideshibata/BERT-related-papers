@@ -2,7 +2,7 @@
 This is a list of BERT-related papers. Any feedback is welcome.
 
 ## Table of Contents
-- [Surver paper](#survey-paper)
+- [Survey paper](#survey-paper)
 - [Downstream task](#downstream-task)
 - [Generation](#generation)
 - [Quality evaluator](#quality-evaluator)
