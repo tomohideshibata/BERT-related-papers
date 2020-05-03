@@ -124,6 +124,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
 - [Domain Adaptation with BERT-based Domain Classification and Data Selection](https://www.aclweb.org/anthology/D19-6109/) (EMNLP2019 WS)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
+- [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
