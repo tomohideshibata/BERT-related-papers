@@ -385,6 +385,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Quantity doesn't buy quality syntax with neural language models](https://arxiv.org/abs/1909.00111) (EMNLP2019)
 - [Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction](https://openreview.net/forum?id=H1xPR3NtPB) (ICLR2020)
 - [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
+- [Do Neural Language Models Show Preferences for Syntactic Formalisms?](https://arxiv.org/abs/2004.14096) (ACL2020)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 ## Inside BERT
