@@ -401,6 +401,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Attention Interpretability Across NLP Tasks](https://arxiv.org/abs/1909.11218)
 - [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593) (EMNLP2019)
 - [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
+- [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
