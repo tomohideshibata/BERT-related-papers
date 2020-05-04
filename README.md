@@ -117,6 +117,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [xSLUE: A Benchmark and Analysis Platform for Cross-Style Language Understanding and Evaluation](https://arxiv.org/abs/1911.03663)
 - [TabFact: A Large-scale Dataset for Table-based Fact Verification](https://arxiv.org/abs/1909.02164) (ICLR2020)
 - [Rapid Adaptation of BERT for Information Extraction on Domain-Specific Business Documents](https://arxiv.org/abs/2002.01861)
+- [A Focused Study to Compare Arabic Pre-training Models on Newswire IE Tasks](https://arxiv.org/abs/2004.14519)
 - [LAMBERT: Layout-Aware language Modeling using BERT for information extraction](https://arxiv.org/abs/2002.08087)
 - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840) (ECIR2020) [[github](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data)]
 - [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407)
@@ -360,6 +361,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SBERT-WK: A Sentence Embedding Method By Dissecting BERT-based Word Models](https://arxiv.org/abs/2002.06652)
 - [Universal Text Representation from BERT: An Empirical Study](https://arxiv.org/abs/1910.07973)
 - [Symmetric Regularization based BERT for Pair-wise Semantic Reasoning](https://arxiv.org/abs/1909.03405)
+- [Beyond 512 Tokens: Siamese Multi-depth Transformer-based Hierarchical Encoder for Document Matching](https://arxiv.org/abs/2004.12297)
 - [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
 - [Improving Pre-Trained Multilingual Models with Vocabulary Expansion](https://arxiv.org/abs/1909.12440) (CoNLL2019)
 - [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720)
@@ -399,6 +401,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
 - [Do Neural Language Models Show Preferences for Syntactic Formalisms?](https://arxiv.org/abs/2004.14096) (ACL2020)
 - [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/abs/2004.14786) (ACL2020)
+- [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 ## Inside BERT
@@ -459,6 +462,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Universal Dependencies according to BERT: both more specific and more general](https://arxiv.org/abs/2004.14620)
 - [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://arxiv.org/abs/2004.14958) (ACL2020) 
 - [Identifying Necessary Elements for BERT's Multilinguality](https://arxiv.org/abs/2005.00396)
+- [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer](https://arxiv.org/abs/2005.00052)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
 - [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516)
