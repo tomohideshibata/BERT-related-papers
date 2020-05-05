@@ -436,6 +436,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Whatcha lookin' at? DeepLIFTing BERT's Attention in Question Answering](https://arxiv.org/abs/1910.06431)
 - [What does BERT Learn from Multiple-Choice Reading Comprehension Datasets?](https://arxiv.org/abs/1910.12391)
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
+- [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
 ## Multi-lingual
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
@@ -466,6 +467,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://arxiv.org/abs/2004.14958) (ACL2020) 
 - [Identifying Necessary Elements for BERT's Multilinguality](https://arxiv.org/abs/2005.00396)
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer](https://arxiv.org/abs/2005.00052)
+- [From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers](https://arxiv.org/abs/2005.00633)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
 - [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516)
@@ -584,6 +586,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Glyce: Glyph-vectors for Chinese Character Representations](https://arxiv.org/abs/1901.10125)
 - [Back to the Future -- Sequential Alignment of Text Representations](https://arxiv.org/abs/1909.03464)
 - [Improving Cuneiform Language Identification with BERT](https://www.aclweb.org/anthology/papers/W/W19/W19-1402/) (NAACL2019 WS)
+- [Generating Derivational Morphology with BERT](https://arxiv.org/abs/2005.00672)
 - [BERT has a Moral Compass: Improvements of ethical and moral values of machines](https://arxiv.org/abs/1912.05238)
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
 - [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
