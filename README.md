@@ -106,9 +106,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
 - [LIMIT-BERT : Linguistic Informed Multi-Task BERT](https://arxiv.org/abs/1910.14296)
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
-- [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
-- [Towards Minimal Supervision BERT-based Grammar Error Correction](https://arxiv.org/abs/2001.03521)
-- [Learning to combine Grammatical Error Corrections](https://arxiv.org/abs/1906.03897) (EMNLP2019 WS)
 - [BERT-Based Arabic Social Media Author Profiling](https://arxiv.org/abs/1909.04181)
 - [Sentence-Level BERT and Multi-Task Learning of Age and Gender in Social Media](https://arxiv.org/abs/1911.00637)
 - [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)
@@ -270,6 +267,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
 - [AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization](https://arxiv.org/abs/2004.06176)
 - [Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations](https://arxiv.org/abs/1910.11411) (EMNLP2019 WS)
+### Grammatical error correction
+- [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
+- [Towards Minimal Supervision BERT-based Grammar Error Correction](https://arxiv.org/abs/2001.03521)
+- [Learning to combine Grammatical Error Corrections](https://arxiv.org/abs/1906.03897) (EMNLP2019 WS)
+- [Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction](https://arxiv.org/abs/2005.00987) (ACL2020)
 ### IR
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)
