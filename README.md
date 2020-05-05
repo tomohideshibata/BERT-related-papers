@@ -127,6 +127,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Domain Adaptation with BERT-based Domain Classification and Data Selection](https://www.aclweb.org/anthology/D19-6109/) (EMNLP2019 WS)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
+- [Cross-lingual Zero- and Few-shot Hate Speech Detection Utilising Frozen Transformer Language Models and AXEL](https://arxiv.org/abs/2004.13850)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
@@ -550,6 +551,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
+- [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
@@ -566,6 +568,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
+- [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984)
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
 - [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100) (ACL2020) [[github](https://github.com/camelop/NLP-Robustness)]
 - [The Right Tool for the Job: Matching Model and Instance Complexities](https://arxiv.org/abs/2004.07453) (ACL2020) [[github](https://github.com/allenai/sledgehammer)]
