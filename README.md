@@ -86,6 +86,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking](https://arxiv.org/abs/2002.00181)
 - [Goal-Oriented Multi-Task BERT-Based Dialogue State Tracker](https://arxiv.org/abs/2002.02450)
 - [Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems](https://arxiv.org/abs/2004.10663)
+- [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891) (ACL2020)
 - [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 - [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/abs/2004.03588)
@@ -239,6 +240,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Syntactic Data Augmentation Increases Robustness to Inference Heuristics](https://arxiv.org/abs/2004.11999) (ACL2020)
 - [HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference](https://arxiv.org/abs/2003.02756) (LREC2020)
 - [Evaluating BERT for natural language inference: A case study on the CommitmentBank](https://www.aclweb.org/anthology/D19-1630/) (EMNLP2019)
+- [Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?](https://arxiv.org/abs/2004.14839) (ACL2020)
 - [Collecting Entailment Data for Pretraining: New Protocols and Negative Results](https://arxiv.org/abs/2004.11997) 
 ### Commonsense
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937) (NAACL2019)
@@ -259,6 +261,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024)
 - [Unsupervised Commonsense Question Answering with Self-Talk](https://arxiv.org/abs/2004.05483)
 - [G-DAUG: Generative Data Augmentation for Commonsense Reasoning](https://arxiv.org/abs/2004.11546)
+- [Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.00669) (ACL2020)
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://ducdauge.github.io/files/xcopa.pdf) [[github](https://github.com/cambridgeltl/xcopa)] 
 - [Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899) (CogSci2019)
 ### Extractive summarization
@@ -496,6 +499,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
+- [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) [[github](https://github.com/xiangyue9607/CliniRC)] (ACL2020)
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
@@ -556,6 +560,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
+- [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
+- [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
@@ -565,6 +571,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
 - [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987) (ACL2019 WS)
 - [Learning to Speak and Act in a Fantasy Text Adventure Game](https://www.aclweb.org/anthology/D19-1062/) (EMNLP2019)
+- [A Two-Stage Masked LM Method for Term Set Expansion](https://arxiv.org/abs/2005.01063) (ACL2020)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
