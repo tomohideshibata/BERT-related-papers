@@ -395,6 +395,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) [[github](https://github.com/allenai/longformer)]
 - [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864) (ACL2020)
 - [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://arxiv.org/abs/2004.08178)
+- [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
+- [Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change](https://arxiv.org/abs/2005.02008)
 - [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
@@ -432,6 +434,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593) (EMNLP2019)
 - [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
 - [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
+- [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
