@@ -121,6 +121,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407)
 - [Keyphrase Prediction With Pre-trained Language Model](https://arxiv.org/abs/2004.10462)
 - [Joint Keyphrase Chunking and Salience Ranking with BERT](https://arxiv.org/abs/2004.13639)
+- [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/abs/1911.03822) (ACL2020) [[github](https://github.com/neulab/cmu-multinlp)]
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
 - [Domain Adaptation with BERT-based Domain Classification and Data Selection](https://www.aclweb.org/anthology/D19-6109/) (EMNLP2019 WS)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
