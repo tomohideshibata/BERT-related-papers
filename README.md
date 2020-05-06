@@ -127,6 +127,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
 - [Cross-lingual Zero- and Few-shot Hate Speech Detection Utilising Frozen Transformer Language Models and AXEL](https://arxiv.org/abs/2004.13850)
+- [Same Side Stance Classification Task: Facilitating Argument Stance Classification by Fine-tuning a BERT Model](https://arxiv.org/abs/2004.11163)
+- [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
@@ -440,6 +442,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
+- [How fine can fine-tuning be? Learning efficient language models](https://arxiv.org/abs/2004.14129) (AISTATS2020)
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
