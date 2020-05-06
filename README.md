@@ -141,6 +141,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Parsing as Pretraining](https://arxiv.org/abs/2002.01685) (AAAI2020)
 - [Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing](https://arxiv.org/abs/1909.06775)
 - [Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement](https://arxiv.org/abs/2003.13118)
+- [pyBART: Evidence-based Syntactic Transformations for IE](https://arxiv.org/abs/2005.01306) [[github](https://allenai.github.io/pybart/)] 
 - [Named Entity Recognition -- Is there a glass ceiling?](https://arxiv.org/abs/1910.02403) (CoNLL2019)
 - [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476)
 - [Training Compact Models for Low Resource Entity Tagging using Pre-trained Language Models](https://arxiv.org/abs/1910.06294)
