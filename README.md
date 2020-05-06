@@ -196,6 +196,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DARE: Data Augmented Relation Extraction with GPT-2](https://arxiv.org/abs/2004.13845)
 - [Distantly-Supervised Neural Relation Extraction with Side Information using BERT](https://arxiv.org/abs/2004.14443)
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
+- [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
 - [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing](https://arxiv.org/abs/2004.14577)
@@ -408,6 +409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
 - [Do Neural Language Models Show Preferences for Syntactic Formalisms?](https://arxiv.org/abs/2004.14096) (ACL2020)
 - [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/abs/2004.14786) (ACL2020)
+- [Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?](https://arxiv.org/abs/2005.00628) (ACL2020)
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
