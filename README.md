@@ -61,6 +61,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Robust Reading Comprehension with Linguistic Constraints via Posterior Regularization](https://arxiv.org/abs/1911.06948)
 - [BAS: An Answer Selection Method Using BERT Language Model](https://arxiv.org/abs/1911.01528)
 - [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118) (AAAI2020)
+- [The Cascade Transformer: an Application for Efficient Answer Sentence Selection](https://arxiv.org/abs/2005.02534) (ACL2020)
 - [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension](https://arxiv.org/abs/2002.00293)
 - [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004)
 - [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/abs/2003.04808)
