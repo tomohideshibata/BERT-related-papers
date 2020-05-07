@@ -510,6 +510,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-trained Language Model for Biomedical Question Answering](https://arxiv.org/abs/1909.08229)
 - [How to Pre-Train Your Model? Comparison of Different Pre-Training Models for Biomedical Question Answering](https://arxiv.org/abs/1911.00712)
 - [On Adversarial Examples for Biomedical NLP Tasks](https://arxiv.org/abs/2004.11157)
+- [An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining](https://arxiv.org/abs/2005.02799) (BioNLP2020)
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
