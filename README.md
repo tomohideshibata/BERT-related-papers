@@ -303,6 +303,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011) [[github](https://github.com/allenai/scitldr)]
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (ICML2019) [[github](https://github.com/microsoft/MASS)], [[github](https://github.com/microsoft/MASS/tree/master/MASS-fairseq)]
+- [JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation](https://arxiv.org/abs/2005.03361) (LREC2020)
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) [[github](https://github.com/microsoft/unilm)] (NeurIPS2019)
 - [UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](https://arxiv.org/abs/2002.12804) [[github](https://github.com/microsoft/unilm)]
 - [ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training](https://arxiv.org/abs/2001.04063)
