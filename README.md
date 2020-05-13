@@ -187,6 +187,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adversarial Training for Aspect-Based Sentiment Analysis with BERT](https://arxiv.org/abs/2001.11316)
 - [Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference](https://arxiv.org/abs/2002.04815)
 - [DomBERT: Domain-oriented Language Model for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.13816)
+- [SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics](https://arxiv.org/abs/2005.04114) (ACL2020)
 ### Relation extraction
 - [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158) (ACL2019)
 - [BERT-Based Multi-Head Selection for Joint Entity-Relation Extraction](https://arxiv.org/abs/1908.05908) (NLPCC2019)
@@ -408,6 +409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
+- [Finding Universal Grammatical Relations in Multilingual BERT](https://arxiv.org/abs/2005.04511) (ACL2020)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
 - [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (*SEM2019)
 - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950) (ACL2019)
@@ -420,6 +422,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Do Neural Language Models Show Preferences for Syntactic Formalisms?](https://arxiv.org/abs/2004.14096) (ACL2020)
 - [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/abs/2004.14786) (ACL2020)
 - [Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?](https://arxiv.org/abs/2005.00628) (ACL2020)
+- [Probing Linguistic Systematicity](https://arxiv.org/abs/2005.04315) (ACL2020)
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
