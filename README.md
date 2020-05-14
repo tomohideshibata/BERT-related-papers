@@ -373,6 +373,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/abs/1911.06136)
 - [Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
+- [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
@@ -605,6 +606,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
 - [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984)
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
+- [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/abs/2005.05683) (ACL2020)
 - [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100) (ACL2020) [[github](https://github.com/camelop/NLP-Robustness)]
 - [The Right Tool for the Job: Matching Model and Instance Complexities](https://arxiv.org/abs/2004.07453) (ACL2020) [[github](https://github.com/allenai/sledgehammer)]
 - [Unsupervised Domain Clusters in Pretrained Language Models](https://arxiv.org/abs/2004.02105) (ACL2020)
