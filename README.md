@@ -24,6 +24,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 
 ## Downstream task
 ### QA, MC, Dialogue
+- [Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond](https://arxiv.org/abs/2005.06249)
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
 - [MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/abs/1905.13453) (ACL2019)
 - [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/abs/1911.06137)
