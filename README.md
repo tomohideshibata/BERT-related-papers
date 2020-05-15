@@ -241,6 +241,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/abs/1907.10641) (AAAI2020)
 - [TTTTTackling WinoGrande Schemas](https://arxiv.org/abs/2003.08380)
 - [WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge](https://arxiv.org/abs/2005.05763) (ACL2020)
+- [The Sensitivity of Language Models and Humans to Winograd Schema Perturbations](https://arxiv.org/abs/2005.01348) (ACL2020)
 - [A Review of Winograd Schema Challenge Datasets and Approaches](https://arxiv.org/abs/2004.13831)
 - [Improving Natural Language Inference with a Pretrained Parser](https://arxiv.org/abs/1909.08217)
 - [Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition](https://arxiv.org/abs/2004.03066)
