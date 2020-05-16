@@ -336,6 +336,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622) (EMNLP2019) [[github](https://github.com/AIPHES/emnlp19-moverscore)]
 - [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
 - [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696) (ACL2020)
+- [Masked Language Model Scoring](https://arxiv.org/abs/1910.14659) (ACL2020)
 ## Modification (multi-task, masking strategy, etc.)
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) (ACL2019)
 - [The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/2002.07972)
@@ -355,6 +356,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [Blank Language Models](https://arxiv.org/abs/2002.03079)
+- [Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339) (ACL2020)
 - [Efficient Training of BERT by Progressively Stacking](http://proceedings.mlr.press/v97/gong19a.html) (ICML2019) [[github](https://github.com/gonglinyuan/StackingBERT)]
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) [[github](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
@@ -584,6 +586,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
 - [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124)
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
+- [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
