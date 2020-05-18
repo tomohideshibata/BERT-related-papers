@@ -211,6 +211,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
+- [How Context Affects Language Models' Factual Predictions](https://openreview.net/forum?id=025X0zPfn) (AKBC2020)
 - [Inducing Relational Knowledge from BERT](https://arxiv.org/abs/1911.12753) (AAAI2020)
 - [Latent Relation Language Models](https://arxiv.org/abs/1908.07690) (AAAI2020)
 - [Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model](https://openreview.net/forum?id=BJlzm64tDH) (ICLR2020)
