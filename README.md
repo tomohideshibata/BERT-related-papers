@@ -285,6 +285,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Minimal Supervision BERT-based Grammar Error Correction](https://arxiv.org/abs/2001.03521)
 - [Learning to combine Grammatical Error Corrections](https://arxiv.org/abs/1906.03897) (EMNLP2019 WS)
 - [Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction](https://arxiv.org/abs/2005.00987) (ACL2020)
+- [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) (ACL2020)
 ### IR
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)
@@ -541,6 +542,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contrastive Bidirectional Transformer for Temporal Representation Learning](https://arxiv.org/abs/1906.05743)
 - [M-BERT: Injecting Multimodal Information in the BERT Structure](https://arxiv.org/abs/1908.05787)
 - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490) (EMNLP2019)
+- [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) [[github](https://github.com/LuoweiZhou/VLP)]
@@ -576,7 +578,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WaLDORf: Wasteless Language-model Distillation On Reading-comprehension](https://arxiv.org/abs/1912.06638)
 - [Extreme Language Model Compression with Optimal Subwords and Shared Projections](https://arxiv.org/abs/1909.11687)
 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925)
-- [Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning](https://arxiv.org/abs/2002.08307)
+- [Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning](https://arxiv.org/abs/2002.08307) (ACL2020 SRW)
 - [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/abs/2002.10957)
 - [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://arxiv.org/abs/2002.11985)
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
