@@ -297,6 +297,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance](https://arxiv.org/abs/1905.02851) (SIGIR2019)
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 - [Learning-to-Rank with BERT in TF-Ranking](https://arxiv.org/abs/2004.08476)
+- [Transformer-Based Language Models for Similar Text Retrieval and Ranking](https://arxiv.org/abs/2005.04588)
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
@@ -586,6 +587,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
 - [Well-Read Students Learn Better: On the Importance of Pre-training Compact Models](https://arxiv.org/abs/1908.08962)
 - [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://arxiv.org/abs/2004.02984) (ACL2020)
+- [Distilling Knowledge from Pre-trained Language Models via Text Smoothing](https://arxiv.org/abs/2005.03848)
 - [DynaBERT: Dynamic BERT with Adaptive Width and Depth](https://arxiv.org/abs/2004.04037)
 - [Reducing Transformer Depth on Demand with Structured Dropout](https://arxiv.org/abs/1909.11556)
 - [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
