@@ -32,6 +32,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adversarial Augmentation Policy Search for Domain and Cross-Lingual Generalization in Reading Comprehension](https://arxiv.org/abs/2004.06076)
 - [Logic-Guided Data Augmentation and Regularization for Consistent Question Answering](https://arxiv.org/abs/2004.10157) (ACL2020)
 - [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514) (EMNLP2019)
+- [A Simple and Effective Model for Answering Multi-span Questions](https://arxiv.org/abs/1909.13375) [[github](https://github.com/eladsegal/tag-based-multi-span-extraction)]
 - [Injecting Numerical Reasoning Skills into Language Models](https://arxiv.org/abs/2004.04487) (ACL2020)
 - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593)
 - [Multi-hop Question Answering via Reasoning Chains](https://arxiv.org/abs/1910.02610)
@@ -574,7 +575,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 - [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) (EMNLP2019)
 - [Small and Practical BERT Models for Sequence Labeling](https://arxiv.org/abs/1909.00100) (EMNLP2019)
-- [Pruning a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351) [[github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)]
 - [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) (NeurIPS2019 WS) [[github](https://github.com/huggingface/transformers/tree/master/examples/distillation)]
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723) (AAAI2020)
@@ -597,6 +597,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
+- [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
