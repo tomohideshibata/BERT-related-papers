@@ -241,6 +241,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Description Based Text Classification with Reinforcement Learning](https://arxiv.org/abs/2002.03067)
 - [VGCN-BERT: Augmenting BERT with Graph Embedding for Text Classification](https://arxiv.org/abs/2004.05707)
 - [Towards Evaluating the Robustness of Chinese BERT Classifiers](https://arxiv.org/abs/2004.03742)
+- [COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter](https://arxiv.org/abs/2005.07503) [[github](https://github.com/digitalepidemiologylab/covid-twitter-bert)]
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
