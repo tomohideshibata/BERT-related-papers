@@ -183,6 +183,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Using BERT for Word Sense Disambiguation](https://arxiv.org/abs/1909.08358)
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://www.aclweb.org/anthology/P19-1569.pdf) (ACL2019)
 - [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings](https://arxiv.org/abs/1909.10430) (KONVENS2019)
+- [An Accurate Model for Predicting the (Graded) Effect of Context in Word Similarity Based on Bert](https://arxiv.org/abs/2005.01006)
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
@@ -401,6 +402,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
+- [Deepening Hidden Representations from Pre-trained Language Models](https://arxiv.org/abs/1911.01940)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
@@ -443,6 +445,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
+- [Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models](https://arxiv.org/abs/2005.00782)
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/abs/1905.09418) (ACL2019) [[github](https://github.com/lena-voita/the-story-of-heads)]
@@ -541,6 +544,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
 - [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) [[github](https://github.com/xiangyue9607/CliniRC)] (ACL2020)
+- [Detecting Adverse Drug Reactions from Twitter through Domain-Specific Preprocessing and BERT Ensembling](https://arxiv.org/abs/2005.06634)
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
@@ -620,6 +624,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Two-Stage Masked LM Method for Term Set Expansion](https://arxiv.org/abs/2005.01063) (ACL2020)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
+- [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
