@@ -466,6 +466,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
 - [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
+- [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
@@ -548,6 +549,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
+- [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200)
 ## Multi-modal
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265) (NeurIPS2019)
