@@ -31,6 +31,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERTQA -- Attention on Steroids](https://arxiv.org/abs/1912.10435)
 - [Adversarial Augmentation Policy Search for Domain and Cross-Lingual Generalization in Reading Comprehension](https://arxiv.org/abs/2004.06076)
 - [Logic-Guided Data Augmentation and Regularization for Consistent Question Answering](https://arxiv.org/abs/2004.10157) (ACL2020)
+- [UnifiedQA: Crossing Format Boundaries With a Single QA System](https://arxiv.org/abs/2005.00700)
 - [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514) (EMNLP2019)
 - [A Simple and Effective Model for Answering Multi-span Questions](https://arxiv.org/abs/1909.13375) [[github](https://github.com/eladsegal/tag-based-multi-span-extraction)]
 - [Injecting Numerical Reasoning Skills into Language Models](https://arxiv.org/abs/2004.04487) (ACL2020)
@@ -340,6 +341,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
+- [Text-to-Text Pre-Training for Data-to-Text Tasks](https://arxiv.org/abs/2005.10433)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
