@@ -412,6 +412,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
 - [Deepening Hidden Representations from Pre-trained Language Models](https://arxiv.org/abs/1911.01940)
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
+- [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
@@ -556,6 +557,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) [[github](https://github.com/xiangyue9607/CliniRC)] (ACL2020)
 - [Detecting Adverse Drug Reactions from Twitter through Domain-Specific Preprocessing and BERT Ensembling](https://arxiv.org/abs/2005.06634)
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
+- [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200)
