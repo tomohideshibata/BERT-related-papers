@@ -36,6 +36,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514) (EMNLP2019)
 - [A Simple and Effective Model for Answering Multi-span Questions](https://arxiv.org/abs/1909.13375) [[github](https://github.com/eladsegal/tag-based-multi-span-extraction)]
 - [Injecting Numerical Reasoning Skills into Language Models](https://arxiv.org/abs/2004.04487) (ACL2020)
+- [Towards Question Format Independent Numerical Reasoning: A Set of Prerequisite Tasks](https://arxiv.org/abs/2005.08516)
 - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593)
 - [Multi-hop Question Answering via Reasoning Chains](https://arxiv.org/abs/1910.02610)
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://arxiv.org/abs/1911.00484)
@@ -71,6 +72,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Support-BERT: Predicting Quality of Question-Answer Pairs in MSDN using Deep Bidirectional Transformer](https://arxiv.org/abs/2005.08294)
 - [Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension](https://arxiv.org/abs/2002.00293)
 - [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004)
+- [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
 - [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/abs/2003.04808)
 - [A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848) (ACL2019 WS)
 - [FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension](https://arxiv.org/abs/1908.05117) (ACL2019 WS)
