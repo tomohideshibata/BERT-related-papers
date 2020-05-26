@@ -27,6 +27,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond](https://arxiv.org/abs/2005.06249)
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
 - [MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/abs/1905.13453) (ACL2019)
+- [BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions](https://arxiv.org/abs/1905.10044) (NAACL2019) [[github](https://github.com/google-research-datasets/boolean-questions)]
+- [Natural Perturbation for Robust Question Answering](https://arxiv.org/abs/2004.04849)
 - [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/abs/1911.06137)
 - [BERTQA -- Attention on Steroids](https://arxiv.org/abs/1912.10435)
 - [Exploring BERT Parameter Efficiency on the Stanford Question Answering Dataset v2.0](https://arxiv.org/abs/2002.10670)
