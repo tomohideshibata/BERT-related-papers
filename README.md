@@ -634,6 +634,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
 ## Misc.
+- [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) [[github](https://github.com/openai/gpt-3)]
 - [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](https://arxiv.org/abs/2003.02249) [[github](https://github.com/nyu-mll/jiant/)]
 - [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
