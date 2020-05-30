@@ -237,7 +237,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [YELM: End-to-End Contextualized Entity Linking](https://arxiv.org/abs/1911.03834)
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
-- [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
 ### Text classification
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
@@ -399,6 +398,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/abs/1911.06136)
 - [Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
+- [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
