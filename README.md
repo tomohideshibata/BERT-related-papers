@@ -235,6 +235,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Entity Linking by Modeling Latent Entity Type Information](https://arxiv.org/abs/2001.01447) (AAAI2020)
 - [Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities](https://arxiv.org/abs/1909.00426)
 - [YELM: End-to-End Contextualized Entity Linking](https://arxiv.org/abs/1911.03834)
+- [Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking](https://arxiv.org/abs/2005.14253) (AKBC2020)
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
