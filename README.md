@@ -632,7 +632,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
-- [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
+- [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
