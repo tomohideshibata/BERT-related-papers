@@ -524,7 +524,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Study of Cross-Lingual Ability and Language-specific Information in Multilingual BERT](https://arxiv.org/abs/2004.09205)
 - [Fully Unsupervised Crosslingual Semantic Textual Similarity Metric Based on BERT for Identifying Parallel Data](https://www.aclweb.org/anthology/K19-1020/) (CoNLL2019)
 - [What the \[MASK\]? Making Sense of Language-Specific BERT Models](https://arxiv.org/abs/2003.02912)
-- [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
+- [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080) (ICML2020)
 - [XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation](https://arxiv.org/abs/2004.01401)
 - [A Systematic Analysis of Morphological Content in BERT Models for Multiple Languages](https://arxiv.org/abs/2004.03032)
 - [Extending Multilingual BERT to Low-Resource Languages](https://arxiv.org/abs/2004.13640)
