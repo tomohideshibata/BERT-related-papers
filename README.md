@@ -452,6 +452,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
+- [When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions](https://arxiv.org/abs/2006.00995)
 - [Finding Universal Grammatical Relations in Multilingual BERT](https://arxiv.org/abs/2005.04511) (ACL2020)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
 - [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (*SEM2019)
@@ -469,6 +470,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
+- [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
 - [Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models](https://arxiv.org/abs/2005.00782)
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
