@@ -425,6 +425,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Deepening Hidden Representations from Pre-trained Language Models](https://arxiv.org/abs/1911.01940)
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
+- [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
@@ -551,6 +552,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [AraBERT: Transformer-based Model for Arabic Language Understanding](https://arxiv.org/abs/2003.00104)
 - [PhoBERT: Pre-trained language models for Vietnamese](https://arxiv.org/abs/2003.00744)
 - [Give your Text Representation Models some Love: the Case for Basque](https://arxiv.org/abs/2004.00033) (LREC2020)
+- [ParsBERT: Transformer-based Model for Persian Language Understanding](https://arxiv.org/abs/2005.12515)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
 - [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922)
