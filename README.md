@@ -380,6 +380,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
+- [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [Blank Language Models](https://arxiv.org/abs/2002.03079)
