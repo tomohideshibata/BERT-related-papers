@@ -383,6 +383,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
+- [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
 - [Blank Language Models](https://arxiv.org/abs/2002.03079)
 - [Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339) (ACL2020)
 - [Efficient Training of BERT by Progressively Stacking](http://proceedings.mlr.press/v97/gong19a.html) (ICML2019) [[github](https://github.com/gonglinyuan/StackingBERT)]
