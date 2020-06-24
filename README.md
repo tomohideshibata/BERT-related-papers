@@ -189,6 +189,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
 - [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870)
 - [Revisiting Memory-Efficient Incremental Coreference Resolution](https://arxiv.org/abs/2005.00128)
+- [Neural Mention Detection](https://arxiv.org/abs/1907.12524) (LREC2020)
 - [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
 - [Bridging Anaphora Resolution as Question Answering](https://arxiv.org/abs/2004.07898) (ACL2020)
 ### Word sense disambiguation
