@@ -323,8 +323,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning-to-Rank with BERT in TF-Ranking](https://arxiv.org/abs/2004.08476)
 - [Transformer-Based Language Models for Similar Text Retrieval and Ranking](https://arxiv.org/abs/2005.04588)
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/abs/2004.12832) (SIGIR2020)
+- [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval](https://arxiv.org/abs/2006.15498) [[github](https://github.com/jingtaozhan/RepBERT-Index)]
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
-- [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval](https://arxiv.org/abs/2006.15498)
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
