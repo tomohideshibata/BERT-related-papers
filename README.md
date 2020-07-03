@@ -574,6 +574,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On Adversarial Examples for Biomedical NLP Tasks](https://arxiv.org/abs/2004.11157)
 - [An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining](https://arxiv.org/abs/2005.02799) (BioNLP2020)
 - [A pre-training technique to localize medical BERT and enhance BioBERT](https://arxiv.org/abs/2005.07202) [[github](https://github.com/sy-wada/blue_benchmark_with_transformers)]
+- [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
@@ -669,6 +670,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
 - [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
+- [Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes](https://arxiv.org/abs/2006.13484)
 - [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
