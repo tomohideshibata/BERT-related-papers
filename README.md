@@ -25,6 +25,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Downstream task
 ### QA, MC, Dialogue
 - [Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond](https://arxiv.org/abs/2005.06249)
+- [A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets](https://arxiv.org/abs/2006.11880)
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
 - [MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/abs/1905.13453) (ACL2019)
 - [BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions](https://arxiv.org/abs/1905.10044) (NAACL2019) [[github](https://github.com/google-research-datasets/boolean-questions)]
