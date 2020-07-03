@@ -320,6 +320,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CEDR: Contextualized Embeddings for Document Ranking](https://arxiv.org/abs/1904.07094) (SIGIR2019)
 - [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217) (SIGIR2019)
 - [FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance](https://arxiv.org/abs/1905.02851) (SIGIR2019)
+- [An Analysis of BERT FAQ Retrieval Models for COVID-19 Infobot](https://openreview.net/forum?id=dGOeF3y_Weh)
+- [Unsupervised FAQ Retrieval with Question Generation and BERT](https://www.aclweb.org/anthology/2020.acl-main.74/) (ACL2020)
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 - [Learning-to-Rank with BERT in TF-Ranking](https://arxiv.org/abs/2004.08476)
 - [Transformer-Based Language Models for Similar Text Retrieval and Ranking](https://arxiv.org/abs/2005.04588)
