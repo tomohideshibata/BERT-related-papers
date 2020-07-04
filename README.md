@@ -201,6 +201,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://www.aclweb.org/anthology/P19-1569.pdf) (ACL2019)
 - [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings](https://arxiv.org/abs/1909.10430) (KONVENS2019)
 - [An Accurate Model for Predicting the (Graded) Effect of Context in Word Similarity Based on Bert](https://arxiv.org/abs/2005.01006)
+- [CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages](https://www.aclweb.org/anthology/2020.acl-main.369/) (ACL2020)
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
@@ -209,6 +210,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 - ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
 - [Adversarial Training for Aspect-Based Sentiment Analysis with BERT](https://arxiv.org/abs/2001.11316)
+- [Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis](https://www.aclweb.org/anthology/2020.acl-main.370/) (ACL2020)
 - [Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference](https://arxiv.org/abs/2002.04815)
 - [DomBERT: Domain-oriented Language Model for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.13816)
 - [SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics](https://arxiv.org/abs/2005.04114) (ACL2020)
