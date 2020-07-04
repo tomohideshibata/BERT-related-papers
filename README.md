@@ -191,6 +191,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870)
 - [Revisiting Memory-Efficient Incremental Coreference Resolution](https://arxiv.org/abs/2005.00128)
 - [Neural Mention Detection](https://arxiv.org/abs/1907.12524) (LREC2020)
+- [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://www.aclweb.org/anthology/2020.acl-main.482/) (ACL2020)
 - [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
 - [Bridging Anaphora Resolution as Question Answering](https://arxiv.org/abs/2004.07898) (ACL2020)
 ### Word sense disambiguation
@@ -516,6 +517,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 - [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
+- [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
 ## Multi-lingual
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
 - [Language Model Pretraining](https://arxiv.org/abs/1901.07291) (NeurIPS2019) [[github](https://github.com/facebookresearch/XLM)]
