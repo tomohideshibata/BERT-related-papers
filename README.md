@@ -259,6 +259,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Stacked DeBERT: All Attention in Incomplete Data for Text Classification](https://arxiv.org/abs/2001.00137)
 - [Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data](https://arxiv.org/abs/2003.11563)
 - [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970)
+- [GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples](https://www.aclweb.org/anthology/2020.acl-main.191/) (ACL2020)
 - [Description Based Text Classification with Reinforcement Learning](https://arxiv.org/abs/2002.03067)
 - [VGCN-BERT: Augmenting BERT with Graph Embedding for Text Classification](https://arxiv.org/abs/2004.05707)
 - [Towards Evaluating the Robustness of Chinese BERT Classifiers](https://arxiv.org/abs/2004.03742)
@@ -518,6 +519,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Whatcha lookin' at? DeepLIFTing BERT's Attention in Question Answering](https://arxiv.org/abs/1910.06431)
 - [What does BERT Learn from Multiple-Choice Reading Comprehension Datasets?](https://arxiv.org/abs/1910.12391)
 - [What do Models Learn from Question Answering Datasets?](https://arxiv.org/abs/2004.03490)
+- [How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope](https://www.aclweb.org/anthology/2020.acl-main.429/) (ACL2020)
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 - [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
