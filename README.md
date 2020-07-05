@@ -394,6 +394,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
+- [Revisiting Few-sample BERT Fine-tuning](https://arxiv.org/abs/2006.05987)
 - [Blank Language Models](https://arxiv.org/abs/2002.03079)
 - [Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339) (ACL2020)
 - [Efficient Training of BERT by Progressively Stacking](http://proceedings.mlr.press/v97/gong19a.html) (ICML2019) [[github](https://github.com/gonglinyuan/StackingBERT)]
@@ -569,6 +570,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PhoBERT: Pre-trained language models for Vietnamese](https://arxiv.org/abs/2003.00744)
 - [Give your Text Representation Models some Love: the Case for Basque](https://arxiv.org/abs/2004.00033) (LREC2020)
 - [ParsBERT: Transformer-based Model for Persian Language Understanding](https://arxiv.org/abs/2005.12515)
+- [Pre-training Polish Transformer-based Language Models at Scale](https://arxiv.org/abs/2006.04229)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
 - [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922)
@@ -698,6 +700,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
 - [Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/abs/2001.05140)
 - [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155)
+- [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
 - [Extending Machine Language Models toward Human-Level Language Understanding](https://arxiv.org/abs/1912.05877)
 - [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://openreview.net/forum?id=GKTvAcb12b) (ACL2020)
