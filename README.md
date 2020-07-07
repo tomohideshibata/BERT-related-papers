@@ -625,6 +625,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/2004.06165)
 - [BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations](https://arxiv.org/abs/2002.10832)
 - [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/abs/2004.00849)
+- [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/) (ACL2020)
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
@@ -670,6 +671,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
+- [Distilling Knowledge Learned in BERT for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.705/) (ACL2020)
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
