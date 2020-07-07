@@ -694,6 +694,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
 - [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984)
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
+- [Robust Encodings: A Framework for Combating Adversarial Typos](https://www.aclweb.org/anthology/2020.acl-main.245/) (ACL2020)
 - [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/abs/2005.05683) (ACL2020)
 - [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100) (ACL2020) [[github](https://github.com/camelop/NLP-Robustness)]
 - ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://arxiv.org/abs/2004.03012)
