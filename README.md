@@ -452,6 +452,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (ICML2019)
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) (ICLR2020) [[github](https://github.com/google/trax/tree/master/trax/models/reformer)]
 - [GRET: Global Representation Enhanced Transformer](https://arxiv.org/abs/2002.10101) (AAAI2020)
+- [GMAT: Global Memory Augmentation for Transformers](https://arxiv.org/abs/2006.03274)
+- [Memory Transformer](https://arxiv.org/abs/2006.11527)
 - [Transformer on a Diet](https://arxiv.org/abs/2002.06170) [[github](https://github.com/cgraywang/transformer-on-diet)]
 - [A Tensorized Transformer for Language Modeling](https://arxiv.org/abs/1906.09777) (NeurIPS2019)
 - [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) [[github](https://github.com/mit-han-lab/lite-transformer)] (ICLR2020)
@@ -464,6 +466,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change](https://arxiv.org/abs/2005.02008)
 - [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/abs/2005.14187) (ACL2020) [[github](https://github.com/mit-han-lab/hardware-aware-transformers)]
 - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
+- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
@@ -707,6 +710,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unsupervised Domain Clusters in Pretrained Language Models](https://arxiv.org/abs/2004.02105) (ACL2020)
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
 - [Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/abs/2001.05140)
+- [Graph-Aware Transformer: Is Attention All Graphs Need?](https://arxiv.org/abs/2006.05213)
 - [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155)
 - [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
