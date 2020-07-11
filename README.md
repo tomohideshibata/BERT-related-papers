@@ -595,6 +595,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
+- [A clinical specific BERT developed with huge size of Japanese clinical narrative](https://www.medrxiv.org/content/10.1101/2020.07.07.20148585v1)
 - [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) (ACL2020) [[github](https://github.com/xiangyue9607/CliniRC)]
 - [Detecting Adverse Drug Reactions from Twitter through Domain-Specific Preprocessing and BERT Ensembling](https://arxiv.org/abs/2005.06634)
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
@@ -602,6 +603,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
+- [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200)
 ## Multi-modal
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
