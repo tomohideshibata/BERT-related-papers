@@ -21,6 +21,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
 - [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
 - [A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278)
+- [A Survey on Transfer Learning in Natural Language Processing](https://arxiv.org/abs/2007.04239)
 
 ## Downstream task
 ### QA, MC, Dialogue
