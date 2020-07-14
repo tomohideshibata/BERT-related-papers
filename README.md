@@ -142,6 +142,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Joint Keyphrase Chunking and Salience Ranking with BERT](https://arxiv.org/abs/2004.13639)
 - [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/abs/1911.03822) (ACL2020) [[github](https://github.com/neulab/cmu-multinlp)]
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
+- [tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection](https://www.aclweb.org/anthology/2020.acl-main.630/) (ACL2020)
 - [Domain Adaptation with BERT-based Domain Classification and Data Selection](https://www.aclweb.org/anthology/D19-6109/) (EMNLP2019 WS)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
@@ -690,6 +691,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) [[github](https://github.com/openai/gpt-3)]
+- [Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods](https://www.aclweb.org/anthology/2020.acl-main.314/) (ACL2020)
 - [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](https://arxiv.org/abs/2003.02249) [[github](https://github.com/nyu-mll/jiant/)]
 - [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
 - [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/abs/1901.11373)
