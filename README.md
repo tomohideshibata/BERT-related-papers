@@ -446,7 +446,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
-- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
