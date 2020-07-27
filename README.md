@@ -346,6 +346,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Abstractive Summarization with Combination of Pre-trained Sequence-to-Sequence and Saliency Models](https://arxiv.org/abs/2003.13028)
 - [STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)
 - [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011) [[github](https://github.com/allenai/scitldr)]
+- [Product Title Generation for Conversational Systems using BERT](https://arxiv.org/abs/2007.11768)
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
 - [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (ICML2019) [[github](https://github.com/microsoft/MASS)], [[github](https://github.com/microsoft/MASS/tree/master/MASS-fairseq)]
@@ -424,6 +425,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
 - [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
