@@ -535,6 +535,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope](https://www.aclweb.org/anthology/2020.acl-main.429/) (ACL2020)
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 - [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
+- [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
 - [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
 ## Multi-lingual
