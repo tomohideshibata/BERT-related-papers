@@ -468,6 +468,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Efficient Content-Based Sparse Attention with Routing Transformers](https://openreview.net/forum?id=B1gjs6EtDr)
 - [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) [[github](https://github.com/allenai/longformer)]
+- [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 - [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864) (ACL2020)
 - [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://arxiv.org/abs/2004.08178)
 - [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
