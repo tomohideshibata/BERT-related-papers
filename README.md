@@ -266,6 +266,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples](https://www.aclweb.org/anthology/2020.acl-main.191/) (ACL2020)
 - [Description Based Text Classification with Reinforcement Learning](https://arxiv.org/abs/2002.03067)
 - [VGCN-BERT: Augmenting BERT with Graph Embedding for Text Classification](https://arxiv.org/abs/2004.05707)
+- [Zero-shot Text Classification via Reinforced Self-training](https://www.aclweb.org/anthology/2020.acl-main.272/) (ACL2020)
 - [Towards Evaluating the Robustness of Chinese BERT Classifiers](https://arxiv.org/abs/2004.03742)
 - [COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter](https://arxiv.org/abs/2005.07503) [[github](https://github.com/digitalepidemiologylab/covid-twitter-bert)]
 ### WSC, WNLI, NLI
