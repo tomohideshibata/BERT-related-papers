@@ -736,6 +736,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Generating Derivational Morphology with BERT](https://arxiv.org/abs/2005.00672)
 - [BERT has a Moral Compass: Improvements of ethical and moral values of machines](https://arxiv.org/abs/1912.05238)
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
+- [BERT Learns (and Teaches) Chemistry](https://arxiv.org/abs/2007.16012)
 - [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) (CVPR2020)
 - [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 - [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
