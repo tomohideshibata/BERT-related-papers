@@ -698,6 +698,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
+- [Distilling the Knowledge of BERT for Sequence-to-Sequence ASR](https://arxiv.org/abs/2008.03822) (Interspeech2020)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
