@@ -337,6 +337,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 - [Learning-to-Rank with BERT in TF-Ranking](https://arxiv.org/abs/2004.08476)
 - [Transformer-Based Language Models for Similar Text Retrieval and Ranking](https://arxiv.org/abs/2005.04588)
+- [DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460) 
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/abs/2004.12832) (SIGIR2020)
 - [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval](https://arxiv.org/abs/2006.15498) [[github](https://github.com/jingtaozhan/RepBERT-Index)]
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)
