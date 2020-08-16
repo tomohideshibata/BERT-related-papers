@@ -305,6 +305,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PIQA: Reasoning about Physical Commonsense in Natural Language](https://arxiv.org/abs/1911.11641v1) (AAAI2020)
 - [Evaluating Commonsense in Pre-trained Language Models](https://arxiv.org/abs/1911.11931) (AAAI2020)
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024)
+- [Does BERT Solve Commonsense Task via Commonsense Knowledge?](https://arxiv.org/abs/2008.03945)
 - [Unsupervised Commonsense Question Answering with Self-Talk](https://arxiv.org/abs/2004.05483)
 - [G-DAUG: Generative Data Augmentation for Commonsense Reasoning](https://arxiv.org/abs/2004.11546)
 - [Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.00669) (ACL2020)
