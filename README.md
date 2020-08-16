@@ -595,6 +595,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ParsBERT: Transformer-based Model for Persian Language Understanding](https://arxiv.org/abs/2005.12515)
 - [Pre-training Polish Transformer-based Language Models at Scale](https://arxiv.org/abs/2006.04229)
 - [Playing with Words at the National Library of Sweden -- Making a Swedish BERT](https://arxiv.org/abs/2007.01658)
+- [KR-BERT: A Small-Scale Korean-Specific Language Model](https://arxiv.org/abs/2008.03979)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
 - [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922)
