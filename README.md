@@ -745,5 +745,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
 - [BERT Learns (and Teaches) Chemistry](https://arxiv.org/abs/2007.16012)
 - [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) (CVPR2020)
+- [The Chess Transformer: Mastering Play using Generative Language Models](https://arxiv.org/abs/2008.04057)
+- [The Go Transformer: Natural Language Modeling for Game Play](https://arxiv.org/abs/2007.03500)
 - [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 - [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
