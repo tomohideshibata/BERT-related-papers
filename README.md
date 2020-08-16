@@ -405,6 +405,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
+- [Variance-reduced Language Pretraining via a Mask Proposal Network](https://arxiv.org/abs/2008.05333)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
 - [Revisiting Few-sample BERT Fine-tuning](https://arxiv.org/abs/2006.05987)
