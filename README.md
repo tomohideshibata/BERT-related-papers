@@ -400,7 +400,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (NeurIPS2019) [[github](https://github.com/zihangdai/xlnet)]
 - [MPNet: Masked and Permuted Pre-training for Language Understanding](https://arxiv.org/abs/2004.09297)
 - [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
-- [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) [[github](https://github.com/facebookresearch/SpanBERT)]
+- [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) (TACL2020) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
