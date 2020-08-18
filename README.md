@@ -707,6 +707,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) [[github](https://github.com/openai/gpt-3)]
+- [Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems](https://arxiv.org/abs/2008.06239)
 - [Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods](https://www.aclweb.org/anthology/2020.acl-main.314/) (ACL2020)
 - [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](https://arxiv.org/abs/2003.02249) [[github](https://github.com/nyu-mll/jiant/)]
 - [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/abs/1903.07785)
