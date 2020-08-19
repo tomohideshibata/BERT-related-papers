@@ -264,6 +264,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Stacked DeBERT: All Attention in Incomplete Data for Text Classification](https://arxiv.org/abs/2001.00137)
 - [Cost-Sensitive BERT for Generalisable Sentence Classification with Imbalanced Data](https://arxiv.org/abs/2003.11563)
 - [BAE: BERT-based Adversarial Examples for Text Classification](https://arxiv.org/abs/2004.01970)
+- [FireBERT: Hardening BERT-based classifiers against adversarial attack](https://arxiv.org/abs/2008.04203) [[github](https://github.com/FireBERT-author/FireBERT)]
 - [GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples](https://www.aclweb.org/anthology/2020.acl-main.191/) (ACL2020)
 - [Description Based Text Classification with Reinforcement Learning](https://arxiv.org/abs/2002.03067)
 - [VGCN-BERT: Augmenting BERT with Graph Embedding for Text Classification](https://arxiv.org/abs/2004.05707)
