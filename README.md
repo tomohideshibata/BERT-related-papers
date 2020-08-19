@@ -545,6 +545,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
 - [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
+- [The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models](https://arxiv.org/abs/2008.05122) [[github](https://github.com/pair-code/lit)]
 - [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
 ## Multi-lingual
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
