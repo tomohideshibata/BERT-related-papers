@@ -473,6 +473,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Memory Transformer](https://arxiv.org/abs/2006.11527)
 - [Transformer on a Diet](https://arxiv.org/abs/2002.06170) [[github](https://github.com/cgraywang/transformer-on-diet)]
 - [A Tensorized Transformer for Language Modeling](https://arxiv.org/abs/1906.09777) (NeurIPS2019)
+- [DeFINE: DEep Factorized INput Token Embeddings for Neural Sequence Modeling](https://arxiv.org/abs/1911.12385) (ICLR2020) [[github](https://github.com/sacmehta/delight)]
+- [DeLighT: Very Deep and Light-weight Transformer](https://arxiv.org/abs/2008.00623) [[github](https://github.com/sacmehta/delight)]
 - [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) [[github](https://github.com/mit-han-lab/lite-transformer)] (ICLR2020)
 - [Efficient Content-Based Sparse Attention with Routing Transformers](https://openreview.net/forum?id=B1gjs6EtDr)
 - [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
