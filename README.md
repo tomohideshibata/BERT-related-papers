@@ -703,6 +703,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
 - [Distilling the Knowledge of BERT for Sequence-to-Sequence ASR](https://arxiv.org/abs/2008.03822) (Interspeech2020)
+- [Understanding BERT Rankers Under Distillation](https://arxiv.org/abs/2007.11088)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
