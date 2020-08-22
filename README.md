@@ -54,6 +54,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/abs/2002.03932) (ICLR2020)
 - [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/abs/1908.08167) (EMNLP2019)
 - [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering](https://arxiv.org/abs/1911.10470) (ICLR2020)
+- [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/abs/2007.00814)
 - [RikiNet: Reading Wikipedia Pages for Natural Question Answering](https://arxiv.org/abs/2004.14560) (ACL2020)
 - [BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA](https://arxiv.org/abs/2005.00766)
 - [DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding](https://arxiv.org/abs/2002.12591) (SIGIR2020)
