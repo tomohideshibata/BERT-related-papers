@@ -253,6 +253,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
+- [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
 ### Text classification
 - [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
 - [A Text Classification Survey: From Shallow to Deep Learning](https://arxiv.org/abs/2008.00364)
