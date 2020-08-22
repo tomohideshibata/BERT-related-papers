@@ -239,8 +239,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing](https://arxiv.org/abs/2004.14577)
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
-- [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
-- [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Context Affects Language Models' Factual Predictions](https://openreview.net/forum?id=025X0zPfn) (AKBC2020)
 - [Inducing Relational Knowledge from BERT](https://arxiv.org/abs/1911.12753) (AAAI2020)
 - [Latent Relation Language Models](https://arxiv.org/abs/1908.07690) (AAAI2020)
@@ -509,7 +507,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Linguistic Systematicity](https://arxiv.org/abs/2005.04315) (ACL2020)
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [A Cross-Task Analysis of Text Span Representations](https://www.aclweb.org/anthology/2020.repl4nlp-1.20/) (ACL2020 WS)
+- [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
+- [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
+- [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036)
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 - [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
