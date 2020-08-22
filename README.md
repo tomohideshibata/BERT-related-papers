@@ -149,6 +149,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
 - [Adapting BERT to Implicit Discourse Relation Classification with a Focus on Discourse Connectives](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.144.pdf) (LREC2020)
+- [Labeling Explicit Discourse Relations using Pre-trained Language Models](https://arxiv.org/abs/2006.11852) (TSD2020)
 - [Cross-lingual Zero- and Few-shot Hate Speech Detection Utilising Frozen Transformer Language Models and AXEL](https://arxiv.org/abs/2004.13850)
 - [Same Side Stance Classification Task: Facilitating Argument Stance Classification by Fine-tuning a BERT Model](https://arxiv.org/abs/2004.11163)
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
