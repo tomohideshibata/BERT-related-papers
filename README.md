@@ -508,6 +508,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work?](https://arxiv.org/abs/2005.00628) (ACL2020)
 - [Probing Linguistic Systematicity](https://arxiv.org/abs/2005.04315) (ACL2020)
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
+- [A Cross-Task Analysis of Text Span Representations](https://www.aclweb.org/anthology/2020.repl4nlp-1.20/) (ACL2020 WS)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](http://colinraffel.com/publications/arxiv2020how.pdf)
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
