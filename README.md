@@ -186,6 +186,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge](https://arxiv.org/abs/1905.01780) (ACL2019 WS)
 - [Gendered Pronoun Resolution using BERT and an extractive question answering formulation](https://arxiv.org/abs/1906.03695) (ACL2019 WS)
 - [MSnet: A BERT-based Network for Gendered Pronoun Resolution](https://arxiv.org/abs/1908.00308) (ACL2019 WS)
+- [Scalable Cross Lingual Pivots to Model Pronoun Gender for Translation](https://arxiv.org/abs/2006.08881)
 - [Fill the GAP: Exploiting BERT for Pronoun Resolution](https://www.aclweb.org/anthology/papers/W/W19/W19-3815/) (ACL2019 WS)
 - [On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution](https://www.aclweb.org/anthology/W19-3816/) (ACL2019 WS)
 - [Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution](https://arxiv.org/abs/1905.08868) (ACL2019 WS)
