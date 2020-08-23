@@ -440,6 +440,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Semantics-aware BERT for Language Understanding](https://arxiv.org/abs/1909.02209) (AAAI2020)
 - [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/abs/1909.07606)
 - [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) (EMNLP2019)
+- [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
 - [E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT](https://arxiv.org/abs/1911.03681)
 - [KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/abs/1911.06136)
 - [Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)
