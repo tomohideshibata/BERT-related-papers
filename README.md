@@ -430,6 +430,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/abs/2005.10389) (ACL2020)
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577) (ICLR2020)
 - [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/abs/1911.06156)
+- [Do Syntax Trees Help Pre-trained Transformers Extract Information?](https://arxiv.org/abs/2008.09084)
 - [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/abs/1908.05646)
 - [Semantics-aware BERT for Language Understanding](https://arxiv.org/abs/1909.02209) (AAAI2020)
 - [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/abs/1909.07606)
