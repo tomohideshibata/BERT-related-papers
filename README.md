@@ -717,6 +717,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
 - [Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
+- [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
