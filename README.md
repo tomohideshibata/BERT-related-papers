@@ -81,6 +81,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004)
 - [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
 - [Undersensitivity in Neural Reading Comprehension](https://arxiv.org/abs/2003.04808)
+- [Developing a How-to Tip Machine Comprehension Dataset and its Evaluation in Machine Comprehension by BERT](https://www.aclweb.org/anthology/2020.fever-1.4/) (ACL2020 WS)
 - [A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848) (ACL2019 WS)
 - [FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension](https://arxiv.org/abs/1908.05117) (ACL2019 WS)
 - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412) (SIGIR2019)
@@ -154,6 +155,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Same Side Stance Classification Task: Facilitating Argument Stance Classification by Fine-tuning a BERT Model](https://arxiv.org/abs/2004.11163)
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
 - [KEIS@JUST at SemEval-2020 Task 12: Identifying Multilingual Offensive Tweets Using Weighted Ensemble and Fine-Tuned BERT](https://arxiv.org/abs/2005.07820)
+- [ALBERT-BiLSTM for Sequential Metaphor Detection](https://www.aclweb.org/anthology/2020.figlang-1.17/) (ACL2020 WS)
+- [Should You Fine-Tune BERT for Automated Essay Scoring?](https://www.aclweb.org/anthology/2020.bea-1.15/) (ACL2020 WS)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
@@ -178,6 +181,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision](https://arxiv.org/abs/2006.15509) (KDD2020) [[github](https://github.com/cliang1453/BOND)]
 - [Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve](https://arxiv.org/abs/2004.04564)
 - [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://arxiv.org/abs/2004.12440) (ACL2020)
+- [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
@@ -238,6 +242,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
+- [A BERT-based One-Pass Multi-Task Model for Clinical Temporal Relation Extraction](https://www.aclweb.org/anthology/2020.bionlp-1.7/) (ACL2020 WS)
 - [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing](https://arxiv.org/abs/2004.14577)
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
@@ -765,6 +770,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Graph-Aware Transformer: Is Attention All Graphs Need?](https://arxiv.org/abs/2006.05213)
 - [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155)
 - [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
+- [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
 - [Extending Machine Language Models toward Human-Level Language Understanding](https://arxiv.org/abs/1912.05877)
 - [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://openreview.net/forum?id=GKTvAcb12b) (ACL2020)
