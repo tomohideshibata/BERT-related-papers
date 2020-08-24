@@ -453,6 +453,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
+- [Rethinking Positional Encoding in Language Pre-training](https://arxiv.org/abs/2006.15595)
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
 - [Parameter-free Sentence Embedding via Orthogonal Basis](https://arxiv.org/abs/1810.00438) (EMNLP2019)
