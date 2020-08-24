@@ -64,6 +64,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Recurrent BERT-based Model for Question Generation](https://www.aclweb.org/anthology/D19-5821/) (EMNLP2019 WS)
 - [Unsupervised Question Decomposition for Question Answering](https://arxiv.org/abs/2002.09758) [[github](https://github.com/facebookresearch/UnsupervisedDecomposition)]
 - [Conversational Question Reformulation via Sequence-to-Sequence Architectures and Pretrained Language Models](https://arxiv.org/abs/2004.01909)
+- [Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering](https://arxiv.org/abs/2004.11892) (ACL2020)
 - [What Are People Asking About COVID-19? A Question Classification Dataset](https://arxiv.org/abs/2005.12522)
 - [Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds](https://arxiv.org/abs/1911.02365)
 - [Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension](https://www.aclweb.org/anthology/papers/P/P19/P19-1226/) (ACL2019)
@@ -244,6 +245,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
 - [A BERT-based One-Pass Multi-Task Model for Clinical Temporal Relation Extraction](https://www.aclweb.org/anthology/2020.bionlp-1.7/) (ACL2020 WS)
 - [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing](https://arxiv.org/abs/2004.14577)
+- [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178) (ACL2020)
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [How Context Affects Language Models' Factual Predictions](https://openreview.net/forum?id=025X0zPfn) (AKBC2020)
