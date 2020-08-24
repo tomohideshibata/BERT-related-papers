@@ -604,6 +604,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Are All Languages Created Equal in Multilingual BERT?](https://arxiv.org/abs/2005.09093) (ACL2020 WS)
 - [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
 - [WikiBERT models: deep transfer learning for many languages](https://arxiv.org/abs/2006.01538)
+- [Inducing Language-Agnostic Multilingual Representations](https://arxiv.org/abs/2008.09112)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
 - [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516)
