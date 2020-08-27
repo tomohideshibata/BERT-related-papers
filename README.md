@@ -208,6 +208,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
 - [Bridging Anaphora Resolution as Question Answering](https://arxiv.org/abs/2004.07898) (ACL2020)
 ### Word sense disambiguation
+- [Language Models and Word Sense Disambiguation: An Overview and Analysis](https://arxiv.org/abs/2008.11608)
 - [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
 - [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://arxiv.org/abs/1910.00194)  (EMNLP2019)
 - [Using BERT for Word Sense Disambiguation](https://arxiv.org/abs/1909.08358)
