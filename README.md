@@ -182,6 +182,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision](https://arxiv.org/abs/2006.15509) (KDD2020) [[github](https://github.com/cliang1453/BOND)]
 - [Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve](https://arxiv.org/abs/2004.04564)
 - [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://arxiv.org/abs/2004.12440) (ACL2020)
+- [Example-Based Named Entity Recognition](https://arxiv.org/abs/2008.10570)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
