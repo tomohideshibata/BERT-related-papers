@@ -356,6 +356,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/abs/2004.12832) (SIGIR2020)
 - [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval](https://arxiv.org/abs/2006.15498) [[github](https://github.com/jingtaozhan/RepBERT-Index)]
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)
+- [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
 - [IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles](https://arxiv.org/abs/2007.12603)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://openreview.net/forum?id=PlUA_mgGaPq) (ACL2020 WS)
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
