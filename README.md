@@ -242,6 +242,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DARE: Data Augmented Relation Extraction with GPT-2](https://arxiv.org/abs/2004.13845)
 - [Distantly-Supervised Neural Relation Extraction with Side Information using BERT](https://arxiv.org/abs/2004.14443)
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
+- [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
