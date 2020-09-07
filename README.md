@@ -173,6 +173,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [pyBART: Evidence-based Syntactic Transformations for IE](https://arxiv.org/abs/2005.01306) [[github](https://allenai.github.io/pybart/)] 
 - [Named Entity Recognition -- Is there a glass ceiling?](https://arxiv.org/abs/1910.02403) (CoNLL2019)
 - [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/abs/1910.11476)
+- [Biomedical named entity recognition using BERT in the machine reading comprehension framework](https://arxiv.org/abs/2009.01560)
 - [Training Compact Models for Low Resource Entity Tagging using Pre-trained Language Models](https://arxiv.org/abs/1910.06294)
 - [Robust Named Entity Recognition with Truecasing Pretraining](https://arxiv.org/abs/1912.07095) (AAAI2020)
 - [LTP: A New Active Learning Strategy for Bert-CRF Based Named Entity Recognition](https://arxiv.org/abs/2001.02524)
