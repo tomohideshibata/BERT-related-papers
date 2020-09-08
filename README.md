@@ -668,6 +668,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
+- [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/abs/2009.02835)
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200)
 ## Multi-modal
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
