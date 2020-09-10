@@ -158,7 +158,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KEIS@JUST at SemEval-2020 Task 12: Identifying Multilingual Offensive Tweets Using Weighted Ensemble and Fine-Tuned BERT](https://arxiv.org/abs/2005.07820)
 - [ALBERT-BiLSTM for Sequential Metaphor Detection](https://www.aclweb.org/anthology/2020.figlang-1.17/) (ACL2020 WS)
 - [Should You Fine-Tune BERT for Automated Essay Scoring?](https://www.aclweb.org/anthology/2020.bea-1.15/) (ACL2020 WS)
-- [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252)
+- [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252) [[github](https://github.com/facebookresearch/KILT)]
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
