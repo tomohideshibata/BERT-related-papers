@@ -109,6 +109,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Goal-Oriented Multi-Task BERT-Based Dialogue State Tracker](https://arxiv.org/abs/2002.02450)
 - [Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems](https://arxiv.org/abs/2004.10663)
 - [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891) (ACL2020)
+- [A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/abs/2008.12335) (KDD2020 WS)
 - [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 - [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/abs/2004.03588)
