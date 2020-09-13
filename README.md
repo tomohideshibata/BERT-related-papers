@@ -363,6 +363,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
 - [IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles](https://arxiv.org/abs/2007.12603)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://openreview.net/forum?id=PlUA_mgGaPq) (ACL2020 WS)
+- [Effective Transfer Learning for Identifying Similar Questions: Matching User Questions to COVID-19 FAQs](https://arxiv.org/abs/2008.13546)
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
 - [Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/abs/2006.09526)
 ## Generation
