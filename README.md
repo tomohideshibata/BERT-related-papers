@@ -779,6 +779,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes](https://arxiv.org/abs/2006.13484)
 - [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178)
+- [Multi-node Bert-pretraining: Cost-efficient Approach](https://arxiv.org/abs/2008.00177)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
