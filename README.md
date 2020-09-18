@@ -324,7 +324,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Evaluating Commonsense in Pre-trained Language Models](https://arxiv.org/abs/1911.11931) (AAAI2020)
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024)
 - [Does BERT Solve Commonsense Task via Commonsense Knowledge?](https://arxiv.org/abs/2008.03945)
-- [Unsupervised Commonsense Question Answering with Self-Talk](https://arxiv.org/abs/2004.05483)
+- [Unsupervised Commonsense Question Answering with Self-Talk](https://arxiv.org/abs/2004.05483) (EMNLP2020)
 - [G-DAUG: Generative Data Augmentation for Commonsense Reasoning](https://arxiv.org/abs/2004.11546)
 - [Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.00669) (ACL2020)
 - [Adversarial Training for Commonsense Inference](https://arxiv.org/abs/2005.08156) (ACL2020 WS)
@@ -792,7 +792,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Robust Encodings: A Framework for Combating Adversarial Typos](https://www.aclweb.org/anthology/2020.acl-main.245/) (ACL2020)
 - [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/abs/2005.05683) (ACL2020)
 - [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100) (ACL2020) [[github](https://github.com/camelop/NLP-Robustness)]
-- ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://arxiv.org/abs/2004.03012)
+- ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://arxiv.org/abs/2004.03012) (EMNLP2020)
 - [The Right Tool for the Job: Matching Model and Instance Complexities](https://arxiv.org/abs/2004.07453) (ACL2020) [[github](https://github.com/allenai/sledgehammer)]
 - [Unsupervised Domain Clusters in Pretrained Language Models](https://arxiv.org/abs/2004.02105) (ACL2020)
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
