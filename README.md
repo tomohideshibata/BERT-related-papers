@@ -580,6 +580,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Whatcha lookin' at? DeepLIFTing BERT's Attention in Question Answering](https://arxiv.org/abs/1910.06431)
 - [What does BERT Learn from Multiple-Choice Reading Comprehension Datasets?](https://arxiv.org/abs/1910.12391)
 - [What do Models Learn from Question Answering Datasets?](https://arxiv.org/abs/2004.03490)
+- [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA](https://arxiv.org/abs/2009.08257) (EMNLP2020)
 - [How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope](https://www.aclweb.org/anthology/2020.acl-main.429/) (ACL2020)
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 - [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
