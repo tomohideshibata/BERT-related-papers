@@ -491,6 +491,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
 ## Transformer variants
+- [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 - [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL2019) [[github](https://github.com/kimiyoung/transformer-xl)]
 - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
