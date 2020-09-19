@@ -518,6 +518,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
+- [Towards Fully 8-bit Integer Inference for the Transformer Model](https://arxiv.org/abs/2009.08034) (IJCAI2020)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions](https://arxiv.org/abs/2006.00995)
