@@ -302,6 +302,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
 - [Syntactic Data Augmentation Increases Robustness to Inference Heuristics](https://arxiv.org/abs/2004.11999) (ACL2020)
 - [HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference](https://arxiv.org/abs/2003.02756) (LREC2020)
+- [Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained Languages](https://arxiv.org/abs/2004.14963) (EMNLP2020) [[github](https://github.com/boun-tabi/NLI-TR)]
 - [Evaluating BERT for natural language inference: A case study on the CommitmentBank](https://www.aclweb.org/anthology/D19-1630/) (EMNLP2019)
 - [Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?](https://arxiv.org/abs/2004.14839) (ACL2020)
 - [Abductive Commonsense Reasoning](https://arxiv.org/abs/1908.05739) (ICLR2020)
