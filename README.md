@@ -519,7 +519,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/abs/2005.14187) (ACL2020) [[github](https://github.com/mit-han-lab/hardware-aware-transformers)]
 - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
-- [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
+- [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249) (EMNLP2020)
 - [Towards Fully 8-bit Integer Inference for the Transformer Model](https://arxiv.org/abs/2009.08034) (IJCAI2020)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
@@ -802,7 +802,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
 - [Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/abs/2001.05140)
 - [Graph-Aware Transformer: Is Attention All Graphs Need?](https://arxiv.org/abs/2006.05213)
-- [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155)
+- [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155) (EMNLP2020Findings)
 - [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
 - [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
