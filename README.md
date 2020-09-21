@@ -189,6 +189,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Example-Based Named Entity Recognition](https://arxiv.org/abs/2008.10570)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
+- [Knowledge Guided Named Entity Recognition for BioMedical Text](https://arxiv.org/abs/1911.03869)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
 ### Pronoun/coreference resolution
