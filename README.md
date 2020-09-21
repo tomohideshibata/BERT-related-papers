@@ -330,7 +330,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [G-DAUG: Generative Data Augmentation for Commonsense Reasoning](https://arxiv.org/abs/2004.11546)
 - [Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.00669) (ACL2020)
 - [Adversarial Training for Commonsense Inference](https://arxiv.org/abs/2005.08156) (ACL2020 WS)
-- [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://ducdauge.github.io/files/xcopa.pdf) [[github](https://github.com/cambridgeltl/xcopa)] 
 - [Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899) (CogSci2019)
 ### Extractive summarization
@@ -405,6 +404,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
 - [Text-to-Text Pre-Training for Data-to-Text Tasks](https://arxiv.org/abs/2005.10433)
+- [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
+- [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
@@ -803,7 +804,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Thieves on Sesame Street! Model Extraction of BERT-based APIs](https://arxiv.org/abs/1910.12366) (ICLR2020)
 - [Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/abs/2001.05140)
 - [Graph-Aware Transformer: Is Attention All Graphs Need?](https://arxiv.org/abs/2006.05213)
-- [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155) (EMNLP2020Findings)
+- [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155) (EMNLP2020 Findings)
 - [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
 - [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
