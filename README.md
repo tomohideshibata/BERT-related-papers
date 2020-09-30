@@ -263,7 +263,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Inducing Relational Knowledge from BERT](https://arxiv.org/abs/1911.12753) (AAAI2020)
 - [Latent Relation Language Models](https://arxiv.org/abs/1908.07690) (AAAI2020)
 - [Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model](https://openreview.net/forum?id=BJlzm64tDH) (ICLR2020)
-- [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814) [[github](https://github.com/facebookresearch/BLINK)]
+- [Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814) (EMNLP2020) [[github](https://github.com/facebookresearch/BLINK)]
 - [Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://www.aclweb.org/anthology/K19-1063/) (CoNLL2019)
 - [Improving Entity Linking by Modeling Latent Entity Type Information](https://arxiv.org/abs/2001.01447) (AAAI2020)
 - [Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities](https://arxiv.org/abs/1909.00426)
