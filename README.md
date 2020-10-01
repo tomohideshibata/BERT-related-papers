@@ -602,6 +602,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Model Pretraining](https://arxiv.org/abs/1901.07291) (NeurIPS2019) [[github](https://github.com/facebookresearch/XLM)]
 - [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099) (EMNLP2019) [[github](https://github.com/hyperparticle/udify)]
 - [Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations](https://arxiv.org/abs/1910.05479) (EMNLP2019 WS)
+- [Parsing with Multilingual BERT, a Small Corpus, and a Small Treebank](https://arxiv.org/abs/2009.14124) (EMNLP2020 Findings)
 - [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077) (EMNLP2019)
 - [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
 - [How Language-Neutral is Multilingual BERT?](https://arxiv.org/abs/1911.03310)
