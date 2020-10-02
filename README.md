@@ -614,6 +614,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Emerging Cross-lingual Structure in Pretrained Language Models](https://arxiv.org/abs/1911.01464) (ACL2020)
 - [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
 - [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116) (ACL2020)
+- [Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study](https://arxiv.org/abs/2009.14304) (EMNLP2020 Findings)
 - [Emerging Cross-lingual Structure in Pretrained Language Models](https://arxiv.org/abs/1911.01464)
 - [Can Monolingual Pretrained Models Help Cross-Lingual Classification?](https://arxiv.org/abs/1911.03913)
 - [A Study of Cross-Lingual Ability and Language-specific Information in Multilingual BERT](https://arxiv.org/abs/2004.09205)
@@ -637,6 +638,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
 - [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516)
+- [BERT for Monolingual and Cross-Lingual Reverse Dictionary](https://arxiv.org/abs/2009.14790) (EMNLP2020 Findings)
 - [Bilingual Text Extraction as Reading Comprehension](https://arxiv.org/abs/2004.14517)
 ## Other than English models
 - [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894) (ACL2020)
