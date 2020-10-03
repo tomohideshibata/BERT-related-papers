@@ -730,6 +730,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/) (ACL2020)
 - [BERTERS: Multimodal Representation Learning for Expert Recommendation System with Transformer](https://arxiv.org/abs/2007.07229)
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
+- [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) (KDD2020) [[github](https://github.com/microsoft/unilm/tree/master/layoutlm)]
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
 - [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[github](https://github.com/openai/image-gpt)] [[website](https://openai.com/blog/image-gpt/)]
