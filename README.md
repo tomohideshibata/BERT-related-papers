@@ -481,6 +481,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Taking Notes on the Fly Helps BERT Pre-training](https://arxiv.org/abs/2008.01466)
 - [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
+- [Knowledge-Aware Procedural Text Understanding with Multi-Stage Training](https://arxiv.org/abs/2009.13199)
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
 - [Rethinking Positional Encoding in Language Pre-training](https://arxiv.org/abs/2006.15595)
 - [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/abs/2009.13658) (EMNLP2020 Findings)
