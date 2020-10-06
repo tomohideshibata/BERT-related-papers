@@ -499,7 +499,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Beyond 512 Tokens: Siamese Multi-depth Transformer-based Hierarchical Encoder for Document Matching](https://arxiv.org/abs/2004.12297)
 - [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
 - [Improving Pre-Trained Multilingual Models with Vocabulary Expansion](https://arxiv.org/abs/1909.12440) (CoNLL2019)
-- [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720)
+- [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720) (EMNLP2020 Findings)
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
