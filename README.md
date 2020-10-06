@@ -850,3 +850,4 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Go Transformer: Natural Language Modeling for Game Play](https://arxiv.org/abs/2007.03500)
 - [On the comparability of Pre-trained Language Models](https://arxiv.org/abs/2001.00781)
 - [Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
+- [The Cost of Training NLP Models: A Concise Overview](https://arxiv.org/abs/2004.08900)
