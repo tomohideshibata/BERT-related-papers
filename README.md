@@ -95,6 +95,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314) (ACL2020)
 - [Understanding tables with intermediate pre-training](https://arxiv.org/abs/2010.00571) (EMNLP2020 Findings)
 - [Table Search Using a Deep Contextualized Language Model](https://arxiv.org/abs/2005.09207) (SIGIR2020)
+- [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://www.aclweb.org/anthology/P19-1227/) (ACL2019)
 - [Cross-Lingual Machine Reading Comprehension](https://arxiv.org/abs/1909.00361) (EMNLP2019)
@@ -452,6 +453,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Variance-reduced Language Pretraining via a Mask Proposal Network](https://arxiv.org/abs/2008.05333)
+- [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation](https://arxiv.org/abs/2010.02705) (EMNLP2020)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
