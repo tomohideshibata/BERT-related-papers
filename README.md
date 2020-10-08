@@ -215,7 +215,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
 - [Ellipsis and Coreference Resolution as Question Answering](https://arxiv.org/abs/1908.11141)
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
-- [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870)
+- [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870) (EMNLP2020)
 - [Revisiting Memory-Efficient Incremental Coreference Resolution](https://arxiv.org/abs/2005.00128)
 - [Revealing the Myth of Higher-Order Inference in Coreference Resolution](https://arxiv.org/abs/2009.12013) (EMNLP2020)
 - [Neural Mention Detection](https://arxiv.org/abs/1907.12524) (LREC2020)
