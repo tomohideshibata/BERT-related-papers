@@ -279,6 +279,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking](https://arxiv.org/abs/2005.14253) (AKBC2020)
 - [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057) (EMNLP2020) [[github](https://github.com/studio-ousia/luke)]
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
+- [Efficient One-Pass End-to-End Entity Linking for Questions](https://arxiv.org/abs/2010.02413) (EMNLP2020) [[github](https://github.com/belindal/BLINK/tree/master/elq)]
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
