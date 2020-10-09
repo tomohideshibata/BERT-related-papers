@@ -409,6 +409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On the use of BERT for Neural Machine Translation](https://arxiv.org/abs/1909.12744) (EMNLP2019 WS)
 - [Incorporating BERT into Neural Machine Translation](https://openreview.net/forum?id=Hyl7ygStwB) (ICLR2020)
 - [Recycling a Pre-trained BERT Encoder for Neural Machine Translation](https://www.aclweb.org/anthology/D19-5603/)
+- [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://arxiv.org/abs/2009.07610) (EMNLP2020)
 - [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://arxiv.org/abs/1907.12461)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
 - [PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159)
@@ -660,6 +661,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Bilingual Text Extraction as Reading Comprehension](https://arxiv.org/abs/2004.14517)
 ## Other than English models
 - [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894) (ACL2020)
+- [On the importance of pre-training data volume for compact language models](https://arxiv.org/abs/2010.03813) (EMNLP2020)
 - [FlauBERT: Unsupervised Language Model Pre-training for French](https://arxiv.org/abs/1912.05372)
 - [Multilingual is not enough: BERT for Finnish](https://arxiv.org/abs/1912.07076)
 - [BERTje: A Dutch BERT Model](https://arxiv.org/abs/1912.09582)
@@ -702,6 +704,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
 - [BERT-XML: Large Scale Automated ICD Coding Using BERT Pretraining](https://arxiv.org/abs/2006.03685)
 - [Prediction of ICD Codes with Clinical BERT Embeddings and Text Augmentation with Label Balancing using MIMIC-III](https://arxiv.org/abs/2008.10492)
+- [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://arxiv.org/abs/2010.03746) (EMNLP2020)
 - [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167)
 - [Students Need More Attention: BERT-based Attention Model for Small Data with Application to Automatic Patient Message Triage](https://arxiv.org/abs/2006.11991) (MLHC2020)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
