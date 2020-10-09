@@ -326,6 +326,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?](https://arxiv.org/abs/2004.14839) (ACL2020)
 - [Abductive Commonsense Reasoning](https://arxiv.org/abs/1908.05739) (ICLR2020)
 - [Collecting Entailment Data for Pretraining: New Protocols and Negative Results](https://arxiv.org/abs/2004.11997) 
+- [Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239) (EMNLP2020 Findings)
 ### Commonsense
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937) (NAACL2019)
 - [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) (ACL2019) [[website](https://rowanzellers.com/hellaswag/)]
@@ -712,8 +713,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
+- [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559) (EMNLP2020 Findings)
 - [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/abs/2009.02835)
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200)
+- [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media](https://arxiv.org/abs/2010.01150) (EMNLP2020 Findings)
 ## Multi-modal
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265) (NeurIPS2019)
