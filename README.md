@@ -549,6 +549,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249) (EMNLP2020)
 - [Towards Fully 8-bit Integer Inference for the Transformer Model](https://arxiv.org/abs/2009.08034) (IJCAI2020)
+- [Extremely Low Bit Transformer Quantization for On-Device Neural Machine Translation](https://arxiv.org/abs/2009.07453)
 ## Probe
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions](https://arxiv.org/abs/2006.00995)
@@ -797,6 +798,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [XtremeDistil: Multi-stage Distillation for Massive Multilingual Models](https://www.aclweb.org/anthology/2020.acl-main.202/) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
+- [Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning](https://arxiv.org/abs/2009.08065) (EMNLP2020 Findings)
 - [Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
 - [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/abs/2001.04246)
 - [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
