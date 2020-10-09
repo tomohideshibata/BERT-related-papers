@@ -202,6 +202,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
 ### Pronoun/coreference resolution
+- [A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution](https://arxiv.org/abs/2009.12721)
 - [Resolving Gendered Ambiguous Pronouns with BERT](https://arxiv.org/abs/1906.01161) (ACL2019 WS)
 - [Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge](https://arxiv.org/abs/1905.01780) (ACL2019 WS)
 - [Gendered Pronoun Resolution using BERT and an extractive question answering formulation](https://arxiv.org/abs/1906.03695) (ACL2019 WS)
