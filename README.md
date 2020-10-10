@@ -458,6 +458,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Variance-reduced Language Pretraining via a Mask Proposal Network](https://arxiv.org/abs/2008.05333)
 - [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation](https://arxiv.org/abs/2010.02705) (EMNLP2020)
+- [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
@@ -466,6 +467,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Enabling Language Models to Fill in the Blanks](https://arxiv.org/abs/2005.05339) (ACL2020)
 - [Efficient Training of BERT by Progressively Stacking](http://proceedings.mlr.press/v97/gong19a.html) (ICML2019) [[github](https://github.com/gonglinyuan/StackingBERT)]
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) [[github](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
+- [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
@@ -543,6 +545,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864) (ACL2020)
 - [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://arxiv.org/abs/2004.08178)
 - [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
+- [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794)
 - [Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change](https://arxiv.org/abs/2005.02008)
 - [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/abs/2005.14187) (ACL2020) [[github](https://github.com/mit-han-lab/hardware-aware-transformers)]
 - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
