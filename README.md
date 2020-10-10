@@ -580,6 +580,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036)
+- [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
+- [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 - [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
@@ -611,7 +613,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How fine can fine-tuning be? Learning efficient language models](https://arxiv.org/abs/2004.14129) (AISTATS2020)
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
-- [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
 - [How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations](https://arxiv.org/abs/1909.04925) (CIKM2019)
