@@ -382,6 +382,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval](https://arxiv.org/abs/2006.15498) [[github](https://github.com/jingtaozhan/RepBERT-Index)]
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)
 - [Multi-Perspective Semantic Information Retrieval](https://arxiv.org/abs/2009.01938)
+- [BERT-QE: Contextualized Query Expansion for Document Re-ranking](https://arxiv.org/abs/2009.07258) (EMNLP2020 Findings)
 - [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
 - [IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles](https://arxiv.org/abs/2007.12603)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://openreview.net/forum?id=PlUA_mgGaPq) (ACL2020 WS)
@@ -516,8 +517,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
 - [Deepening Hidden Representations from Pre-trained Language Models](https://arxiv.org/abs/1911.01940)
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
+- [Guiding Attention for Self-Supervised Learning with Transformers](https://arxiv.org/abs/2010.02399) (EMNLP2020 Findings)
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
+- [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881) (EMNLP2020 Findings)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
