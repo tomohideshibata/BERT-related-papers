@@ -425,9 +425,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
 - [Text-to-Text Pre-Training for Data-to-Text Tasks](https://arxiv.org/abs/2005.10433)
+- [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) (EMNLP2020)
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
+- [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
@@ -615,6 +617,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How fine can fine-tuning be? Learning efficient language models](https://arxiv.org/abs/2004.14129) (AISTATS2020)
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
+- [Pretrained Language Model Embryology: The Birth of ALBERT](https://arxiv.org/abs/2010.02480) (EMNLP2020) [[github](https://github.com/d223302/albert-embryology)]
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
 - [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686) (EMNLP2020)
