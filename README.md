@@ -835,6 +835,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Two-Stage Masked LM Method for Term Set Expansion](https://arxiv.org/abs/2005.01063) (ACL2020)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
+- [Mixup-Transfomer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/abs/2010.02394) (COLING2020)
 - [Unsupervised Text Style Transfer with Padded Masked Language Models](https://arxiv.org/abs/2010.01054) (EMNLP2020)
 - [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
