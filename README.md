@@ -496,8 +496,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
 - [CoLAKE: Contextualized Language and Knowledge Embedding](https://arxiv.org/abs/2010.00309) (COLING2020)
-- [REALM: Retrieval-Augmented Language Model Pre-Training](https://kentonl.com/pub/gltpc.2020.pdf) [[github](https://github.com/google-research/language/tree/master/language/realm)]
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
 - [Current Limitations of Language Models: What You Need is Retrieval](https://arxiv.org/abs/2009.06857)
 - [Taking Notes on the Fly Helps BERT Pre-training](https://arxiv.org/abs/2008.01466)
