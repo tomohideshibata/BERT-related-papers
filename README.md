@@ -277,6 +277,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Latent Relation Language Models](https://arxiv.org/abs/1908.07690) (AAAI2020)
 - [Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model](https://openreview.net/forum?id=BJlzm64tDH) (ICLR2020)
 - [Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/abs/1911.03814) (EMNLP2020) [[github](https://github.com/facebookresearch/BLINK)]
+- [Zero-shot Entity Linking with Efficient Long Range Sequence Modeling](https://arxiv.org/abs/2010.06065) (EMNLP2020 Findings)
 - [Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://www.aclweb.org/anthology/K19-1063/) (CoNLL2019)
 - [Improving Entity Linking by Modeling Latent Entity Type Information](https://arxiv.org/abs/2001.01447) (AAAI2020)
 - [Global Entity Disambiguation with Pretrained Contextualized Embeddings of Words and Entities](https://arxiv.org/abs/1909.00426)
@@ -427,6 +428,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931) (ACL2020)
 - [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
+- [Pretrained Language Models for Dialogue Generation with Multiple Input Sources](https://arxiv.org/abs/2010.07576) (EMNLP2020 Findings)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
