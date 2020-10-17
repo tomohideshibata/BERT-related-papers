@@ -235,6 +235,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings](https://arxiv.org/abs/1909.10430) (KONVENS2019)
 - [An Accurate Model for Predicting the (Graded) Effect of Context in Word Similarity Based on Bert](https://arxiv.org/abs/2005.01006)
 - [CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages](https://www.aclweb.org/anthology/2020.acl-main.369/) (ACL2020)
+- [VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling](https://arxiv.org/abs/2010.03124) (EMNLP2020)
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
@@ -771,6 +772,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/abs/1909.02950)
 - [InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
 - [ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph](https://arxiv.org/abs/2006.16934)
+- [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](https://arxiv.org/abs/2010.06775) (EMNLP2020)
 - [Cycle Text-To-Image GAN with BERT](https://arxiv.org/abs/2003.12137)
 - [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/abs/1912.03063)
 - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/2004.06165)
@@ -824,6 +826,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124)
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
 - [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
+- [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance](https://arxiv.org/abs/2010.06133) (EMNLP2020) [[github](https://github.com/lxk00/BERT-EMD)]
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [XtremeDistil: Multi-stage Distillation for Massive Multilingual Models](https://www.aclweb.org/anthology/2020.acl-main.202/) (ACL2020)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
