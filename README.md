@@ -253,6 +253,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284)
 - [Span-based Joint Entity and Relation Extraction with Transformer Pre-training](https://arxiv.org/abs/1909.07755)
 - [Fine-tune Bert for DocRED with Two-step Process](https://arxiv.org/abs/1909.11898)
+- [Relation Extraction as Two-way Span-Prediction](https://arxiv.org/abs/2010.04829) 
 - [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://arxiv.org/abs/1909.03546) (EMNLP2019)
 - [Fine-tuning BERT for Joint Entity and Relation Extraction in Chinese Medical Text](https://arxiv.org/abs/1908.07721)
 - [Downstream Model Design of Pre-trained Language Model for Relation Extraction Task](https://arxiv.org/abs/2004.03786)
@@ -466,6 +467,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406)
 - [Variance-reduced Language Pretraining via a Mask Proposal Network](https://arxiv.org/abs/2008.05333)
 - [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation](https://arxiv.org/abs/2010.02705) (EMNLP2020)
+- [Improving Self-supervised Pre-training via a Fully-Explored Masked Language Model](https://arxiv.org/abs/2010.06040)
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
@@ -528,6 +530,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
 - [Guiding Attention for Self-Supervised Learning with Transformers](https://arxiv.org/abs/2010.02399) (EMNLP2020 Findings)
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
+- [Self-training Improves Pre-training for Natural Language Understanding](https://arxiv.org/abs/2010.02194) [[github](https://github.com/facebookresearch/SentAugment)]
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
 - [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881) (EMNLP2020 Findings)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
@@ -859,6 +862,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes](https://arxiv.org/abs/2006.13484)
 - [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178)
 - [Multi-node Bert-pretraining: Cost-efficient Approach](https://arxiv.org/abs/2008.00177)
+- [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
