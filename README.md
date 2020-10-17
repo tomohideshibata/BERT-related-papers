@@ -627,6 +627,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
 - [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686) (EMNLP2020)
+- [Does Chinese BERT Encode Word Structure?](https://arxiv.org/abs/2010.07711) (COLING2020) [[github](https://github.com/ylwangy/BERT_zh_Analysis)]
 - [How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations](https://arxiv.org/abs/1909.04925) (CIKM2019)
 - [Whatcha lookin' at? DeepLIFTing BERT's Attention in Question Answering](https://arxiv.org/abs/1910.06431)
 - [What does BERT Learn from Multiple-Choice Reading Comprehension Datasets?](https://arxiv.org/abs/1910.12391)
