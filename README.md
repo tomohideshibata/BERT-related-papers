@@ -410,6 +410,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation](https://arxiv.org/abs/2005.03361) (LREC2020)
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) [[github](https://github.com/microsoft/unilm)] (NeurIPS2019)
 - [UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](https://arxiv.org/abs/2002.12804) [[github](https://github.com/microsoft/unilm)]
+- [Dual Inference for Improving Language Understanding and Generation](https://arxiv.org/abs/2010.04246) (EMNLP2020 Findings)
 - [ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training](https://arxiv.org/abs/2001.04063)
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
@@ -557,6 +558,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864) (ACL2020)
 - [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://arxiv.org/abs/2004.08178)
 - [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
+- [Query-Key Normalization for Transformers](https://arxiv.org/abs/2010.04245) (EMNLP2020 Findings)
 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794)
 - [Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change](https://arxiv.org/abs/2005.02008)
 - [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/abs/2005.14187) (ACL2020) [[github](https://github.com/mit-han-lab/hardware-aware-transformers)]
