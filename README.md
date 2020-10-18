@@ -409,6 +409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
+- [PoinT-5: Pointer Network and T-5 based Financial NarrativeSummarisation](https://arxiv.org/abs/2010.04191) (COLING2020 WS)
 - [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (ICML2019) [[github](https://github.com/microsoft/MASS)], [[github](https://github.com/microsoft/MASS/tree/master/MASS-fairseq)]
 - [JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation](https://arxiv.org/abs/2005.03361) (LREC2020)
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) [[github](https://github.com/microsoft/unilm)] (NeurIPS2019)
@@ -634,6 +635,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 - [Pretrained Language Model Embryology: The Birth of ALBERT](https://arxiv.org/abs/2010.02480) (EMNLP2020) [[github](https://github.com/d223302/albert-embryology)]
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
+- [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/abs/2010.06032) [[website](https://ai.googleblog.com/2020/10/measuring-gendered-correlations-in-pre.html)]
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
 - [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686) (EMNLP2020)
 - [Does Chinese BERT Encode Word Structure?](https://arxiv.org/abs/2010.07711) (COLING2020) [[github](https://github.com/ylwangy/BERT_zh_Analysis)]
