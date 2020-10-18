@@ -390,6 +390,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)
 - [Multi-Perspective Semantic Information Retrieval](https://arxiv.org/abs/2009.01938)
 - [BERT-QE: Contextualized Query Expansion for Document Re-ranking](https://arxiv.org/abs/2009.07258) (EMNLP2020 Findings)
+- [Beyond \[CLS\] through Ranking by Generation](https://arxiv.org/abs/2010.03073) (EMNLP2020)
 - [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
 - [IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles](https://arxiv.org/abs/2007.12603)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://openreview.net/forum?id=PlUA_mgGaPq) (ACL2020 WS)
@@ -598,6 +599,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036)
+- [Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
