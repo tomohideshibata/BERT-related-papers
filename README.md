@@ -397,6 +397,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Effective Transfer Learning for Identifying Similar Questions: Matching User Questions to COVID-19 FAQs](https://arxiv.org/abs/2008.13546)
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
 - [Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/abs/2006.09526) (NeurIPS2020)
+- [Teaching a New Dog Old Tricks: Resurrecting Multilingual Retrieval Using Zero-shot Learning](https://arxiv.org/abs/1912.13080) (ECIR2020)
+- [Efficient Document Re-Ranking for Transformers by Precomputing Term Representations](https://arxiv.org/abs/2004.14255) (SIGIR2020)
+- [Expansion via Prediction of Importance with Contextualization](https://arxiv.org/abs/2004.14245) (SIGIR2020)
+- [Training Curricula for Open Domain Answer Re-Ranking](https://arxiv.org/abs/2004.14269) (SIGIR2020)
+- [SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search](https://arxiv.org/abs/2010.05987) (EMNLP2020)
 ## Generation
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
