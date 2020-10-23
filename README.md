@@ -802,6 +802,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453)
 - [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912)
 - [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477)
+- [Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2010.10504)
 - [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 - [Speech-XLNet: Unsupervised Acoustic Model Pretraining For Self-Attention Networks](https://arxiv.org/abs/1910.10387)
 - [Learning Speech Representations from Raw Audio by Joint Audiovisual Self-Supervision](https://arxiv.org/abs/2007.04134) (ICML2020 WS)
