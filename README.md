@@ -433,7 +433,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159)
 - [ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation](https://arxiv.org/abs/2001.11314)
 - [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/abs/1909.10481) (AAAI2020) [[github](https://github.com/CZWin32768/XNLG)]
-- [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931) (ACL2020)
 - [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
 - [Pretrained Language Models for Dialogue Generation with Multiple Input Sources](https://arxiv.org/abs/2010.07576) (EMNLP2020 Findings)
@@ -447,8 +446,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
+- [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) [[github](https://github.com/google-research/multilingual-t5)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
+- [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
