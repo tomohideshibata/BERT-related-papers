@@ -720,6 +720,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [FinEst BERT and CroSloEngual BERT: less is more in multilingual models](https://arxiv.org/abs/2006.07890) (TSD2020)
 - [GREEK-BERT: The Greeks visiting Sesame Street](https://arxiv.org/abs/2008.12014) (SETN2020)
 - [The birth of Romanian BERT](https://arxiv.org/abs/2009.08712) (EMNLP2020 Findings)
+- [German's Next Language Model](https://arxiv.org/abs/2010.10906) (COLING2020 Industry Truck)
 - [PTT5: Pretraining and validating the T5 model on Brazilian Portuguese data](https://arxiv.org/abs/2008.09144)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
