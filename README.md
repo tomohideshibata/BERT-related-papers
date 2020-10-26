@@ -634,6 +634,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
 - [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916)
+- [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/abs/2010.04903) (EMNLP2020)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
