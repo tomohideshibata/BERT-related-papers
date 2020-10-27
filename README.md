@@ -766,6 +766,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/abs/2009.02835)
 - [Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634) (ACL2020) [[github](https://github.com/lanwuwei/BERTOverflow)]
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200)
+- [TweetBERT: A Pretrained Language Representation Model for Twitter Text Analysis](https://arxiv.org/abs/2010.11091)
 - [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media](https://arxiv.org/abs/2010.01150) (EMNLP2020 Findings)
 ## Multi-modal
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
