@@ -98,6 +98,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://www.aclweb.org/anthology/P19-1227/) (ACL2019)
+- [XOR QA: Cross-lingual Open-Retrieval Question Answering](https://arxiv.org/abs/2010.11856) [[website](https://nlp.cs.washington.edu/xorqa/)]
 - [Cross-Lingual Machine Reading Comprehension](https://arxiv.org/abs/1909.00361) (EMNLP2019)
 - [Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model](https://arxiv.org/abs/1909.09587)
 - [Multilingual Question Answering from Formatted Text applied to Conversational Agents](https://arxiv.org/abs/1910.04659)
