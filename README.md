@@ -409,6 +409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-stage Pretraining for Abstractive Summarization](https://arxiv.org/abs/1909.10599)
 - [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
 - [Abstractive Summarization with Combination of Pre-trained Sequence-to-Sequence and Saliency Models](https://arxiv.org/abs/2003.13028)
+- [GSum: A General Framework for Guided Neural Abstractive Summarization](https://arxiv.org/abs/2010.08014) [[github](https://github.com/neulab/guided_summarization)]
 - [STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)
 - [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011) [[github](https://github.com/allenai/scitldr)]
 - [Product Title Generation for Conversational Systems using BERT](https://arxiv.org/abs/2007.11768)
