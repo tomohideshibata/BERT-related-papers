@@ -241,6 +241,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
 - [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/abs/1910.00883) (EMNLP2019 WS)
+- [Improving BERT Performance for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.11731)
 - [Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification](https://arxiv.org/abs/1908.11860) (LREC2020)
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 - ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
@@ -327,6 +328,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition](https://arxiv.org/abs/2004.03066)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
+- [ANLIzing the Adversarial Natural Language Inference Dataset](https://arxiv.org/abs/2010.12729)
 - [Syntactic Data Augmentation Increases Robustness to Inference Heuristics](https://arxiv.org/abs/2004.11999) (ACL2020)
 - [HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference](https://arxiv.org/abs/2003.02756) (LREC2020)
 - [Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained Languages](https://arxiv.org/abs/2004.14963) (EMNLP2020) [[github](https://github.com/boun-tabi/NLI-TR)]
