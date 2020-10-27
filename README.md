@@ -291,6 +291,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://arxiv.org/abs/2010.03295) (EMNLP2020)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
+- [Inducing Taxonomic Knowledge from Pretrained Transformers](https://arxiv.org/abs/2010.12813)
+- [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
 ### Text classification
 - [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
