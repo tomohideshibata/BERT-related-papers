@@ -126,6 +126,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking](https://arxiv.org/abs/1912.08555) (ECIR2020)
 - [MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/abs/2004.04494) (ACL2020)
 - [DialBERT: A Hierarchical Pre-Trained Model for Conversation Disentanglement](https://arxiv.org/abs/2004.03760)
+- [Generalized Conditioned Dialogue Generation Based on Pre-trained Language Model](https://arxiv.org/abs/2010.11140)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
 ### Slot filling
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
@@ -452,6 +453,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
 - [Text-to-Text Pre-Training for Data-to-Text Tasks](https://arxiv.org/abs/2005.10433)
 - [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) (EMNLP2020)
+- [Structure-Grounded Pretraining for Text-to-SQL](https://arxiv.org/abs/2010.12773)
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
