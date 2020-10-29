@@ -318,6 +318,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On Data Augmentation for Extreme Multi-label Classification](https://arxiv.org/abs/2009.10778)
 - [Towards Evaluating the Robustness of Chinese BERT Classifiers](https://arxiv.org/abs/2004.03742)
 - [COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter](https://arxiv.org/abs/2005.07503) [[github](https://github.com/digitalepidemiologylab/covid-twitter-bert)]
+- [Large Scale Legal Text Classification Using Transformer Models](https://arxiv.org/abs/2010.12871)
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
@@ -478,6 +479,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129) (ACL2019)
 - [ERNIE: Enhanced Representation through Knowledge Integration](https://arxiv.org/abs/1904.09223)
 - [ERNIE 2.0: A Continual Pre-training Framework for Language Understanding](https://arxiv.org/abs/1907.12412) (AAAI2020)
+- [ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding](https://arxiv.org/abs/2010.12148)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) (NeurIPS2019) [[github](https://github.com/zihangdai/xlnet)]
 - [MPNet: Masked and Permuted Pre-training for Language Understanding](https://arxiv.org/abs/2004.09297)
 - [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
