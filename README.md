@@ -391,6 +391,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Deeper Text Understanding for IR with Contextual Neural Language Modeling](https://arxiv.org/abs/1905.09217) (SIGIR2019)
 - [FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance](https://arxiv.org/abs/1905.02851) (SIGIR2019)
 - [An Analysis of BERT FAQ Retrieval Models for COVID-19 Infobot](https://openreview.net/forum?id=dGOeF3y_Weh)
+- [COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval](https://arxiv.org/abs/2010.12800)
 - [Unsupervised FAQ Retrieval with Question Generation and BERT](https://www.aclweb.org/anthology/2020.acl-main.74/) (ACL2020)
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 - [Learning-to-Rank with BERT in TF-Ranking](https://arxiv.org/abs/2004.08476)
@@ -864,10 +865,12 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
 - [Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning](https://arxiv.org/abs/2009.08065) (EMNLP2020 Findings)
+- [FastFormers: Highly Efficient Transformer Models for Natural Language Understanding](https://arxiv.org/abs/2010.13382) (EMNLP2020 WS)
 - [Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
 - [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/abs/2001.04246)
 - [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
 - [Optimizing Transformers with Approximate Computing for Faster, Smaller and more Accurate NLP Models](https://arxiv.org/abs/2010.03688)
+- [An Approximation Algorithm for Optimal Subarchitecture Extraction](https://arxiv.org/abs/2010.08512) [[github](https://github.com/alexa/bort/)]
 - [Structured Pruning of a BERT-based Question Answering Model](https://arxiv.org/abs/1910.06360)
 - [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://arxiv.org/abs/2005.00697) (ACL2020)
 - [Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829) (ACL2020)
