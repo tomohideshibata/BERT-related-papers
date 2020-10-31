@@ -142,6 +142,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Does BERT agree? Evaluating knowledge of structure dependence through agreement relations](https://arxiv.org/abs/1908.09892)
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
 - [LIMIT-BERT : Linguistic Informed Multi-Task BERT](https://arxiv.org/abs/1910.14296) (EMNLP2020 Findings)
+- [Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards](https://arxiv.org/abs/2010.05567)
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
 - [BERT-Based Arabic Social Media Author Profiling](https://arxiv.org/abs/1909.04181)
 - [Sentence-Level BERT and Multi-Task Learning of Age and Gender in Social Media](https://arxiv.org/abs/1911.00637)
