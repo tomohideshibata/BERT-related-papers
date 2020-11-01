@@ -274,6 +274,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [AutoRC: Improving BERT Based Relation Classification Models via Architecture Search](https://arxiv.org/abs/2009.10680)
+- [Cross-Lingual Relation Extraction with Transformers](https://arxiv.org/abs/2010.08652)
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
 - [A BERT-based One-Pass Multi-Task Model for Clinical Temporal Relation Extraction](https://www.aclweb.org/anthology/2020.bionlp-1.7/) (ACL2020 WS)
@@ -295,6 +296,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057) (EMNLP2020) [[github](https://github.com/studio-ousia/luke)]
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [Efficient One-Pass End-to-End Entity Linking for Questions](https://arxiv.org/abs/2010.02413) (EMNLP2020) [[github](https://github.com/belindal/BLINK/tree/master/elq)]
+- [Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking](https://arxiv.org/abs/2010.09828)
 - [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://arxiv.org/abs/2010.03295) (EMNLP2020)
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
