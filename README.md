@@ -713,6 +713,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer](https://arxiv.org/abs/2005.00052)
 - [From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers](https://arxiv.org/abs/2005.00633)
 - [Language Representation in Multilingual BERT and its applications to improve Cross-lingual Generalization](https://arxiv.org/abs/2010.10041)
+- [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://openreview.net/forum?id=YjNv-hzM8BE)
 - [On the Language Neutrality of Pre-trained Multilingual Representations](https://arxiv.org/abs/2004.05160)
 - [Are All Languages Created Equal in Multilingual BERT?](https://arxiv.org/abs/2005.09093) (ACL2020 WS)
 - [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
