@@ -801,6 +801,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
+- [What is More Likely to Happen Next? Video-and-Language Future Event Prediction](https://arxiv.org/abs/2010.07999) (EMNLP2020)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
 - [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://arxiv.org/abs/2004.10796) (ECCV2020) [[website](http://visualcomet.xyz)]
 - [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379)
