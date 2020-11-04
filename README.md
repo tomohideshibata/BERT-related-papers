@@ -656,6 +656,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
 - [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916)
+- [How Far Does BERT Look At:Distance-based Clustering and Analysis of BERT′s Attention](https://arxiv.org/abs/2011.00943)
 - [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/abs/2010.04903) (EMNLP2020)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
@@ -771,6 +772,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Predicting Clinical Diagnosis from Patients Electronic Health Records Using BERT-based Neural Networks](https://arxiv.org/abs/2007.07562) (AIME2020)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
+- [UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus](https://arxiv.org/abs/2010.10391)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
 - [A clinical specific BERT developed with huge size of Japanese clinical narrative](https://www.medrxiv.org/content/10.1101/2020.07.07.20148585v1)
 - [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) (ACL2020) [[github](https://github.com/xiangyue9607/CliniRC)]
@@ -803,6 +805,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://arxiv.org/abs/2009.11278) (EMNLP2020)
 - [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
+- [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b) [[github](https://github.com/gsarti/lambda-bert)]
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
 - [What is More Likely to Happen Next? Video-and-Language Future Event Prediction](https://arxiv.org/abs/2010.07999) (EMNLP2020)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
@@ -946,6 +949,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT has a Moral Compass: Improvements of ethical and moral values of machines](https://arxiv.org/abs/1912.05238)
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
 - [BERT Learns (and Teaches) Chemistry](https://arxiv.org/abs/2007.16012)
+- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2010.09885)
 - [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) (CVPR2020)
 - [The Chess Transformer: Mastering Play using Generative Language Models](https://arxiv.org/abs/2008.04057)
 - [The Go Transformer: Natural Language Modeling for Game Play](https://arxiv.org/abs/2007.03500)
