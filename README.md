@@ -871,7 +871,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT Loses Patience: Fast and Robust Inference with Early Exit](https://arxiv.org/abs/2006.04152) [[github](https://github.com/JetRunner/PABEE)] [[github](https://github.com/huggingface/transformers/tree/master/examples/bert-loses-patience)]
 - [FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://www.aclweb.org/anthology/2020.acl-main.537/) (ACL2020)
 - [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
-- [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124)
+- [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124) (COLING2020)
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
 - [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
 - [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance](https://arxiv.org/abs/2010.06133) (EMNLP2020) [[github](https://github.com/lxk00/BERT-EMD)]
