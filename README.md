@@ -428,6 +428,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)
 - [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011) [[github](https://github.com/allenai/scitldr)]
 - [Product Title Generation for Conversational Systems using BERT](https://arxiv.org/abs/2007.11768)
+- [WSL-DS: Weakly Supervised Learning with Distant Supervision for Query Focused Multi-Document Abstractive Summarization](https://arxiv.org/abs/2011.01421) (COLING2020)
 - [Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
