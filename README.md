@@ -493,6 +493,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) (TACL2020) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
 - [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/abs/2008.11869)
+- [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
