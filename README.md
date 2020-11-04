@@ -535,6 +535,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
 - [CoLAKE: Contextualized Language and Knowledge Embedding](https://arxiv.org/abs/2010.00309) (COLING2020)
+- [Coarse-to-Fine Pre-training for Named Entity Recognition](https://arxiv.org/abs/2010.08210) (EMNLP2020)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
