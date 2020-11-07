@@ -107,6 +107,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MLQA: Evaluating Cross-lingual Extractive Question Answering](https://arxiv.org/abs/1910.07475)
 - [Multilingual Synthetic Question and Answer Generation for Cross-Lingual Reading Comprehension](https://arxiv.org/abs/2010.12008)
 - [Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering](https://arxiv.org/abs/2010.12643)
+- [Cross-lingual Machine Reading Comprehension with Language Branch Knowledge Distillation](https://arxiv.org/abs/2010.14271) (COLING2020)
 - [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://arxiv.org/abs/2007.15207) [[github](https://github.com/apple/ml-mkqa)]
 - [Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension](https://arxiv.org/abs/1904.09679) (TACL)
 - [SberQuAD - Russian Reading Comprehension Dataset: Description and Analysis](https://arxiv.org/abs/1912.09723)
