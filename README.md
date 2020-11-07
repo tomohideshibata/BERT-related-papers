@@ -384,6 +384,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Minimal Supervision BERT-based Grammar Error Correction](https://arxiv.org/abs/2001.03521)
 - [Learning to combine Grammatical Error Corrections](https://arxiv.org/abs/1906.03897) (EMNLP2019 WS)
 - [Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction](https://arxiv.org/abs/2005.00987) (ACL2020)
+- [Chinese Grammatical Correction Using BERT-based Pre-trained Model](https://arxiv.org/abs/2011.02093) (AACL-IJCNLP2020)
 - [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) (ACL2020)
 ### IR
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
