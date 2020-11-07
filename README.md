@@ -249,6 +249,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
 - [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/abs/1910.00883) (EMNLP2019 WS)
 - [Improving BERT Performance for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.11731)
+- [Understanding Pre-trained BERT for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2011.00169) (COLING2020)
 - [Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification](https://arxiv.org/abs/1908.11860) (LREC2020)
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 - ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
@@ -476,6 +477,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
 - [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
+- [TransQuest: Translation Quality Estimation with Cross-lingual Transformers](https://arxiv.org/abs/2011.01536) (COLING2020)
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
 - [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622) (EMNLP2019) [[github](https://github.com/AIPHES/emnlp19-moverscore)]
 - [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
