@@ -106,6 +106,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels](https://arxiv.org/abs/1910.05040) (EMNLP2019)
 - [MLQA: Evaluating Cross-lingual Extractive Question Answering](https://arxiv.org/abs/1910.07475)
 - [Multilingual Synthetic Question and Answer Generation for Cross-Lingual Reading Comprehension](https://arxiv.org/abs/2010.12008)
+- [Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering](https://arxiv.org/abs/2010.12643)
 - [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://arxiv.org/abs/2007.15207) [[github](https://github.com/apple/ml-mkqa)]
 - [Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension](https://arxiv.org/abs/1904.09679) (TACL)
 - [SberQuAD - Russian Reading Comprehension Dataset: Description and Analysis](https://arxiv.org/abs/1912.09723)
@@ -708,6 +709,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Emerging Cross-lingual Structure in Pretrained Language Models](https://arxiv.org/abs/1911.01464) (ACL2020)
 - [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
 - [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116) (ACL2020)
+- [FILTER: An Enhanced Fusion Method for Cross-lingual Language Understanding](https://arxiv.org/abs/2009.05166)
 - [Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study](https://arxiv.org/abs/2009.14304) (EMNLP2020 Findings)
 - [Emerging Cross-lingual Structure in Pretrained Language Models](https://arxiv.org/abs/1911.01464)
 - [Can Monolingual Pretrained Models Help Cross-Lingual Classification?](https://arxiv.org/abs/1911.03913)
@@ -728,6 +730,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://openreview.net/forum?id=YjNv-hzM8BE)
 - [On the Language Neutrality of Pre-trained Multilingual Representations](https://arxiv.org/abs/2004.05160)
 - [Are All Languages Created Equal in Multilingual BERT?](https://arxiv.org/abs/2005.09093) (ACL2020 WS)
+- [When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Models](https://arxiv.org/abs/2010.12858)
 - [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
 - [WikiBERT models: deep transfer learning for many languages](https://arxiv.org/abs/2006.01538)
 - [Inducing Language-Agnostic Multilingual Representations](https://arxiv.org/abs/2008.09112)
