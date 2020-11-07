@@ -172,6 +172,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
 - [KEIS@JUST at SemEval-2020 Task 12: Identifying Multilingual Offensive Tweets Using Weighted Ensemble and Fine-Tuned BERT](https://arxiv.org/abs/2005.07820)
 - [ALBERT-BiLSTM for Sequential Metaphor Detection](https://www.aclweb.org/anthology/2020.figlang-1.17/) (ACL2020 WS)
+- [A BERT-based Dual Embedding Model for Chinese Idiom Prediction](https://arxiv.org/abs/2011.02378) (COLING2020)
 - [Should You Fine-Tune BERT for Automated Essay Scoring?](https://www.aclweb.org/anthology/2020.bea-1.15/) (ACL2020 WS)
 - [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252) [[github](https://github.com/facebookresearch/KILT)]
 - [IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding](https://arxiv.org/abs/2009.05387) (AACL-IJCNLP2020)
@@ -611,6 +612,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Structural Probe for Finding Syntax in Word Representations](https://aclweb.org/anthology/papers/N/N19/N19-1419/) (NAACL2019)
 - [When Bert Forgets How To POS: Amnesic Probing of Linguistic Properties and MLM Predictions](https://arxiv.org/abs/2006.00995)
 - [Finding Universal Grammatical Relations in Multilingual BERT](https://arxiv.org/abs/2005.04511) (ACL2020)
+- [Probing Multilingual BERT for Genetic and Typological Signals](https://arxiv.org/abs/2011.02070) (COLING2020)
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
 - [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (*SEM2019)
 - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950) (ACL2019)
