@@ -335,6 +335,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Evaluating the Robustness of Chinese BERT Classifiers](https://arxiv.org/abs/2004.03742)
 - [COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter](https://arxiv.org/abs/2005.07503) [[github](https://github.com/digitalepidemiologylab/covid-twitter-bert)]
 - [Large Scale Legal Text Classification Using Transformer Models](https://arxiv.org/abs/2010.12871)
+- [A Comparison of LSTM and BERT for Small Corpus](https://arxiv.org/abs/2009.05451)
 ### WSC, WNLI, NLI
 - [Exploring Unsupervised Pretraining and Sentence Structure Modelling for Winograd Schema Challenge](https://arxiv.org/abs/1904.09705)
 - [A Surprisingly Robust Trick for the Winograd Schema Challenge](https://arxiv.org/abs/1905.06290)
@@ -917,6 +918,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding BERT Rankers Under Distillation](https://arxiv.org/abs/2007.11088) (ICTIR2020)
 - [Simplified TinyBERT: Knowledge Distillation for Document Retrieval](https://arxiv.org/abs/2009.07531)
 - [Exploring the Limits of Simple Learners in Knowledge Distillation for Document Classification with DocBERT](https://www.aclweb.org/anthology/2020.repl4nlp-1.10/) (ACL2020 WS)
+- [TopicBERT for Energy Efficient Document Classification](https://arxiv.org/abs/2010.16407) (EMNLP2020 Findings)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
