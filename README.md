@@ -468,6 +468,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931) (ACL2020)
 - [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
 - [Pretrained Language Models for Dialogue Generation with Multiple Input Sources](https://arxiv.org/abs/2010.07576) (EMNLP2020 Findings)
+- [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://arxiv.org/abs/2010.08824) (EMNLP2020)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
