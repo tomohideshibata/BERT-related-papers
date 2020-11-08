@@ -141,6 +141,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](https://arxiv.org/abs/1907.03750) (ACL2019) 
 - [BERT-based Lexical Substitution](https://www.aclweb.org/anthology/P19-1328) (ACL2019) 
 - [Assessing BERT’s Syntactic Abilities](https://arxiv.org/abs/1901.05287)
+- [Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization](https://arxiv.org/abs/2011.02417) (EMNLP2020 WS)
 - [Does BERT agree? Evaluating knowledge of structure dependence through agreement relations](https://arxiv.org/abs/1908.09892)
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
 - [LIMIT-BERT : Linguistic Informed Multi-Task BERT](https://arxiv.org/abs/1910.14296) (EMNLP2020 Findings)
@@ -181,6 +182,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
+- [Joint Persian Word Segmentation Correction and Zero-Width Non-Joiner Recognition Using BERT](https://arxiv.org/abs/2010.00287)
 - [Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning](https://arxiv.org/abs/1903.04190)
 - [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/abs/1908.04943) (FLAIRS-33)
 - [Evaluating Contextualized Embeddings on 54 Languages in POS Tagging, Lemmatization and Dependency Parsing](https://arxiv.org/abs/1908.07448) 
@@ -251,6 +253,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232) (NAACL2019)
 - [Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](https://arxiv.org/abs/1910.00883) (EMNLP2019 WS)
 - [Improving BERT Performance for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.11731)
+- [Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.07523)
 - [Understanding Pre-trained BERT for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2011.00169) (COLING2020)
 - [Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification](https://arxiv.org/abs/1908.11860) (LREC2020)
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
@@ -278,6 +281,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [AutoRC: Improving BERT Based Relation Classification Models via Architecture Search](https://arxiv.org/abs/2009.10680)
+- [Investigation of BERT Model on Biomedical Relation Extraction Based on Revised Fine-tuning Mechanism](https://arxiv.org/abs/2011.00398)
 - [Cross-Lingual Relation Extraction with Transformers](https://arxiv.org/abs/2010.08652)
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
@@ -735,6 +739,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
 - [WikiBERT models: deep transfer learning for many languages](https://arxiv.org/abs/2006.01538)
 - [Inducing Language-Agnostic Multilingual Representations](https://arxiv.org/abs/2008.09112)
+- [It's not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT](https://arxiv.org/abs/2010.08275) (EMNLP2020 WS)
 - [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://arxiv.org/abs/2010.12309)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721) (EMNLP2020)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
