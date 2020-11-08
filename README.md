@@ -445,6 +445,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
+- [Mixed-Lingual Pre-training for Cross-lingual Summarization](https://arxiv.org/abs/2010.08892) (AACL-IJCNLP2020)
 - [PoinT-5: Pointer Network and T-5 based Financial NarrativeSummarisation](https://arxiv.org/abs/2010.04191) (COLING2020 WS)
 - [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) (ICML2019) [[github](https://github.com/microsoft/MASS)], [[github](https://github.com/microsoft/MASS/tree/master/MASS-fairseq)]
 - [JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation](https://arxiv.org/abs/2005.03361) (LREC2020)
