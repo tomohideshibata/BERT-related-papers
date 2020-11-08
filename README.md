@@ -822,6 +822,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contrastive Bidirectional Transformer for Temporal Representation Learning](https://arxiv.org/abs/1906.05743)
 - [M-BERT: Injecting Multimodal Information in the BERT Structure](https://arxiv.org/abs/1908.05787)
 - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490) (EMNLP2019)
+- [Weakly-supervised VisualBERT: Pre-training without Parallel Images and Captions](https://arxiv.org/abs/2010.12831)
 - [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://arxiv.org/abs/2009.11278) (EMNLP2020)
 - [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
@@ -862,10 +863,13 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 - [Speech-XLNet: Unsupervised Acoustic Model Pretraining For Self-Attention Networks](https://arxiv.org/abs/1910.10387)
 - [Learning Speech Representations from Raw Audio by Joint Audiovisual Self-Supervision](https://arxiv.org/abs/2007.04134) (ICML2020 WS)
+- [Semi-Supervised Spoken Language Understanding via Self-Supervised Speech and Language Model Pretraining](https://arxiv.org/abs/2010.13826)
+- [ST-BERT: Cross-modal Language Model Pre-training For End-to-end Spoken Language Understanding](https://arxiv.org/abs/2010.12283)
 - [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979)
 - [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/abs/2004.10093) (ACL2020)
 - [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307)
 - [To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection](https://arxiv.org/abs/2008.01551) (Interspeech2020)
+- [BERT for Joint Multichannel Speech Dereverberation with Spatial-aware Tasks](https://arxiv.org/abs/2010.10892)
 ## Model compression
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 - [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) (EMNLP2019)
