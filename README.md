@@ -591,6 +591,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Self-training Improves Pre-training for Natural Language Understanding](https://arxiv.org/abs/2010.02194) [[github](https://github.com/facebookresearch/SentAugment)]
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
 - [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881) (EMNLP2020 Findings)
+- [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
 ## Transformer variants
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
@@ -691,6 +692,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pretrained Language Model Embryology: The Birth of ALBERT](https://arxiv.org/abs/2010.02480) (EMNLP2020) [[github](https://github.com/d223302/albert-embryology)]
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/abs/2010.06032) [[website](https://ai.googleblog.com/2020/10/measuring-gendered-correlations-in-pre.html)]
+- [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/abs/2010.14534) (COLING2020 WS)
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
 - [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686) (EMNLP2020)
 - [Does Chinese BERT Encode Word Structure?](https://arxiv.org/abs/2010.07711) (COLING2020) [[github](https://github.com/ylwangy/BERT_zh_Analysis)]
