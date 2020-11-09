@@ -470,6 +470,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
 - [Pretrained Language Models for Dialogue Generation with Multiple Input Sources](https://arxiv.org/abs/2010.07576) (EMNLP2020 Findings)
 - [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://arxiv.org/abs/2010.08824) (EMNLP2020)
+- [Open-Domain Dialogue Generation Based on Pre-trained Language Models](https://arxiv.org/abs/2010.12780)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
@@ -480,6 +481,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
+- [EIGEN: Event Influence GENeration using Pre-trained Language Models](https://arxiv.org/abs/2010.11764)
+- [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) [[github](https://github.com/google-research/multilingual-t5)]
