@@ -425,6 +425,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Training Curricula for Open Domain Answer Re-Ranking](https://arxiv.org/abs/2004.14269) (SIGIR2020)
 - [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
 - [IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles](https://arxiv.org/abs/2007.12603)
+- [ProphetNet-Ads: A Looking Ahead Strategy for Generative Retrieval Models in Sponsored Search Engine](https://arxiv.org/abs/2010.10789) (NLPCC2020)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://openreview.net/forum?id=PlUA_mgGaPq) (ACL2020 WS)
 - [SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search](https://arxiv.org/abs/2010.05987) (EMNLP2020)
 - [Effective Transfer Learning for Identifying Similar Questions: Matching User Questions to COVID-19 FAQs](https://arxiv.org/abs/2008.13546)
