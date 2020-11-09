@@ -239,6 +239,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://www.aclweb.org/anthology/2020.acl-main.482/) (ACL2020)
 - [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
 - [Bridging Anaphora Resolution as Question Answering](https://arxiv.org/abs/2004.07898) (ACL2020)
+- [Fine-grained Information Status Classification Using Discourse Context-Aware BERT](https://arxiv.org/abs/2010.14759) (COLING2020)
 ### Word sense disambiguation
 - [Language Models and Word Sense Disambiguation: An Overview and Analysis](https://arxiv.org/abs/2008.11608)
 - [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
