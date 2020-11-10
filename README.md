@@ -124,7 +124,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems](https://arxiv.org/abs/2004.10663)
 - [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891) (ACL2020)
 - [A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/abs/2008.12335) (KDD2020 WS)
-- [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871)
+- [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871) (EMNLP2020)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 - [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/abs/2004.03588)
 - [Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking](https://arxiv.org/abs/1912.08555) (ECIR2020)
@@ -542,6 +542,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SegaBERT: Pre-training of Segment-aware BERT for Language Understanding](https://arxiv.org/abs/2004.14996)
 - [DisSent: Sentence Representation Learning from Explicit Discourse Relations](https://arxiv.org/abs/1710.04334) (ACL2019)
 - [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/abs/2005.10389) (ACL2020)
+- [SLM: Learning a Discourse Language Representation with Sentence Unshuffling](https://arxiv.org/abs/2010.16249) (EMNLP2020)
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577) (ICLR2020)
 - [Retrofitting Structure-aware Transformer Language Model for End Tasks](https://arxiv.org/abs/2009.07408) (EMNLP2020)
 - [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/abs/1911.06156)
@@ -707,7 +708,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA](https://arxiv.org/abs/2009.08257) (EMNLP2020)
 - [How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope](https://www.aclweb.org/anthology/2020.acl-main.429/) (ACL2020)
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
-- [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561)
+- [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561) (EMNLP2020)
 - [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
 - [The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models](https://arxiv.org/abs/2008.05122) [[github](https://github.com/pair-code/lit)]
@@ -758,7 +759,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://arxiv.org/abs/2010.12309)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721) (EMNLP2020)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
-- [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516)
+- [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT](https://arxiv.org/abs/2004.14516) (EMNLP2020)
 - [BERT for Monolingual and Cross-Lingual Reverse Dictionary](https://arxiv.org/abs/2009.14790) (EMNLP2020 Findings)
 - [Bilingual Text Extraction as Reading Comprehension](https://arxiv.org/abs/2004.14517)
 - [Evaluating Multilingual BERT for Estonian](https://arxiv.org/abs/2010.00454)
@@ -816,7 +817,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT-XML: Large Scale Automated ICD Coding Using BERT Pretraining](https://arxiv.org/abs/2006.03685)
 - [Prediction of ICD Codes with Clinical BERT Embeddings and Text Augmentation with Label Balancing using MIMIC-III](https://arxiv.org/abs/2008.10492)
 - [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://arxiv.org/abs/2010.03746) (EMNLP2020)
-- [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167)
+- [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167) (EMNLP2020)
 - [Students Need More Attention: BERT-based Attention Model for Small Data with Application to Automatic Patient Message Triage](https://arxiv.org/abs/2006.11991) (MLHC2020)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
@@ -846,7 +847,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
 - [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://arxiv.org/abs/2004.10796) (ECCV2020) [[website](http://visualcomet.xyz)]
 - [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379)
-- [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278)
+- [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278) (EMNLP2020)
 - [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530) (ICLR2020)
 - [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066)
 - [UNITER: Learning UNiversal Image-TExt Representations](https://arxiv.org/abs/1909.11740)
