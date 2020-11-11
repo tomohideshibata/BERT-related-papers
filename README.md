@@ -650,6 +650,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Linguistic Systematicity](https://arxiv.org/abs/2005.04315) (ACL2020)
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [A Cross-Task Analysis of Text Span Representations](https://www.aclweb.org/anthology/2020.repl4nlp-1.20/) (ACL2020 WS)
+- [When Do You Need Billions of Words of Pretraining Data?](https://arxiv.org/abs/2011.04946) [[github](https://github.com/nyu-mll/pretraining-learning-curves)]
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
