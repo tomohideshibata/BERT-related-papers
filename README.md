@@ -578,6 +578,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
 - [Parameter-free Sentence Embedding via Orthogonal Basis](https://arxiv.org/abs/1810.00438) (EMNLP2019)
 - [SBERT-WK: A Sentence Embedding Method By Dissecting BERT-based Word Models](https://arxiv.org/abs/2002.06652)
+- [On the Sentence Embeddings from Pre-trained Language Models](https://arxiv.org/abs/2011.05864) (EMNLP2020)
 - [BURT: BERT-inspired Universal Representation from Twin Structure](https://arxiv.org/abs/2004.13947)
 - [Universal Text Representation from BERT: An Empirical Study](https://arxiv.org/abs/1910.07973)
 - [Symmetric Regularization based BERT for Pair-wise Semantic Reasoning](https://arxiv.org/abs/1909.03405) (SIGIR2020)
