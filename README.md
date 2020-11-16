@@ -717,6 +717,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models](https://arxiv.org/abs/2008.05122) [[github](https://github.com/pair-code/lit)]
 - [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
 ## Multi-lingual
+- [Load What You Need: Smaller Versions of Multilingual BERT](https://arxiv.org/abs/2010.05609) (EMNLP2020) [[github](https://github.com/Geotrend-research/smaller-transformers)]
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
 - [Language Model Pretraining](https://arxiv.org/abs/1901.07291) (NeurIPS2019) [[github](https://github.com/facebookresearch/XLM)]
 - [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099) (EMNLP2019) [[github](https://github.com/hyperparticle/udify)]
