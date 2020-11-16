@@ -695,7 +695,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Analyzing Individual Neurons in Pre-trained Language Models](https://arxiv.org/abs/2010.02695) (EMNLP2020)
 - [How fine can fine-tuning be? Learning efficient language models](https://arxiv.org/abs/2004.14129) (AISTATS2020)
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
-- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
+- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) (TACL2020)
 - [Pretrained Language Model Embryology: The Birth of ALBERT](https://arxiv.org/abs/2010.02480) (EMNLP2020) [[github](https://github.com/d223302/albert-embryology)]
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/abs/2010.06032) [[website](https://ai.googleblog.com/2020/10/measuring-gendered-correlations-in-pre.html)]
