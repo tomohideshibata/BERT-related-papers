@@ -57,10 +57,12 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2010.08191) 
 - [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/abs/2002.03932) (ICLR2020)
 - [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/abs/1908.08167) (EMNLP2019)
+- [QED: A Framework and Dataset for Explanations in Question Answering](https://arxiv.org/abs/2009.06354) [[github](https://github.com/google-research-datasets/QED)]
 - [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering](https://arxiv.org/abs/1911.10470) (ICLR2020)
 - [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/abs/2007.00814)
 - [RECONSIDER: Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering](https://arxiv.org/abs/2010.10757)
 - [SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval](https://arxiv.org/abs/2009.13013)
+- [Don't Read Too Much into It: Adaptive Computation for Open-Domain Question Answering](https://arxiv.org/abs/2011.05435) (EMNLP2020 WS)
 - [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation](https://arxiv.org/abs/2009.13815)
 - [RikiNet: Reading Wikipedia Pages for Natural Question Answering](https://arxiv.org/abs/2004.14560) (ACL2020)
 - [BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA](https://arxiv.org/abs/2005.00766)
