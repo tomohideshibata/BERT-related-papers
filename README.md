@@ -808,6 +808,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining](https://arxiv.org/abs/2005.02799) (ACL2020 WS)
 - [Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing](https://arxiv.org/abs/2007.15779) [[github](https://microsoft.github.io/BLURB/)]
 - [BioMegatron: Larger Biomedical Domain Language Model](https://arxiv.org/abs/2010.06060) (EMNLP2020) [[website](https://developer.nvidia.com/blog/building-state-of-the-art-biomedical-and-clinical-nlp-models-with-bio-megatron/)]
+- [Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art](https://www.aclweb.org/anthology/2020.clinicalnlp-1.17/) (EMNLP2020 WS)
 - [A pre-training technique to localize medical BERT and enhance BioBERT](https://arxiv.org/abs/2005.07202) [[github](https://github.com/sy-wada/blue_benchmark_with_transformers)]
 - [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
