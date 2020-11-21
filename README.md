@@ -466,7 +466,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://arxiv.org/abs/2009.07610) (EMNLP2020)
 - [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://arxiv.org/abs/1907.12461)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
-- [PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159)
+- [PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159) (EMNLP2020)
 - [ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation](https://arxiv.org/abs/2001.11314)
 - [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/abs/1909.10481) (AAAI2020) [[github](https://github.com/CZWin32768/XNLG)]
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931) (ACL2020)
