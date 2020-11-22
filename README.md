@@ -481,7 +481,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) (EMNLP2020)
 - [Large Scale Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training](https://arxiv.org/abs/2010.12688)
 - [Structure-Grounded Pretraining for Text-to-SQL](https://arxiv.org/abs/2010.12773)
+- [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) (EMNLP2020) [[github](https://github.com/google-research-datasets/ToTTo)]
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
+- [MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://arxiv.org/abs/2010.00840) (EMNLP2020)
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
 - [EIGEN: Event Influence GENeration using Pre-trained Language Models](https://arxiv.org/abs/2010.11764)
