@@ -212,6 +212,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://arxiv.org/abs/2004.12440) (ACL2020)
 - [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging](https://arxiv.org/abs/2010.14042) (EMNLP2020)
 - [Example-Based Named Entity Recognition](https://arxiv.org/abs/2008.10570)
+- [FLERT: Document-Level Features for Named Entity Recognition](https://arxiv.org/abs/2011.06993)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://arxiv.org/abs/2011.06854) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
@@ -477,6 +478,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
 - [Pretrained Language Models for Dialogue Generation with Multiple Input Sources](https://arxiv.org/abs/2010.07576) (EMNLP2020 Findings)
 - [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://arxiv.org/abs/2010.08824) (EMNLP2020)
+- [Are Pre-trained Language Models Knowledgeable to Ground Open Domain Dialogues?](https://arxiv.org/abs/2011.09708)
 - [Open-Domain Dialogue Generation Based on Pre-trained Language Models](https://arxiv.org/abs/2010.12780)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
