@@ -292,6 +292,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A BERT-based One-Pass Multi-Task Model for Clinical Temporal Relation Extraction](https://www.aclweb.org/anthology/2020.bionlp-1.7/) (ACL2020 WS)
 - [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing](https://arxiv.org/abs/2004.14577)
 - [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178) (ACL2020)
+- [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction](https://arxiv.org/abs/2010.03147) (EMNLP2020) [[github](https://github.com/dair-iitd/openie6)]
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [How Context Affects Language Models' Factual Predictions](https://openreview.net/forum?id=025X0zPfn) (AKBC2020)
@@ -315,6 +316,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
 - [Inducing Taxonomic Knowledge from Pretrained Transformers](https://arxiv.org/abs/2010.12813)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
+- [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
 ### Text classification
 - [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
@@ -541,6 +543,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694) (EMNLP2020) [[github](https://github.com/StephAO/olfmlm)]
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
+- [Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/) (EMNLP2020) [[github](https://github.com/google-research/electra)]
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
 - [KERMIT: Generative Insertion-Based Modeling for Sequences](https://arxiv.org/abs/1906.01604)
 - [CALM: Continuous Adaptive Learning for Language Modeling](https://arxiv.org/abs/2004.03794)
