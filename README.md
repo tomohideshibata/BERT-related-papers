@@ -186,6 +186,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
+- [RethinkCWS: Is Chinese Word Segmentation a Solved Task?](https://arxiv.org/abs/2011.06858) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
 - [Joint Persian Word Segmentation Correction and Zero-Width Non-Joiner Recognition Using BERT](https://arxiv.org/abs/2010.00287)
 - [Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning](https://arxiv.org/abs/1903.04190)
 - [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/abs/1908.04943) (FLAIRS-33)
@@ -212,6 +213,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging](https://arxiv.org/abs/2010.14042) (EMNLP2020)
 - [Example-Based Named Entity Recognition](https://arxiv.org/abs/2008.10570)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
+- [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://arxiv.org/abs/2011.06854) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Knowledge Guided Named Entity Recognition for BioMedical Text](https://arxiv.org/abs/1911.03869)
