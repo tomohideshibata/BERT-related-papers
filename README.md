@@ -290,6 +290,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [AutoRC: Improving BERT Based Relation Classification Models via Architecture Search](https://arxiv.org/abs/2009.10680)
 - [Investigation of BERT Model on Biomedical Relation Extraction Based on Revised Fine-tuning Mechanism](https://arxiv.org/abs/2011.00398)
+- [Experiments on transfer learning architectures for biomedical relation extraction](https://arxiv.org/abs/2011.12380)
 - [Cross-Lingual Relation Extraction with Transformers](https://arxiv.org/abs/2010.08652)
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
@@ -352,6 +353,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge](https://arxiv.org/abs/2005.05763) (ACL2020)
 - [The Sensitivity of Language Models and Humans to Winograd Schema Perturbations](https://arxiv.org/abs/2005.01348) (ACL2020)
 - [Precise Task Formalization Matters in Winograd Schema Evaluations](https://arxiv.org/abs/2010.04043) (EMNLP2020)
+- [Tackling Domain-Specific Winograd Schemas with Knowledge-Based Reasoning and Machine Learning](https://arxiv.org/abs/2011.12081)
 - [A Review of Winograd Schema Challenge Datasets and Approaches](https://arxiv.org/abs/2004.13831)
 - [Improving Natural Language Inference with a Pretrained Parser](https://arxiv.org/abs/1909.08217)
 - [Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition](https://arxiv.org/abs/2004.03066)
@@ -493,6 +495,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://arxiv.org/abs/2010.00840) (EMNLP2020)
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
+- [Pre-training Text-to-Text Transformers for Concept-centric Common Sense](https://arxiv.org/abs/2011.07956)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
 - [EIGEN: Event Influence GENeration using Pre-trained Language Models](https://arxiv.org/abs/2010.11764)
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
