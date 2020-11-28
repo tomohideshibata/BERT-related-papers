@@ -809,6 +809,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [GREEK-BERT: The Greeks visiting Sesame Street](https://arxiv.org/abs/2008.12014) (SETN2020)
 - [The birth of Romanian BERT](https://arxiv.org/abs/2009.08712) (EMNLP2020 Findings)
 - [German's Next Language Model](https://arxiv.org/abs/2010.10906) (COLING2020 Industry Truck)
+- [EstBERT: A Pretrained Language-Specific BERT for Estonian](https://arxiv.org/abs/2011.04784)
 - [Pretraining and Fine-Tuning Strategies for Sentiment Analysis of Latvian Tweets](https://arxiv.org/abs/2010.12401)
 - [PTT5: Pretraining and validating the T5 model on Brazilian Portuguese data](https://arxiv.org/abs/2008.09144)
 - [Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages](https://arxiv.org/abs/2011.02323) (NeurIPS2020 WS)
@@ -896,6 +897,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
 - [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[github](https://github.com/openai/image-gpt)] [[website](https://openai.com/blog/image-gpt/)]
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
 - [A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer](https://arxiv.org/abs/2005.08271) [[website](https://v-iashin.github.io/bmt)]
 - [Multimodal Pretraining for Dense Video Captioning](https://arxiv.org/abs/2011.11760) (AACL-IJCNLP2020)
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
@@ -909,8 +911,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning Speech Representations from Raw Audio by Joint Audiovisual Self-Supervision](https://arxiv.org/abs/2007.04134) (ICML2020 WS)
 - [Semi-Supervised Spoken Language Understanding via Self-Supervised Speech and Language Model Pretraining](https://arxiv.org/abs/2010.13826)
 - [ST-BERT: Cross-modal Language Model Pre-training For End-to-end Spoken Language Understanding](https://arxiv.org/abs/2010.12283)
+- [End-to-end spoken language understanding using transformer networks and self-supervised pre-trained features](https://arxiv.org/abs/2011.08238)
+- [Jointly Encoding Word Confusion Network and Dialogue Context with BERT for Spoken Language Understanding](https://arxiv.org/abs/2005.11640) (Interspeech2020)
 - [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979)
 - [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/abs/2004.10093) (ACL2020)
+- [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/abs/2010.11445)
 - [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307)
 - [To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection](https://arxiv.org/abs/2008.01551) (Interspeech2020)
 - [BERT for Joint Multichannel Speech Dereverberation with Spatial-aware Tasks](https://arxiv.org/abs/2010.10892)
