@@ -703,6 +703,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How Far Does BERT Look At:Distance-based Clustering and Analysis of BERT′s Attention](https://arxiv.org/abs/2011.00943)
 - [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/abs/2010.04903) (EMNLP2020)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
+- [Rethinking the Value of Transformer Components](https://arxiv.org/abs/2011.03803) (COLING2020)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
 - [Analyzing Individual Neurons in Pre-trained Language Models](https://arxiv.org/abs/2010.02695) (EMNLP2020)
