@@ -507,6 +507,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
+- [Best Practices for Data-Efficient Modeling in NLG:How to Train Production-Ready Neural Models with Less Data](https://arxiv.org/abs/2011.03877) (COLING2020)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
@@ -984,6 +985,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Mixup-Transfomer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/abs/2010.02394) (COLING2020)
 - [Unsupervised Text Style Transfer with Padded Masked Language Models](https://arxiv.org/abs/2010.01054) (EMNLP2020)
 - [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
+- [CxGBERT: BERT meets Construction Grammar](https://arxiv.org/abs/2011.04134) (COLING2020)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes](https://arxiv.org/abs/2006.13484)
 - [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178)
