@@ -296,6 +296,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
 - [A BERT-based One-Pass Multi-Task Model for Clinical Temporal Relation Extraction](https://www.aclweb.org/anthology/2020.bionlp-1.7/) (ACL2020 WS)
 - [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing](https://arxiv.org/abs/2004.14577)
+- [Temporal Reasoning on Implicit Events from Distant Supervision](https://arxiv.org/abs/2010.12753)
 - [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178) (ACL2020)
 - [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction](https://arxiv.org/abs/2010.03147) (EMNLP2020) [[github](https://github.com/dair-iitd/openie6)]
 ### Knowledge base
@@ -489,6 +490,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Few-Shot NLG with Pre-Trained Language Model](https://arxiv.org/abs/1904.09521) (ACL2020)
 - [Text-to-Text Pre-Training for Data-to-Text Tasks](https://arxiv.org/abs/2005.10433)
 - [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation](https://arxiv.org/abs/2010.02307) (EMNLP2020)
+- [Evaluating Semantic Accuracy of Data-to-Text Generation with Natural Language Inference](https://arxiv.org/abs/2011.10819) (INLG2020)
 - [Large Scale Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training](https://arxiv.org/abs/2010.12688)
 - [Structure-Grounded Pretraining for Text-to-SQL](https://arxiv.org/abs/2010.12773)
 - [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) (EMNLP2020) [[github](https://github.com/google-research-datasets/ToTTo)]
@@ -533,6 +535,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
 - [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/abs/2008.11869)
 - [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
+- [MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining](https://arxiv.org/abs/2011.08539)
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
@@ -596,6 +599,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Parameter-free Sentence Embedding via Orthogonal Basis](https://arxiv.org/abs/1810.00438) (EMNLP2019)
 - [SBERT-WK: A Sentence Embedding Method By Dissecting BERT-based Word Models](https://arxiv.org/abs/2002.06652)
 - [On the Sentence Embeddings from Pre-trained Language Models](https://arxiv.org/abs/2011.05864) (EMNLP2020)
+- [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240)
 - [BURT: BERT-inspired Universal Representation from Twin Structure](https://arxiv.org/abs/2004.13947)
 - [Universal Text Representation from BERT: An Empirical Study](https://arxiv.org/abs/1910.07973)
 - [Symmetric Regularization based BERT for Pair-wise Semantic Reasoning](https://arxiv.org/abs/1909.03405) (SIGIR2020)
