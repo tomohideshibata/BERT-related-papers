@@ -397,6 +397,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
 - [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
 - [AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization](https://arxiv.org/abs/2004.06176)
+- [Fact-level Extractive Summarization with Hierarchical Graph Mask on BERT](https://arxiv.org/abs/2011.09739) (COLING2020)
 - [Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations](https://arxiv.org/abs/1910.11411) (EMNLP2019 WS)
 - [Continual BERT: Continual Learning for Adaptive Extractive Summarization of COVID-19 Literature](https://arxiv.org/abs/2007.03405)
 ### Grammatical error correction
