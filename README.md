@@ -493,6 +493,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Evaluating Semantic Accuracy of Data-to-Text Generation with Natural Language Inference](https://arxiv.org/abs/2011.10819) (INLG2020)
 - [Large Scale Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training](https://arxiv.org/abs/2010.12688)
 - [Structure-Grounded Pretraining for Text-to-SQL](https://arxiv.org/abs/2010.12773)
+- [Data Agnostic RoBERTa-based Natural Language to SQL Query Generation](https://arxiv.org/abs/2010.05243)
 - [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) (EMNLP2020) [[github](https://github.com/google-research-datasets/ToTTo)]
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://arxiv.org/abs/2010.00840) (EMNLP2020)
