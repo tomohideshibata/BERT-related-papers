@@ -63,6 +63,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [RECONSIDER: Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering](https://arxiv.org/abs/2010.10757)
 - [SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval](https://arxiv.org/abs/2009.13013)
 - [Don't Read Too Much into It: Adaptive Computation for Open-Domain Question Answering](https://arxiv.org/abs/2011.05435) (EMNLP2020 WS)
+- [Is Retriever Merely an Approximator of Reader?](https://arxiv.org/abs/2010.10999)
 - [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation](https://arxiv.org/abs/2009.13815)
 - [RikiNet: Reading Wikipedia Pages for Natural Question Answering](https://arxiv.org/abs/2004.14560) (ACL2020)
 - [BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA](https://arxiv.org/abs/2005.00766)
@@ -394,6 +395,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [G-DAUG: Generative Data Augmentation for Commonsense Reasoning](https://arxiv.org/abs/2004.11546)
 - [Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.00669) (ACL2020)
 - [Adversarial Training for Commonsense Inference](https://arxiv.org/abs/2005.08156) (ACL2020 WS)
+- [Do Fine-tuned Commonsense Language Models Really Generalize?](https://arxiv.org/abs/2011.09159)
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://ducdauge.github.io/files/xcopa.pdf) [[github](https://github.com/cambridgeltl/xcopa)] 
 - [Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899) (CogSci2019)
 ### Extractive summarization
@@ -691,6 +693,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
 - [Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models](https://arxiv.org/abs/2005.00782)
 - [Probing Task-Oriented Dialogue Representation from Language Models](https://arxiv.org/abs/2010.13912) (EMNLP2020)
+- [BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? -- A Study on the RAMS Dataset](https://arxiv.org/abs/2010.04098) (EMNLP2020 WS)
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/abs/1905.09418) (ACL2019) [[github](https://github.com/lena-voita/the-story-of-heads)]
