@@ -786,6 +786,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
 - [WikiBERT models: deep transfer learning for many languages](https://arxiv.org/abs/2006.01538)
 - [Inducing Language-Agnostic Multilingual Representations](https://arxiv.org/abs/2008.09112)
+- [To What Degree Can Language Borders Be Blurred In BERT-based Multilingual Spoken Language Understanding?](https://arxiv.org/abs/2011.05007) (COLING2020)
 - [It's not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT](https://arxiv.org/abs/2010.08275) (EMNLP2020 WS)
 - [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://arxiv.org/abs/2010.12309)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721) (EMNLP2020)
