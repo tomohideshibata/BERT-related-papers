@@ -588,6 +588,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
 - [CoLAKE: Contextualized Language and Knowledge Embedding](https://arxiv.org/abs/2010.00309) (COLING2020)
 - [Coarse-to-Fine Pre-training for Named Entity Recognition](https://arxiv.org/abs/2010.08210) (EMNLP2020)
+- [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://arxiv.org/abs/2011.05431) (COLING2020 WS)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
@@ -620,6 +621,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
 - [Multi-Head Attention: Collaborate Instead of Concatenate](https://arxiv.org/abs/2006.16362)
 - [Deepening Hidden Representations from Pre-trained Language Models](https://arxiv.org/abs/1911.01940)
+- [On the Transformer Growth for Progressive BERT Training](https://arxiv.org/abs/2010.12562)
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
 - [Guiding Attention for Self-Supervised Learning with Transformers](https://arxiv.org/abs/2010.02399) (EMNLP2020 Findings)
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
