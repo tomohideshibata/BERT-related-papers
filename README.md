@@ -830,7 +830,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Intrinsic Knowledge Evaluation on Chinese Language Models](https://arxiv.org/abs/2011.14277)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
-- [AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation](https://arxiv.org/abs/2009.11473) 
+- [AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation](https://arxiv.org/abs/2009.11473)
+- [UER: An Open-Source Toolkit for Pre-training Models](https://arxiv.org/abs/1909.05658)(EMNLP2020 Demo)[github](https://github.com/dbiir/UER-py)
 ## Domain specific
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
