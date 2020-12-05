@@ -451,6 +451,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/abs/2006.09526) (NeurIPS2020)
 - [Teaching a New Dog Old Tricks: Resurrecting Multilingual Retrieval Using Zero-shot Learning](https://arxiv.org/abs/1912.13080) (ECIR2020)
 ## Generation
+- [GLGE: A New General Language Generation Evaluation Benchmark](https://arxiv.org/abs/2011.11928) [[github](https://github.com/microsoft/glge)] 
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
 - [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345) (EMNLP2019) [[github (original)](https://github.com/nlpyang/PreSumm)] [[github (huggingface)](https://github.com/huggingface/transformers/tree/master/examples/summarization)]
