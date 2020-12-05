@@ -807,7 +807,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Other than English models
 - [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894) (ACL2020)
 - [On the importance of pre-training data volume for compact language models](https://arxiv.org/abs/2010.03813) (EMNLP2020)
-- [FlauBERT: Unsupervised Language Model Pre-training for French](https://arxiv.org/abs/1912.05372)
+- [FlauBERT: Unsupervised Language Model Pre-training for French](https://arxiv.org/abs/1912.05372) (LREC2020)
 - [Multilingual is not enough: BERT for Finnish](https://arxiv.org/abs/1912.07076)
 - [BERTje: A Dutch BERT Model](https://arxiv.org/abs/1912.09582)
 - [RobBERT: a Dutch RoBERTa-based Language Model](https://arxiv.org/abs/2001.06286)
@@ -823,6 +823,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [GREEK-BERT: The Greeks visiting Sesame Street](https://arxiv.org/abs/2008.12014) (SETN2020)
 - [The birth of Romanian BERT](https://arxiv.org/abs/2009.08712) (EMNLP2020 Findings)
 - [German's Next Language Model](https://arxiv.org/abs/2010.10906) (COLING2020 Industry Truck)
+- [GottBERT: a pure German Language Model](https://arxiv.org/abs/2012.02110)
 - [EstBERT: A Pretrained Language-Specific BERT for Estonian](https://arxiv.org/abs/2011.04784)
 - [Pretraining and Fine-Tuning Strategies for Sentiment Analysis of Latvian Tweets](https://arxiv.org/abs/2010.12401)
 - [PTT5: Pretraining and validating the T5 model on Brazilian Portuguese data](https://arxiv.org/abs/2008.09144)
