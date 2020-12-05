@@ -833,6 +833,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [NEZHA: Neural Contextualized Representation for Chinese Language Understanding](https://arxiv.org/abs/1909.00204)
 - [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922) (EMNLP2020 Findings)
 - [Intrinsic Knowledge Evaluation on Chinese Language Models](https://arxiv.org/abs/2011.14277)
+- [CPM: A Large-scale Generative Chinese Pre-trained Language Model](https://arxiv.org/abs/2012.00413) [[github](https://github.com/TsinghuaAI/CPM-Generate)]
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
 - [AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation](https://arxiv.org/abs/2009.11473)
