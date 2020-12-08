@@ -700,6 +700,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models](https://arxiv.org/abs/2005.00782)
 - [Probing Task-Oriented Dialogue Representation from Language Models](https://arxiv.org/abs/2010.13912) (EMNLP2020)
 - [BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? -- A Study on the RAMS Dataset](https://arxiv.org/abs/2010.04098) (EMNLP2020 WS)
+- [CxGBERT: BERT meets Construction Grammar](https://arxiv.org/abs/2011.04134) (COLING2020) [[github](https://github.com/H-TayyarMadabushi/CxGBERT-BERT-meets-Construction-Grammar)]
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/abs/1905.09418) (ACL2019) [[github](https://github.com/lena-voita/the-story-of-heads)]
@@ -1013,7 +1014,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Mixup-Transfomer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/abs/2010.02394) (COLING2020)
 - [Unsupervised Text Style Transfer with Padded Masked Language Models](https://arxiv.org/abs/2010.01054) (EMNLP2020)
 - [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
-- [CxGBERT: BERT meets Construction Grammar](https://arxiv.org/abs/2011.04134) (COLING2020)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
 - [Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes](https://arxiv.org/abs/2006.13484)
 - [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178)
