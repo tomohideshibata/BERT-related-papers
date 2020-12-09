@@ -1000,7 +1000,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TernaryBERT: Distillation-aware Ultra-low Bit BERT](https://arxiv.org/abs/2009.12812) (EMNLP2020)
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
-- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) [[github](https://github.com/openai/gpt-3)]
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
 - [Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems](https://arxiv.org/abs/2008.06239)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
 - [Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods](https://www.aclweb.org/anthology/2020.acl-main.314/) (ACL2020)
