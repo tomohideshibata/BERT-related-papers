@@ -211,6 +211,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LTP: A New Active Learning Strategy for Bert-CRF Based Named Entity Recognition](https://arxiv.org/abs/2001.02524)
 - [Named Entity Recognition as Dependency Parsing](https://arxiv.org/abs/2005.07150) (ACL2020)
 - [Exploring Cross-sentence Contexts for Named Entity Recognition with BERT](https://arxiv.org/abs/2006.01563)
+- [CrossNER: Evaluating Cross-Domain Named Entity Recognition](https://arxiv.org/abs/2012.04373) (AAAI2021) [[github](https://github.com/zliucr/CrossNER)]
 - [Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition](https://arxiv.org/abs/2006.01372) (ACL2020 SRW)
 - [BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision](https://arxiv.org/abs/2006.15509) (KDD2020) [[github](https://github.com/cliang1453/BOND)]
 - [Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve](https://arxiv.org/abs/2004.04564)
