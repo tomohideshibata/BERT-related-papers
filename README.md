@@ -219,6 +219,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging](https://arxiv.org/abs/2010.14042) (EMNLP2020)
 - [Example-Based Named Entity Recognition](https://arxiv.org/abs/2008.10570)
 - [FLERT: Document-Level Features for Named Entity Recognition](https://arxiv.org/abs/2011.06993)
+- [Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition](https://arxiv.org/abs/2012.05426)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://arxiv.org/abs/2011.06854) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
@@ -876,6 +877,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
 - [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559) (EMNLP2020 Findings)
 - [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/abs/2009.02835)
+- [BERT Goes Shopping: Comparing Distributional Models for Product Representations](https://arxiv.org/abs/2012.09807)
 - [Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634) (ACL2020) [[github](https://github.com/lanwuwei/BERTOverflow)]
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200) (EMNLP2020 Demo)
 - [TweetBERT: A Pretrained Language Representation Model for Twitter Text Analysis](https://arxiv.org/abs/2010.11091)
