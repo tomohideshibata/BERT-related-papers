@@ -913,6 +913,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
 - [Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs](https://arxiv.org/abs/2011.15124)
 - [ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph](https://arxiv.org/abs/2006.16934)
+- [KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning](https://arxiv.org/abs/2012.07000)
+- [A Closer Look at the Robustness of Vision-and-Language Pre-trained Models](https://arxiv.org/abs/2012.08673)
 - [Self-Supervised learning with cross-modal transformers for emotion recognition](https://arxiv.org/abs/2011.10652) (SLT2020)
 - [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](https://arxiv.org/abs/2010.06775) (EMNLP2020)
 - [Cycle Text-To-Image GAN with BERT](https://arxiv.org/abs/2003.12137)
