@@ -987,7 +987,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
 - [Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning](https://arxiv.org/abs/2009.08065) (EMNLP2020 Findings)
-- [FastFormers: Highly Efficient Transformer Models for Natural Language Understanding](https://arxiv.org/abs/2010.13382) (EMNLP2020 WS)
+- [FastFormers: Highly Efficient Transformer Models for Natural Language Understanding](https://arxiv.org/abs/2010.13382) (EMNLP2020 WS) [[github](https://github.com/microsoft/fastformers)]
 - [Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
 - [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/abs/2001.04246)
 - [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
