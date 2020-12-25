@@ -532,6 +532,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
 - [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696) (ACL2020)
 - [Masked Language Model Scoring](https://arxiv.org/abs/1910.14659) (ACL2020)
+- [Simple-QE: Better Automatic Quality Estimation for Text Simplification](https://arxiv.org/abs/2012.12382)
 ## Modification (multi-task, masking strategy, etc.)
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) (ACL2019)
 - [The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/2002.07972)
