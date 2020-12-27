@@ -409,6 +409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
 - [AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization](https://arxiv.org/abs/2004.06176)
 - [Fact-level Extractive Summarization with Hierarchical Graph Mask on BERT](https://arxiv.org/abs/2011.09739) (COLING2020)
+- [Do We Really Need That Many Parameters In Transformer For Extractive Summarization? Discourse Can Help !](https://arxiv.org/abs/2012.02144) (EMNLP2020 WS)
 - [Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations](https://arxiv.org/abs/1910.11411) (EMNLP2019 WS)
 - [Continual BERT: Continual Learning for Adaptive Extractive Summarization of COVID-19 Literature](https://arxiv.org/abs/2007.03405)
 ### Grammatical error correction
@@ -506,6 +507,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Structure-Grounded Pretraining for Text-to-SQL](https://arxiv.org/abs/2010.12773)
 - [Data Agnostic RoBERTa-based Natural Language to SQL Query Generation](https://arxiv.org/abs/2010.05243)
 - [ToTTo: A Controlled Table-To-Text Generation Dataset](https://arxiv.org/abs/2004.14373) (EMNLP2020) [[github](https://github.com/google-research-datasets/ToTTo)]
+- [Exploring Fluent Query Reformulations with Text-to-Text Transformers and Reinforcement Learning](https://arxiv.org/abs/2012.10033) (AAAI2021 WS)
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://arxiv.org/abs/2010.00840) (EMNLP2020)
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
