@@ -167,6 +167,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840) (ECIR2020) [[github](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data)]
 - [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407)
 - [Keyphrase Prediction With Pre-trained Language Model](https://arxiv.org/abs/2004.10462)
+- [Self-Supervised Contextual Keyword and Keyphrase Retrieval with Self-Labelling](https://www.preprints.org/manuscript/201908.0073/v1) [[github](https://github.com/MaartenGr/KeyBERT)]
 - [Joint Keyphrase Chunking and Salience Ranking with BERT](https://arxiv.org/abs/2004.13639)
 - [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/abs/1911.03822) (ACL2020) [[github](https://github.com/neulab/cmu-multinlp)]
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
@@ -336,6 +337,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Text Classification Survey: From Shallow to Deep Learning](https://arxiv.org/abs/2008.00364)
 - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
+- [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://arxiv.org/abs/2010.01653) (EMNLP2020)
+- [Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://arxiv.org/abs/1905.02331) (KDD2020)
 - [DocBERT: BERT for Document Classification](https://arxiv.org/abs/1904.08398)
 - [Enriching BERT with Knowledge Graph Embeddings for Document Classification](https://arxiv.org/abs/1909.08402)
 - [Classification and Clustering of Arguments with Contextualized Word Embeddings](https://arxiv.org/abs/1906.09821) (ACL2019)
