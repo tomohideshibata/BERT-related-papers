@@ -189,6 +189,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding](https://arxiv.org/abs/2009.05387) (AACL-IJCNLP2020)
 - [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge](https://arxiv.org/abs/2010.02246) (EMNLP2020)
 - [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (AAAI2021)
+- [Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning](https://arxiv.org/abs/2012.02462) (COLING2020)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
