@@ -136,6 +136,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/abs/2004.04494) (ACL2020)
 - [DialBERT: A Hierarchical Pre-Trained Model for Conversation Disentanglement](https://arxiv.org/abs/2004.03760)
 - [Generalized Conditioned Dialogue Generation Based on Pre-trained Language Model](https://arxiv.org/abs/2010.11140)
+- [Interactive Teaching for Conversational AI](https://arxiv.org/abs/2012.00958) (NeurIPS2020 WS)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
 ### Slot filling
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
@@ -410,6 +411,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.00669) (ACL2020)
 - [Adversarial Training for Commonsense Inference](https://arxiv.org/abs/2005.08156) (ACL2020 WS)
 - [Do Fine-tuned Commonsense Language Models Really Generalize?](https://arxiv.org/abs/2011.09159)
+- [Improving Zero Shot Learning Baselines with Commonsense Knowledge](https://arxiv.org/abs/2012.06236)
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://ducdauge.github.io/files/xcopa.pdf) [[github](https://github.com/cambridgeltl/xcopa)] 
 - [Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899) (CogSci2019)
 ### Extractive summarization
@@ -709,6 +711,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results](https://arxiv.org/abs/2004.14999)
 - [A Cross-Task Analysis of Text Span Representations](https://www.aclweb.org/anthology/2020.repl4nlp-1.20/) (ACL2020 WS)
 - [When Do You Need Billions of Words of Pretraining Data?](https://arxiv.org/abs/2011.04946) [[github](https://github.com/nyu-mll/pretraining-learning-curves)]
+- [Picking BERT's Brain: Probing for Linguistic Dependencies in Contextualized Embeddings Using Representational Similarity Analysis](https://arxiv.org/abs/2011.12073)
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
@@ -1029,6 +1032,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
 - [TernaryBERT: Distillation-aware Ultra-low Bit BERT](https://arxiv.org/abs/2009.12812) (EMNLP2020)
+- [EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP](https://arxiv.org/abs/2011.14203)
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
