@@ -263,6 +263,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings](https://arxiv.org/abs/1909.10430) (KONVENS2019)
 - [An Accurate Model for Predicting the (Graded) Effect of Context in Word Similarity Based on Bert](https://arxiv.org/abs/2005.01006)
 - [CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages](https://www.aclweb.org/anthology/2020.acl-main.369/) (ACL2020)
+- [Cross-lingual Word Sense Disambiguation using mBERT Embeddings with Syntactic Dependencies](https://arxiv.org/abs/2012.05300)
 - [VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling](https://arxiv.org/abs/2010.03124) (EMNLP2020)
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
@@ -339,6 +340,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/abs/1905.02331)
 - [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://arxiv.org/abs/2010.01653) (EMNLP2020)
 - [Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://arxiv.org/abs/1905.02331) (KDD2020)
+- [Layer-wise Guided Training for BERT: Learning Incrementally Refined Document Representations](https://arxiv.org/abs/2010.05763) (EMNLP2020 WS)
 - [DocBERT: BERT for Document Classification](https://arxiv.org/abs/1904.08398)
 - [Enriching BERT with Knowledge Graph Embeddings for Document Classification](https://arxiv.org/abs/1909.08402)
 - [Classification and Clustering of Arguments with Contextualized Word Embeddings](https://arxiv.org/abs/1906.09821) (ACL2019)
@@ -515,6 +517,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Exploring Fluent Query Reformulations with Text-to-Text Transformers and Reinforcement Learning](https://arxiv.org/abs/2012.10033) (AAAI2021 WS)
 - [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139) (TACL2020) [[github](https://github.com/JianGuanTHU/CommonsenseStoryGen)]
 - [MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://arxiv.org/abs/2010.00840) (EMNLP2020)
+- [Facts2Story: Controlling Text Generation by Key Facts](https://arxiv.org/abs/2012.04332)
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [An Enhanced Knowledge Injection Model for Commonsense Generation](https://arxiv.org/abs/2012.00366) (COLING2020)
 - [Pre-training Text-to-Text Transformers for Concept-centric Common Sense](https://arxiv.org/abs/2011.07956)
@@ -973,6 +976,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) (NeurIPS2019 WS) [[github](https://github.com/huggingface/transformers/tree/master/examples/distillation)]
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723) (AAAI2020)
 - [Reinforced Multi-Teacher Selection for Knowledge Distillation](https://arxiv.org/abs/2012.06048) (AAAI2021)
+- [Improving Task-Agnostic BERT Distillation with Layer Mapping Search](https://arxiv.org/abs/2012.06153)
 - [PoWER-BERT: Accelerating BERT inference for Classification Tasks](https://arxiv.org/abs/2001.08950)
 - [WaLDORf: Wasteless Language-model Distillation On Reading-comprehension](https://arxiv.org/abs/1912.06638)
 - [Extreme Language Model Compression with Optimal Subwords and Shared Projections](https://arxiv.org/abs/1909.11687)
