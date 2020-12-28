@@ -188,6 +188,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252) [[github](https://github.com/facebookresearch/KILT)]
 - [IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding](https://arxiv.org/abs/2009.05387) (AACL-IJCNLP2020)
 - [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge](https://arxiv.org/abs/2010.02246) (EMNLP2020)
+- [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (AAAI2021)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
@@ -915,6 +916,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
 - [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b) [[github](https://github.com/gsarti/lambda-bert)]
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
+- [Self-supervised pre-training and contrastive representation learning for multiple-choice video QA](https://arxiv.org/abs/2009.08043) (AAAI2021)
 - [What is More Likely to Happen Next? Video-and-Language Future Event Prediction](https://arxiv.org/abs/2010.07999) (EMNLP2020)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
 - [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://arxiv.org/abs/2004.10796) (ECCV2020) [[website](http://visualcomet.xyz)]
