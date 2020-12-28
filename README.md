@@ -375,6 +375,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
 - [ANLIzing the Adversarial Natural Language Inference Dataset](https://arxiv.org/abs/2010.12729)
 - [Syntactic Data Augmentation Increases Robustness to Inference Heuristics](https://arxiv.org/abs/2004.11999) (ACL2020)
+- [Linguistically-Informed Transformations (LIT): A Method for Automatically Generating Contrast Sets](https://arxiv.org/abs/2010.08580) (EMNLP2020 WS) [[github](https://github.com/leo-liuzy/LIT_auto-gen-contrast-set)]
 - [HypoNLI: Exploring the Artificial Patterns of Hypothesis-only Bias in Natural Language Inference](https://arxiv.org/abs/2003.02756) (LREC2020)
 - [Use of Machine Translation to Obtain Labeled Datasets for Resource-Constrained Languages](https://arxiv.org/abs/2004.14963) (EMNLP2020) [[github](https://github.com/boun-tabi/NLI-TR)]
 - [FarsTail: A Persian Natural Language Inference Dataset](https://arxiv.org/abs/2009.08820)
