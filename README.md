@@ -298,6 +298,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DARE: Data Augmented Relation Extraction with GPT-2](https://arxiv.org/abs/2004.13845)
 - [Distantly-Supervised Neural Relation Extraction with Side Information using BERT](https://arxiv.org/abs/2004.14443) (IJCNN2020)
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
+- [An Embarrassingly Simple Model for Dialogue Relation Extraction](https://arxiv.org/abs/2012.13873)
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL2020) [[github](https://github.com/MurtyShikhar/ExpBERT)]
 - [AutoRC: Improving BERT Based Relation Classification Models via Architecture Search](https://arxiv.org/abs/2009.10680)
@@ -461,6 +462,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ProphetNet-Ads: A Looking Ahead Strategy for Generative Retrieval Models in Sponsored Search Engine](https://arxiv.org/abs/2010.10789) (NLPCC2020)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://openreview.net/forum?id=PlUA_mgGaPq) (ACL2020 WS)
 - [SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search](https://arxiv.org/abs/2010.05987) (EMNLP2020)
+- [Neural Duplicate Question Detection without Labeled Training Data](https://www.aclweb.org/anthology/D19-1171/) (EMNLP2019)
 - [Cross-Domain Generalization Through Memorization: A Study of Nearest Neighbors in Neural Duplicate Question Detection](https://arxiv.org/abs/2011.11090)
 - [Effective Transfer Learning for Identifying Similar Questions: Matching User Questions to COVID-19 FAQs](https://arxiv.org/abs/2008.13546)
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
@@ -599,6 +601,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SLM: Learning a Discourse Language Representation with Sentence Unshuffling](https://arxiv.org/abs/2010.16249) (EMNLP2020)
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577) (ICLR2020)
 - [Retrofitting Structure-aware Transformer Language Model for End Tasks](https://arxiv.org/abs/2009.07408) (EMNLP2020)
+- [Syntax-Enhanced Pre-trained Model](https://arxiv.org/abs/2012.14116)
 - [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/abs/1911.06156)
 - [Do Syntax Trees Help Pre-trained Transformers Extract Information?](https://arxiv.org/abs/2008.09084)
 - [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/abs/1908.05646)
@@ -607,6 +610,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/abs/1909.07606)
 - [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) (EMNLP2019)
 - [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
+- [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://arxiv.org/abs/2002.01808)
 - [JAKET: Joint Pre-training of Knowledge Graph and Language Understanding](https://arxiv.org/abs/2010.00796)
 - [E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT](https://arxiv.org/abs/1911.03681) (EMNLP2020)
 - [KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/abs/1911.06136)
