@@ -145,6 +145,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
 - [Data Augmentation for Spoken Language Understanding via Pretrained Models](https://arxiv.org/abs/2004.13952)
+- [STIL -- Simultaneous Slot Filling, Translation, Intent Classification, and Language Identification: Initial Results using mBART on MultiATIS++](https://arxiv.org/abs/2010.00760) (AACL-IJCNLP2020) [[github](https://github.com/amazon-research/stil-mbart-multiatis)]
 ### Analysis
 - [Fine-grained Information Status Classification Using Discourse Context-Aware Self-Attention](https://arxiv.org/abs/1908.04755)
 - [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](https://arxiv.org/abs/1907.03750) (ACL2019) 
