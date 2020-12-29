@@ -180,6 +180,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
 - [Adapting BERT to Implicit Discourse Relation Classification with a Focus on Discourse Connectives](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.144.pdf) (LREC2020)
 - [Labeling Explicit Discourse Relations using Pre-trained Language Models](https://arxiv.org/abs/2006.11852) (TSD2020)
+- [Causal-BERT : Language models for causality detection between events expressed in text](https://arxiv.org/abs/2012.05453)
 - [Cross-lingual Zero- and Few-shot Hate Speech Detection Utilising Frozen Transformer Language Models and AXEL](https://arxiv.org/abs/2004.13850)
 - [Same Side Stance Classification Task: Facilitating Argument Stance Classification by Fine-tuning a BERT Model](https://arxiv.org/abs/2004.11163)
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
@@ -827,6 +828,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Are All Languages Created Equal in Multilingual BERT?](https://arxiv.org/abs/2005.09093) (ACL2020 WS)
 - [When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Models](https://arxiv.org/abs/2010.12858)
 - [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
+- [Universal Sentence Representation Learning with Conditional Masked Language Model](https://arxiv.org/abs/2012.14388)
 - [WikiBERT models: deep transfer learning for many languages](https://arxiv.org/abs/2006.01538)
 - [Inducing Language-Agnostic Multilingual Representations](https://arxiv.org/abs/2008.09112)
 - [To What Degree Can Language Borders Be Blurred In BERT-based Multilingual Spoken Language Understanding?](https://arxiv.org/abs/2011.05007) (COLING2020)
@@ -914,6 +916,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TweetBERT: A Pretrained Language Representation Model for Twitter Text Analysis](https://arxiv.org/abs/2010.11091)
 - [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media](https://arxiv.org/abs/2010.01150) (EMNLP2020 Findings)
 ## Multi-modal
+- [A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265) (NeurIPS2019)
 - [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)
@@ -963,6 +966,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
 - [A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer](https://arxiv.org/abs/2005.08271) [[website](https://v-iashin.github.io/bmt)]
 - [Multimodal Pretraining for Dense Video Captioning](https://arxiv.org/abs/2011.11760) (AACL-IJCNLP2020)
+- [BERT-hLSTMs: BERT and Hierarchical LSTMs for Visual Storytelling](https://arxiv.org/abs/2012.02128)
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [An Audio-enriched BERT-based Framework for Spoken Multiple-choice Question Answering](https://arxiv.org/abs/2005.12142)
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453)
