@@ -525,6 +525,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Facts2Story: Controlling Text Generation by Key Facts](https://arxiv.org/abs/2012.04332)
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [An Enhanced Knowledge Injection Model for Commonsense Generation](https://arxiv.org/abs/2012.00366) (COLING2020)
+- [Lexically-constrained Text Generation through Commonsense Knowledge Extraction and Injection](https://arxiv.org/abs/2012.10813) (AAAI2021WS)
 - [Pre-training Text-to-Text Transformers for Concept-centric Common Sense](https://arxiv.org/abs/2011.07956)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://arxiv.org/abs/2009.11692) (EMNLP2020)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
