@@ -86,6 +86,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning](https://arxiv.org/abs/2002.04326) (ICLR2020)
 - [Robust Reading Comprehension with Linguistic Constraints via Posterior Regularization](https://arxiv.org/abs/1911.06948)
 - [BAS: An Answer Selection Method Using BERT Language Model](https://arxiv.org/abs/1911.01528)
+- [Utilizing Bidirectional Encoder Representations from Transformers for Answer Selection](https://arxiv.org/abs/2011.07208) (AMMCS2019)
 - [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118) (AAAI2020)
 - [The Cascade Transformer: an Application for Efficient Answer Sentence Selection](https://arxiv.org/abs/2005.02534) (ACL2020)
 - [Support-BERT: Predicting Quality of Question-Answer Pairs in MSDN using Deep Bidirectional Transformer](https://arxiv.org/abs/2005.08294)
@@ -312,6 +313,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Temporal Reasoning on Implicit Events from Distant Supervision](https://arxiv.org/abs/2010.12753)
 - [IMoJIE: Iterative Memory-Based Joint Open Information Extraction](https://arxiv.org/abs/2005.08178) (ACL2020)
 - [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction](https://arxiv.org/abs/2010.03147) (EMNLP2020) [[github](https://github.com/dair-iitd/openie6)]
+- [Multi2OIE: Multilingual Open Information Extraction Based on Multi-Head Attention with BERT](https://arxiv.org/abs/2009.08128) (EMNLP2020 Findings)
 ### Knowledge base
 - [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/abs/1909.03193)
 - [How Context Affects Language Models' Factual Predictions](https://openreview.net/forum?id=025X0zPfn) (AKBC2020)
@@ -337,6 +339,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
+- [Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases](https://arxiv.org/abs/2011.07743)
 ### Text classification
 - [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
 - [A Text Classification Survey: From Shallow to Deep Learning](https://arxiv.org/abs/2008.00364)
