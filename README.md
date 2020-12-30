@@ -176,6 +176,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
 - [tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection](https://www.aclweb.org/anthology/2020.acl-main.630/) (ACL2020)
 - [Domain Adaptation with BERT-based Domain Classification and Data Selection](https://www.aclweb.org/anthology/D19-6109/) (EMNLP2019 WS)
+- [PERL: Pivot-based Domain Adaptation for Pre-trained Deep Contextualized Embedding Models](https://arxiv.org/abs/2006.09075) (TACL2020)
 - [Knowledge Distillation for BERT Unsupervised Domain Adaptation](https://arxiv.org/abs/2010.11478)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
@@ -597,6 +598,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
 - [Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/) (EMNLP2020) [[github](https://github.com/google-research/electra)]
+- [MC-BERT: Efficient Language Pre-Training via a Meta Controller](https://arxiv.org/abs/2006.05744)
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
 - [KERMIT: Generative Insertion-Based Modeling for Sequences](https://arxiv.org/abs/1906.01604)
 - [CALM: Continuous Adaptive Learning for Language Modeling](https://arxiv.org/abs/2004.03794)
