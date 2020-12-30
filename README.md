@@ -342,6 +342,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
+- [MLMLM: Link Prediction with Mean Likelihood Masked Language Model](https://arxiv.org/abs/2009.07058)
 - [Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases](https://arxiv.org/abs/2011.07743)
 ### Text classification
 - [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
@@ -764,6 +765,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How Far Does BERT Look At:Distance-based Clustering and Analysis of BERT′s Attention](https://arxiv.org/abs/2011.00943)
 - [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/abs/2010.04903) (EMNLP2020)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
+- [Are Pretrained Language Models Symbolic Reasoners Over Knowledge?](https://arxiv.org/abs/2006.10413) (CoNLL2020)
 - [Rethinking the Value of Transformer Components](https://arxiv.org/abs/2011.03803) (COLING2020)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
