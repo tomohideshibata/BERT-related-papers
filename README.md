@@ -996,6 +996,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) (NeurIPS2019 WS) [[github](https://github.com/huggingface/transformers/tree/master/examples/distillation)]
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723) (AAAI2020)
 - [Reinforced Multi-Teacher Selection for Knowledge Distillation](https://arxiv.org/abs/2012.06048) (AAAI2021)
+- [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/abs/2012.14022) (AAAI2021)
 - [Improving Task-Agnostic BERT Distillation with Layer Mapping Search](https://arxiv.org/abs/2012.06153)
 - [PoWER-BERT: Accelerating BERT inference for Classification Tasks](https://arxiv.org/abs/2001.08950)
 - [WaLDORf: Wasteless Language-model Distillation On Reading-comprehension](https://arxiv.org/abs/1912.06638)
