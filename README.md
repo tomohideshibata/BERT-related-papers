@@ -656,6 +656,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
 - [Multi-Head Attention: Collaborate Instead of Concatenate](https://arxiv.org/abs/2006.16362)
+- [DeBERTa: Decoding-enhanced BERT with Disentangled Attention](https://arxiv.org/abs/2006.03654) [[github](https://github.com/microsoft/DeBERTa)]
 - [Deepening Hidden Representations from Pre-trained Language Models](https://arxiv.org/abs/1911.01940)
 - [On the Transformer Growth for Progressive BERT Training](https://arxiv.org/abs/2010.12562)
 - [Improving BERT with Self-Supervised Attention](https://arxiv.org/abs/2004.03808)
