@@ -676,6 +676,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL2019) [[github](https://github.com/kimiyoung/transformer-xl)]
 - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
+- [Do Transformers Need Deep Long-Range Memory](https://arxiv.org/abs/2007.03356) (ACL2020)
 - [Adaptively Sparse Transformers](https://arxiv.org/abs/1909.00015) (EMNLP2019)
 - [Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (ICML2019)
