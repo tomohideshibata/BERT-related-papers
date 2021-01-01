@@ -286,6 +286,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis](https://www.aclweb.org/anthology/2020.acl-main.370/) (ACL2020)
 - [Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference](https://arxiv.org/abs/2002.04815)
 - [DomBERT: Domain-oriented Language Model for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2004.13816)
+- [YASO: A New Benchmark for Targeted Sentiment Analysis](https://arxiv.org/abs/2012.14541)
 - [SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics](https://arxiv.org/abs/2005.04114) (ACL2020)
 ### Relation extraction
 - [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158) (ACL2019)
