@@ -770,6 +770,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Are Pretrained Language Models Symbolic Reasoners Over Knowledge?](https://arxiv.org/abs/2006.10413) (CoNLL2020)
 - [Rethinking the Value of Transformer Components](https://arxiv.org/abs/2011.03803) (COLING2020)
+- [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
 - [Investigating Transferability in Pretrained Language Models](https://arxiv.org/abs/2004.14975)
 - [What Happens To BERT Embeddings During Fine-tuning?](https://arxiv.org/abs/2004.14448)
 - [Analyzing Individual Neurons in Pre-trained Language Models](https://arxiv.org/abs/2010.02695) (EMNLP2020)
