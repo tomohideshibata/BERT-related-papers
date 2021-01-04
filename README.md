@@ -589,6 +589,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Self-supervised Pre-training via a Fully-Explored Masked Language Model](https://arxiv.org/abs/2010.06040)
 - [Focusing More on Conflicts with Mis-Predictions Helps Language Pre-Training](https://arxiv.org/abs/2012.08789)
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
+- [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2012.15723)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
@@ -670,6 +671,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Self-training Improves Pre-training for Natural Language Understanding](https://arxiv.org/abs/2010.02194) [[github](https://github.com/facebookresearch/SentAugment)]
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
 - [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881) (EMNLP2020 Findings)
+- [Enhancing Pre-trained Language Model with Lexical Simplification](https://arxiv.org/abs/2012.15070)
 - [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
