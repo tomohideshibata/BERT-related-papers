@@ -540,6 +540,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-training Text-to-Text Transformers for Concept-centric Common Sense](https://arxiv.org/abs/2011.07956)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://arxiv.org/abs/2009.11692) (EMNLP2020)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
+- [Autoregressive Entity Retrieval](https://arxiv.org/abs/2010.00904) (ICLR2021) [[github](https://github.com/facebookresearch/GENRE)]
 - [EIGEN: Event Influence GENeration using Pre-trained Language Models](https://arxiv.org/abs/2010.11764)
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
