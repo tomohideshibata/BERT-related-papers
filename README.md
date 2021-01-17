@@ -1058,6 +1058,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320)
 - [BinaryBERT: Pushing the Limit of BERT Quantization](https://arxiv.org/abs/2012.15701)
+- [I-BERT: Integer-only BERT Quantization](https://arxiv.org/abs/2101.01321)
 - [TernaryBERT: Distillation-aware Ultra-low Bit BERT](https://arxiv.org/abs/2009.12812) (EMNLP2020)
 - [EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP](https://arxiv.org/abs/2011.14203)
 ## Misc.
