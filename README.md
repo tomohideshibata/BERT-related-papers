@@ -249,7 +249,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coreference Resolution with Entity Equalization](https://www.aclweb.org/anthology/P19-1066/) (ACL2019)
 - [BERT for Coreference Resolution: Baselines and Analysis](https://arxiv.org/abs/1908.09091) (EMNLP2019) [[github](https://github.com/mandarjoshi90/coref)]
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
-- [Ellipsis and Coreference Resolution as Question Answering](https://arxiv.org/abs/1908.11141)
+- [Ellipsis Resolution as Question Answering: An Evaluation](https://arxiv.org/abs/1908.11141) (EACL2021)
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
 - [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870) (EMNLP2020)
 - [Revisiting Memory-Efficient Incremental Coreference Resolution](https://arxiv.org/abs/2005.00128)
