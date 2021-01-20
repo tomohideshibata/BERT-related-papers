@@ -102,7 +102,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/abs/2004.02349) (ACL2020)
 - [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314) (ACL2020)
 - [Understanding tables with intermediate pre-training](https://arxiv.org/abs/2010.00571) (EMNLP2020 Findings)
-- [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://arxiv.org/abs/2009.13845)
+- [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://arxiv.org/abs/2009.13845) (ICLR2021)
 - [Table Search Using a Deep Contextualized Language Model](https://arxiv.org/abs/2005.09207) (SIGIR2020)
 - [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
@@ -902,7 +902,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BioMegatron: Larger Biomedical Domain Language Model](https://arxiv.org/abs/2010.06060) (EMNLP2020) [[website](https://developer.nvidia.com/blog/building-state-of-the-art-biomedical-and-clinical-nlp-models-with-bio-megatron/)]
 - [Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art](https://www.aclweb.org/anthology/2020.clinicalnlp-1.17/) (EMNLP2020 WS)
 - [A pre-training technique to localize medical BERT and enhance BioBERT](https://arxiv.org/abs/2005.07202) [[github](https://github.com/sy-wada/blue_benchmark_with_transformers)]
-- [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)
+- [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222) (ICLR2021)
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Predicting Clinical Diagnosis from Patients Electronic Health Records Using BERT-based Neural Networks](https://arxiv.org/abs/2007.07562) (AIME2020)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
