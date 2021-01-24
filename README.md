@@ -550,6 +550,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [Best Practices for Data-Efficient Modeling in NLG:How to Train Production-Ready Neural Models with Less Data](https://arxiv.org/abs/2011.03877) (COLING2020)
+- [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
