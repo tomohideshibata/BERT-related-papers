@@ -249,6 +249,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coreference Resolution with Entity Equalization](https://www.aclweb.org/anthology/P19-1066/) (ACL2019)
 - [BERT for Coreference Resolution: Baselines and Analysis](https://arxiv.org/abs/1908.09091) (EMNLP2019) [[github](https://github.com/mandarjoshi90/coref)]
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
+- [CD2CR: Co-reference Resolution Across Documents and Domains](https://arxiv.org/abs/2101.12637) (EACL2021)
 - [Ellipsis Resolution as Question Answering: An Evaluation](https://arxiv.org/abs/1908.11141) (EACL2021)
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
 - [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870) (EMNLP2020)
@@ -838,6 +839,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Identifying Necessary Elements for BERT's Multilinguality](https://arxiv.org/abs/2005.00396) (EMNLP2020)
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer](https://arxiv.org/abs/2005.00052)
 - [From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers](https://arxiv.org/abs/2005.00633)
+- [First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT](https://arxiv.org/abs/2101.11109) (EACL2021)
 - [Language Representation in Multilingual BERT and its applications to improve Cross-lingual Generalization](https://arxiv.org/abs/2010.10041)
 - [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://openreview.net/forum?id=YjNv-hzM8BE)
 - [On the Language Neutrality of Pre-trained Multilingual Representations](https://arxiv.org/abs/2004.05160)
