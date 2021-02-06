@@ -661,7 +661,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
 - [Improving Pre-Trained Multilingual Models with Vocabulary Expansion](https://arxiv.org/abs/1909.12440) (CoNLL2019)
 - [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720) (EMNLP2020 Findings)
-- [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL2020)
+- [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
@@ -1081,7 +1081,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Two-Stage Masked LM Method for Term Set Expansion](https://arxiv.org/abs/2005.01063) (ACL2020)
 - [Cold-start Active Learning through Self-supervised Language Modeling](https://arxiv.org/abs/2010.09535) (EMNLP2020)
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
-- [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
+- [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245) (AACL-IJCNLP2020) [[github](https://github.com/varinf/TransformersDataAugmentation)]
 - [Mixup-Transfomer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/abs/2010.02394) (COLING2020)
 - [Unsupervised Text Style Transfer with Padded Masked Language Models](https://arxiv.org/abs/2010.01054) (EMNLP2020)
 - [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
