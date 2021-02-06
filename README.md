@@ -875,6 +875,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-training Polish Transformer-based Language Models at Scale](https://arxiv.org/abs/2006.04229)
 - [Playing with Words at the National Library of Sweden -- Making a Swedish BERT](https://arxiv.org/abs/2007.01658)
 - [KR-BERT: A Small-Scale Korean-Specific Language Model](https://arxiv.org/abs/2008.03979)
+- [KoreALBERT: Pretraining a Lite BERT Model for Korean Language Understanding](https://arxiv.org/abs/2101.11363) (ICPR2020)
+- [WangchanBERTa: Pretraining transformer-based Thai Language Models](https://arxiv.org/abs/2101.09635)
 - [FinEst BERT and CroSloEngual BERT: less is more in multilingual models](https://arxiv.org/abs/2006.07890) (TSD2020)
 - [GREEK-BERT: The Greeks visiting Sesame Street](https://arxiv.org/abs/2008.12014) (SETN2020)
 - [The birth of Romanian BERT](https://arxiv.org/abs/2009.08712) (EMNLP2020 Findings)
