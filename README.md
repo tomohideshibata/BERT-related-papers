@@ -950,6 +950,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://arxiv.org/abs/2009.11278) (EMNLP2020)
 - [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
+- [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272) (AAAI2021)
 - [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b) [[github](https://github.com/gsarti/lambda-bert)]
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
 - [Self-supervised pre-training and contrastive representation learning for multiple-choice video QA](https://arxiv.org/abs/2009.08043) (AAAI2021)
@@ -964,6 +965,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/abs/1909.02950)
 - [InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
 - [Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs](https://arxiv.org/abs/2011.15124)
+- [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
 - [ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph](https://arxiv.org/abs/2006.16934)
 - [KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning](https://arxiv.org/abs/2012.07000)
 - [A Closer Look at the Robustness of Vision-and-Language Pre-trained Models](https://arxiv.org/abs/2012.08673)
@@ -994,6 +996,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477)
 - [Applying wav2vec2.0 to Speech Recognition in various low-resource languages](https://arxiv.org/abs/2012.12121)
 - [Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2010.10504)
+- [Speech Recognition by Simply Fine-tuning BERT](https://arxiv.org/abs/2102.00291) (ICASSP2021)
 - [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/abs/1909.10924)
 - [Speech-XLNet: Unsupervised Acoustic Model Pretraining For Self-Attention Networks](https://arxiv.org/abs/1910.10387)
 - [Learning Speech Representations from Raw Audio by Joint Audiovisual Self-Supervision](https://arxiv.org/abs/2007.04134) (ICML2020 WS)
