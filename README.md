@@ -1022,7 +1022,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Task-Agnostic BERT Distillation with Layer Mapping Search](https://arxiv.org/abs/2012.06153)
 - [PoWER-BERT: Accelerating BERT inference for Classification Tasks](https://arxiv.org/abs/2001.08950)
 - [WaLDORf: Wasteless Language-model Distillation On Reading-comprehension](https://arxiv.org/abs/1912.06638)
-- [Extreme Language Model Compression with Optimal Subwords and Shared Projections](https://arxiv.org/abs/1909.11687)
+- [Extremely Small BERT Models from Mixed-Vocabulary Training](https://arxiv.org/abs/1909.11687) (EACL2021)
 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925) (EMNLP2020)
 - [Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning](https://arxiv.org/abs/2002.08307) (ACL2020 SRW)
 - [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/abs/2002.10957)
