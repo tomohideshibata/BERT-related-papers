@@ -935,6 +935,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559) (EMNLP2020 Findings)
 - [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/abs/2009.02835)
 - [BERT Goes Shopping: Comparing Distributional Models for Product Representations](https://arxiv.org/abs/2012.09807)
+- [NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application](https://arxiv.org/abs/2102.04887)
 - [Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634) (ACL2020) [[github](https://github.com/lanwuwei/BERTOverflow)]
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200) (EMNLP2020 Demo)
 - [TweetBERT: A Pretrained Language Representation Model for Twitter Text Analysis](https://arxiv.org/abs/2010.11091)
@@ -1040,6 +1041,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference](https://www.aclweb.org/anthology/2020.acl-main.204/) (ACL2020)
 - [BERT Loses Patience: Fast and Robust Inference with Early Exit](https://arxiv.org/abs/2006.04152) [[github](https://github.com/JetRunner/PABEE)] [[github](https://github.com/huggingface/transformers/tree/master/examples/bert-loses-patience)]
 - [FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://www.aclweb.org/anthology/2020.acl-main.537/) (ACL2020)
+- [Distilling Large Language Models into Tiny and Effective Students using pQRNN](https://arxiv.org/abs/2101.08890)
 - [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
 - [LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression](https://arxiv.org/abs/2004.04124) (COLING2020)
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
