@@ -706,6 +706,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) [[github](https://github.com/allenai/longformer)]
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 - [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436) (AAAI2021)
+- [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention](https://arxiv.org/abs/2102.03902) (AAAI2021) [[github](https://github.com/mlpen/Nystromformer)]
 - [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864) (ACL2020)
 - [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://arxiv.org/abs/2004.08178)
 - [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
@@ -971,6 +972,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
 - [Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs](https://arxiv.org/abs/2011.15124)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
+- [Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network](https://arxiv.org/abs/2101.11562) (AAAI2021)
 - [ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph](https://arxiv.org/abs/2006.16934)
 - [KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning](https://arxiv.org/abs/2012.07000)
 - [A Closer Look at the Robustness of Vision-and-Language Pre-trained Models](https://arxiv.org/abs/2012.08673)
