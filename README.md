@@ -196,6 +196,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge](https://arxiv.org/abs/2010.02246) (EMNLP2020)
 - [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (AAAI2021)
 - [Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning](https://arxiv.org/abs/2012.02462) (COLING2020)
+- [Automatic punctuation restoration with BERT models](https://arxiv.org/abs/2101.07343)
 ### Word segmentation, parsing, NER
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
@@ -234,6 +235,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Knowledge Guided Named Entity Recognition for BioMedical Text](https://arxiv.org/abs/1911.03869)
+- [Cross-Lingual Named Entity Recognition Using Parallel Corpus: A New Approach Using XLM-RoBERTa Alignment](https://arxiv.org/abs/2101.11112)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
 ### Pronoun/coreference resolution
@@ -305,6 +307,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://arxiv.org/abs/2009.10359) (EMNLP2020)
 - [DARE: Data Augmented Relation Extraction with GPT-2](https://arxiv.org/abs/2004.13845)
 - [Distantly-Supervised Neural Relation Extraction with Side Information using BERT](https://arxiv.org/abs/2004.14443) (IJCNN2020)
+- [Improving Distantly-Supervised Relation Extraction through BERT-based Label & Instance Embeddings](https://arxiv.org/abs/2102.01156)
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
 - [An Embarrassingly Simple Model for Dialogue Relation Extraction](https://arxiv.org/abs/2012.13873)
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
