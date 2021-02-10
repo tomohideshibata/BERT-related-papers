@@ -271,6 +271,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://www.aclweb.org/anthology/P19-1569.pdf) (ACL2019)
 - [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings](https://arxiv.org/abs/1909.10430) (KONVENS2019)
 - [An Accurate Model for Predicting the (Graded) Effect of Context in Word Similarity Based on Bert](https://arxiv.org/abs/2005.01006)
+- [PolyLM: Learning about Polysemy through Language Modeling](https://arxiv.org/abs/2101.10448) (EACL2021)
 - [CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages](https://www.aclweb.org/anthology/2020.acl-main.369/) (ACL2020)
 - [Cross-lingual Word Sense Disambiguation using mBERT Embeddings with Syntactic Dependencies](https://arxiv.org/abs/2012.05300)
 - [VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling](https://arxiv.org/abs/2010.03124) (EMNLP2020)
