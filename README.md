@@ -996,9 +996,13 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
 - [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) (KDD2020) [[github](https://github.com/microsoft/unilm/tree/master/layoutlm)]
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
+- [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
 - [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[github](https://github.com/openai/image-gpt)] [[website](https://openai.com/blog/image-gpt/)]
+- [Visual Transformers: Token-based Image Representation and Processing for Computer Vision](https://arxiv.org/abs/2006.03677)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
+- [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
+- [Colorization Transformer](https://arxiv.org/abs/2102.04432) (ICLR2021) [[github](https://github.com/google-research/google-research/tree/master/coltran)]
 - [A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer](https://arxiv.org/abs/2005.08271) [[website](https://v-iashin.github.io/bmt)]
 - [Multimodal Pretraining for Dense Video Captioning](https://arxiv.org/abs/2011.11760) (AACL-IJCNLP2020)
 - [BERT-hLSTMs: BERT and Hierarchical LSTMs for Visual Storytelling](https://arxiv.org/abs/2012.02128)
