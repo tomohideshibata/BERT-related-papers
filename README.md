@@ -471,6 +471,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Beyond \[CLS\] through Ranking by Generation](https://arxiv.org/abs/2010.03073) (EMNLP2020)
 - [Efficient Document Re-Ranking for Transformers by Precomputing Term Representations](https://arxiv.org/abs/2004.14255) (SIGIR2020)
 - [Training Curricula for Open Domain Answer Re-Ranking](https://arxiv.org/abs/2004.14269) (SIGIR2020)
+- [Document Ranking with a Pretrained Sequence-to-Sequence Model](https://arxiv.org/abs/2003.06713)
 - [Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search](https://arxiv.org/abs/2006.07548) (SIGIR2020)
 - [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
 - [IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles](https://arxiv.org/abs/2007.12603)
