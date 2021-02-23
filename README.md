@@ -969,7 +969,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
 - [Self-supervised pre-training and contrastive representation learning for multiple-choice video QA](https://arxiv.org/abs/2009.08043) (AAAI2021)
 - [What is More Likely to Happen Next? Video-and-Language Future Event Prediction](https://arxiv.org/abs/2010.07999) (EMNLP2020)
+- [VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407) 
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
+- [Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772)
 - [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://arxiv.org/abs/2004.10796) (ECCV2020) [[website](http://visualcomet.xyz)]
 - [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379)
 - [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278) (EMNLP2020)
@@ -1023,6 +1025,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ST-BERT: Cross-modal Language Model Pre-training For End-to-end Spoken Language Understanding](https://arxiv.org/abs/2010.12283)
 - [End-to-end spoken language understanding using transformer networks and self-supervised pre-trained features](https://arxiv.org/abs/2011.08238)
 - [Jointly Encoding Word Confusion Network and Dialogue Context with BERT for Spoken Language Understanding](https://arxiv.org/abs/2005.11640) (Interspeech2020)
+- [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575)
 - [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979)
 - [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/abs/2004.10093) (ACL2020)
 - [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/abs/2010.11445)
