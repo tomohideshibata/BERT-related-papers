@@ -55,6 +55,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) (ACL2019)
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) (EMNLP2020)
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/abs/2101.00408)
+- [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756)
 - [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2010.08191) 
 - [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/abs/2002.03932) (ICLR2020)
@@ -520,6 +521,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
 - [PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159) (EMNLP2020)
 - [ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation](https://arxiv.org/abs/2001.11314)
+- [Non-Autoregressive Text Generation with Pre-trained Language Models](https://arxiv.org/abs/2102.08220) (EACL2021)
 - [Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/abs/1909.10481) (AAAI2020) [[github](https://github.com/CZWin32768/XNLG)]
 - [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/abs/1910.07931) (ACL2020)
 - [A Tailored Pre-Training Model for Task-Oriented Dialog Generation](https://arxiv.org/abs/2004.13835)
