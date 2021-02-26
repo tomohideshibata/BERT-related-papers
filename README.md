@@ -658,6 +658,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
 - [Rethinking Positional Encoding in Language Pre-training](https://arxiv.org/abs/2006.15595)
 - [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/abs/2009.13658) (EMNLP2020 Findings)
+- [Position Information in Transformers: An Overview](https://arxiv.org/abs/2102.11090)
 - [BoostingBERT:Integrating Multi-Class Boosting into BERT for NLP Tasks](https://arxiv.org/abs/2009.05959)
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
