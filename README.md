@@ -1007,6 +1007,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[github](https://github.com/openai/image-gpt)] [[website](https://openai.com/blog/image-gpt/)]
 - [Visual Transformers: Token-based Image Representation and Processing for Computer Vision](https://arxiv.org/abs/2006.03677)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
+- [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) [[github](https://github.com/openai/DALL-E)] [[website](https://openai.com/blog/dall-e/)]
+- [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
 - [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
 - [Colorization Transformer](https://arxiv.org/abs/2102.04432) (ICLR2021) [[github](https://github.com/google-research/google-research/tree/master/coltran)]
 - [A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer](https://arxiv.org/abs/2005.08271) [[website](https://v-iashin.github.io/bmt)]
