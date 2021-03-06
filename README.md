@@ -754,7 +754,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) (EMNLP2019) [[github](https://github.com/facebookresearch/LAMA)]
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
-- [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036)
+- [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036) (EACL2021)
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
@@ -786,7 +786,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
 - [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
-- [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916)
+- [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916) (EACL2021)
 - [How Far Does BERT Look At:Distance-based Clustering and Analysis of BERT′s Attention](https://arxiv.org/abs/2011.00943)
 - [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/abs/2010.04903) (EMNLP2020)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
@@ -803,6 +803,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/abs/2010.06032) [[website](https://ai.googleblog.com/2020/10/measuring-gendered-correlations-in-pre.html)]
 - [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/abs/2010.14534) (COLING2020 WS)
+- [Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models](https://arxiv.org/abs/2101.09688) (EACL2021)
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
 - [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686) (EMNLP2020)
 - [Does Chinese BERT Encode Word Structure?](https://arxiv.org/abs/2010.07711) (COLING2020) [[github](https://github.com/ylwangy/BERT_zh_Analysis)]
