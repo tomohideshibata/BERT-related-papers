@@ -123,6 +123,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SberQuAD - Russian Reading Comprehension Dataset: Description and Analysis](https://arxiv.org/abs/1912.09723)
 - [DuReaderrobust: A Chinese Dataset Towards Evaluating the Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.11142)
 - [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://arxiv.org/abs/1909.00109) (EMNLP2019)
+- [Few-Shot Question Answering by Pretraining Span Selection](https://arxiv.org/abs/2101.00438)
 - [DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/abs/2009.13570) [[website](https://evalai.cloudcv.org/web/challenges/challenge-page/708/overview)]
 - [BERT-DST: Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1907.03040) (Interspeech2019)
 - [Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/abs/1908.01946) 
