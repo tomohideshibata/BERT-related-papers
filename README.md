@@ -994,6 +994,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Closer Look at the Robustness of Vision-and-Language Pre-trained Models](https://arxiv.org/abs/2012.08673)
 - [Self-Supervised learning with cross-modal transformers for emotion recognition](https://arxiv.org/abs/2011.10652) (SLT2020)
 - [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](https://arxiv.org/abs/2010.06775) (EMNLP2020)
+- [Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models](https://arxiv.org/abs/2103.08849) (NAACL2021)
 - [Cycle Text-To-Image GAN with BERT](https://arxiv.org/abs/2003.12137)
 - [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/abs/1912.03063)
 - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/2004.06165)
@@ -1014,6 +1015,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) [[github](https://github.com/openai/DALL-E)] [[website](https://openai.com/blog/dall-e/)]
 - [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
 - [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
+- [LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval](https://arxiv.org/abs/2103.08784) (NAACL2021)
 - [Colorization Transformer](https://arxiv.org/abs/2102.04432) (ICLR2021) [[github](https://github.com/google-research/google-research/tree/master/coltran)]
 - [A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer](https://arxiv.org/abs/2005.08271) [[website](https://v-iashin.github.io/bmt)]
 - [Multimodal Pretraining for Dense Video Captioning](https://arxiv.org/abs/2011.11760) (AACL-IJCNLP2020)
