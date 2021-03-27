@@ -263,6 +263,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Revealing the Myth of Higher-Order Inference in Coreference Resolution](https://arxiv.org/abs/2009.12013) (EMNLP2020)
 - [Neural Mention Detection](https://arxiv.org/abs/1907.12524) (LREC2020)
 - [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://www.aclweb.org/anthology/2020.acl-main.482/) (ACL2020)
+- [Joint Coreference Resolution and Character Linking for Multiparty Conversation](https://arxiv.org/abs/2101.11204)
 - [Sequence to Sequence Coreference Resolution](https://www.aclweb.org/anthology/2020.crac-1.5/) (COLING2020 WS)
 - [Within-Document Event Coreference with BERT-Based Contextualized Representations](https://arxiv.org/abs/2102.09600)
 - [Multi-task Learning Based Neural Bridging Reference Resolution](https://arxiv.org/abs/2003.03666)
