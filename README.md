@@ -107,6 +107,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding tables with intermediate pre-training](https://arxiv.org/abs/2010.00571) (EMNLP2020 Findings)
 - [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://arxiv.org/abs/2009.13845) (ICLR2021)
 - [Table Search Using a Deep Contextualized Language Model](https://arxiv.org/abs/2005.09207) (SIGIR2020)
+- [Open Domain Question Answering over Tables via Dense Retrieval](https://arxiv.org/abs/2103.12011) (NAACL2021)
 - [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://www.aclweb.org/anthology/P19-1227/) (ACL2019)
