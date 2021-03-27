@@ -343,6 +343,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [YELM: End-to-End Contextualized Entity Linking](https://arxiv.org/abs/1911.03834)
 - [Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking](https://arxiv.org/abs/2005.14253) (AKBC2020)
 - [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057) (EMNLP2020) [[github](https://github.com/studio-ousia/luke)]
+- [Linking Entities to Unseen Knowledge Bases with Arbitrary Schemas](https://arxiv.org/abs/2010.11333)
+- [CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata](https://arxiv.org/abs/2101.09969) (EACL2021)
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
 - [Efficient One-Pass End-to-End Entity Linking for Questions](https://arxiv.org/abs/2010.02413) (EMNLP2020) [[github](https://github.com/belindal/BLINK/tree/master/elq)]
 - [Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking](https://arxiv.org/abs/2010.09828)
