@@ -314,6 +314,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DARE: Data Augmented Relation Extraction with GPT-2](https://arxiv.org/abs/2004.13845)
 - [Distantly-Supervised Neural Relation Extraction with Side Information using BERT](https://arxiv.org/abs/2004.14443) (IJCNN2020)
 - [Improving Distantly-Supervised Relation Extraction through BERT-based Label & Instance Embeddings](https://arxiv.org/abs/2102.01156)
+- [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://arxiv.org/abs/2102.05980) (EACL2021)
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
 - [An Embarrassingly Simple Model for Dialogue Relation Extraction](https://arxiv.org/abs/2012.13873)
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
