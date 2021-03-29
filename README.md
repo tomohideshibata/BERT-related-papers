@@ -658,6 +658,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Taking Notes on the Fly Helps BERT Pre-training](https://arxiv.org/abs/2008.01466)
 - [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
+- [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
+- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Improving Event Duration Prediction via Time-aware Pre-training](https://arxiv.org/abs/2011.02610) (EMNLP2020 Findings)
 - [Knowledge-Aware Procedural Text Understanding with Multi-Stage Training](https://arxiv.org/abs/2009.13199)
