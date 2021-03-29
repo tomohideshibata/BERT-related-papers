@@ -1117,6 +1117,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [I-BERT: Integer-only BERT Quantization](https://arxiv.org/abs/2101.01321)
 - [TernaryBERT: Distillation-aware Ultra-low Bit BERT](https://arxiv.org/abs/2009.12812) (EMNLP2020)
 - [EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP](https://arxiv.org/abs/2011.14203)
+- [Optimizing Inference Performance of Transformers on CPUs](https://arxiv.org/abs/2102.06621)
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
@@ -1143,6 +1144,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
 - [1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed](https://arxiv.org/abs/2102.02888)
+- [TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models](https://arxiv.org/abs/2102.07988)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)
 - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027) [[website](https://pile.eleuther.ai/)]
