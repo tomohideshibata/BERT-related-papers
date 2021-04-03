@@ -1013,6 +1013,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Self-Supervised learning with cross-modal transformers for emotion recognition](https://arxiv.org/abs/2011.10652) (SLT2020)
 - [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision](https://arxiv.org/abs/2010.06775) (EMNLP2020)
 - [Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models](https://arxiv.org/abs/2103.08849) (NAACL2021)
+- [M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training](https://arxiv.org/abs/2006.02635) (CVPR2021)
+- [UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pre-training](https://arxiv.org/abs/2104.00332)
 - [Cycle Text-To-Image GAN with BERT](https://arxiv.org/abs/2003.12137)
 - [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/abs/1912.03063)
 - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/2004.06165)
@@ -1023,6 +1025,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/) (ACL2020)
 - [BERTERS: Multimodal Representation Learning for Expert Recommendation System with Transformer](https://arxiv.org/abs/2007.07229)
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
+- [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110) (CVPR2021)
 - [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) (KDD2020) [[github](https://github.com/microsoft/unilm/tree/master/layoutlm)]
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
