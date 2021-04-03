@@ -916,6 +916,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [German's Next Language Model](https://arxiv.org/abs/2010.10906) (COLING2020 Industry Truck)
 - [GottBERT: a pure German Language Model](https://arxiv.org/abs/2012.02110)
 - [EstBERT: A Pretrained Language-Specific BERT for Estonian](https://arxiv.org/abs/2011.04784)
+- [Czert -- Czech BERT-like Model for Language Representation](https://arxiv.org/abs/2103.13031)
+- [Bertinho: Galician BERT Representations](https://arxiv.org/abs/2103.13799)
 - [Pretraining and Fine-Tuning Strategies for Sentiment Analysis of Latvian Tweets](https://arxiv.org/abs/2010.12401)
 - [PTT5: Pretraining and validating the T5 model on Brazilian Portuguese data](https://arxiv.org/abs/2008.09144)
 - [Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages](https://arxiv.org/abs/2011.02323) (NeurIPS2020 WS)
