@@ -519,6 +519,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197) [[github](https://github.com/microsoft/unilm)] (NeurIPS2019)
 - [UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](https://arxiv.org/abs/2002.12804) [[github](https://github.com/microsoft/unilm)]
 - [Dual Inference for Improving Language Understanding and Generation](https://arxiv.org/abs/2010.04246) (EMNLP2020 Findings)
+- [All NLP Tasks Are Generation Tasks: A General Pretraining Framework](https://arxiv.org/abs/2103.10360)
 - [ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training](https://arxiv.org/abs/2001.04063) (EMNLP2020 Findings) [[github](https://github.com/microsoft/ProphetNet)]
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
@@ -663,6 +664,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 - [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+- [GPT Understands, Too](https://arxiv.org/abs/2103.10385) [[github](https://github.com/THUDM/P-tuning)]
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Improving Event Duration Prediction via Time-aware Pre-training](https://arxiv.org/abs/2011.02610) (EMNLP2020 Findings)
 - [Knowledge-Aware Procedural Text Understanding with Multi-Stage Training](https://arxiv.org/abs/2009.13199)
