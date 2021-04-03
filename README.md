@@ -188,6 +188,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adapting BERT to Implicit Discourse Relation Classification with a Focus on Discourse Connectives](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.144.pdf) (LREC2020)
 - [Labeling Explicit Discourse Relations using Pre-trained Language Models](https://arxiv.org/abs/2006.11852) (TSD2020)
 - [Causal-BERT : Language models for causality detection between events expressed in text](https://arxiv.org/abs/2012.05453)
+- [BERT4SO: Neural Sentence Ordering by Fine-tuning BERT](https://arxiv.org/abs/2103.13584)
 - [Cross-lingual Zero- and Few-shot Hate Speech Detection Utilising Frozen Transformer Language Models and AXEL](https://arxiv.org/abs/2004.13850)
 - [Same Side Stance Classification Task: Facilitating Argument Stance Classification by Fine-tuning a BERT Model](https://arxiv.org/abs/2004.11163)
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
@@ -559,6 +560,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://arxiv.org/abs/2009.11692) (EMNLP2020)
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://arxiv.org/abs/2009.12677)
 - [Autoregressive Entity Retrieval](https://arxiv.org/abs/2010.00904) (ICLR2021) [[github](https://github.com/facebookresearch/GENRE)]
+- [Multilingual Autoregressive Entity Linking](https://arxiv.org/abs/2103.12528)
 - [EIGEN: Event Influence GENeration using Pre-trained Language Models](https://arxiv.org/abs/2010.11764)
 - [Contrastive Triple Extraction with Generative Transformer](https://arxiv.org/abs/2009.06207) (AAAI2021)
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
