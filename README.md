@@ -682,6 +682,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Training Multilingual Pre-trained Language Model with Byte-level Subwords](https://arxiv.org/abs/2101.09012)
 - [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720) (EMNLP2020 Findings)
 - [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874)
+- [Multi-view Subword Regularization](https://arxiv.org/abs/2103.08490) (NAACL2021)
 - [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
@@ -734,6 +735,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention](https://arxiv.org/abs/2102.03902) (AAAI2021) [[github](https://github.com/mlpen/Nystromformer)]
 - [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864) (ACL2020)
 - [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://arxiv.org/abs/2004.08178)
+- [Mask Attention Networks: Rethinking and Strengthen Transformer](https://arxiv.org/abs/2103.13597) (NAACL2021)
 - [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
 - [Query-Key Normalization for Transformers](https://arxiv.org/abs/2010.04245) (EMNLP2020 Findings)
 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794) (ICLR2021)
@@ -1165,6 +1167,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
 - [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984) (EMNLP2020)
+- [Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!](https://arxiv.org/abs/2103.10013) (NAACL2021)
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
 - [Robust Encodings: A Framework for Combating Adversarial Typos](https://www.aclweb.org/anthology/2020.acl-main.245/) (ACL2020)
 - [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/abs/2005.05683) (ACL2020)
