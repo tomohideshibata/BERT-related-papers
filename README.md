@@ -200,6 +200,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding](https://arxiv.org/abs/2009.05387) (AACL-IJCNLP2020)
 - [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge](https://arxiv.org/abs/2010.02246) (EMNLP2020)
 - [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (AAAI2021)
+- [UserBERT: Self-supervised User Representation Learning](https://openreview.net/forum?id=zmgJIjyWSOw)
 - [Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning](https://arxiv.org/abs/2012.02462) (COLING2020)
 - [Automatic punctuation restoration with BERT models](https://arxiv.org/abs/2101.07343)
 ### Word segmentation, parsing, NER
@@ -778,6 +779,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
+- [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 - [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
 - [Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models](https://arxiv.org/abs/2005.00782)
