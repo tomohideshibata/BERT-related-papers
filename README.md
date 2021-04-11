@@ -443,7 +443,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### Extractive summarization
 - [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/abs/1905.06566) (ACL2019)
 - [Deleter: Leveraging BERT to Perform Unsupervised Successive Text Compression](https://arxiv.org/abs/1909.03223)
-- [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/abs/1910.14142)
+- [Discourse-Aware Neural Extractive Text Summarization](https://arxiv.org/abs/1910.14142) (ACL2020) [[github](https://github.com/jiacheng-xu/DiscoBERT)]
 - [AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization](https://arxiv.org/abs/2004.06176)
 - [Fact-level Extractive Summarization with Hierarchical Graph Mask on BERT](https://arxiv.org/abs/2011.09739) (COLING2020)
 - [Do We Really Need That Many Parameters In Transformer For Extractive Summarization? Discourse Can Help !](https://arxiv.org/abs/2012.02144) (EMNLP2020 WS)
