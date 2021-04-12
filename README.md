@@ -591,6 +591,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) (ACL2019)
 - [The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/2002.07972)
 - [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671) (ICML2019)
+- [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) (ICLR2021) [[github](https://github.com/hendrycks/test)]
 - [Pre-training Text Representations as Meta Learning](https://arxiv.org/abs/2004.05568)
 - [Unifying Question Answering and Text Classification via Span Extraction](https://arxiv.org/abs/1904.09286)
 - [MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization](https://arxiv.org/abs/2004.12302) (ACL2020)
@@ -778,6 +779,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036) (EACL2021)
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
+- [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869) (ICLR2021)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
