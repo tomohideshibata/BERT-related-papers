@@ -1013,6 +1013,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [M6-v0: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
 - [Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs](https://arxiv.org/abs/2011.15124)
 - [SemVLP: Vision-Language Pre-training by Aligning Semantics at Multiple Levels](https://arxiv.org/abs/2103.07829)
+- [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
 - [Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network](https://arxiv.org/abs/2101.11562) (AAAI2021)
@@ -1044,11 +1045,14 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) [[github](https://github.com/openai/DALL-E)] [[website](https://openai.com/blog/dall-e/)]
 - [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
+- [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)
 - [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
 - [LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval](https://arxiv.org/abs/2103.08784) (NAACL2021)
 - [Colorization Transformer](https://arxiv.org/abs/2102.04432) (ICLR2021) [[github](https://github.com/google-research/google-research/tree/master/coltran)]
 - [A Better Use of Audio-Visual Cues: Dense Video Captioning with Bi-modal Transformer](https://arxiv.org/abs/2005.08271) [[website](https://v-iashin.github.io/bmt)]
 - [Multimodal Pretraining for Dense Video Captioning](https://arxiv.org/abs/2011.11760) (AACL-IJCNLP2020)
+- [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
+- [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183) (CVPR2021) [[github](https://github.com/jayleicn/ClipBERT)]
 - [BERT-hLSTMs: BERT and Hierarchical LSTMs for Visual Storytelling](https://arxiv.org/abs/2012.02128)
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [An Audio-enriched BERT-based Framework for Spoken Multiple-choice Question Answering](https://arxiv.org/abs/2005.12142)
