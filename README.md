@@ -51,7 +51,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fine-tuning Multi-hop Question Answering with Hierarchical Graph Network](https://arxiv.org/abs/2004.13821)
 - [Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering](https://www.aclweb.org/anthology/2020.acl-main.414/) (ACL2020)
 - [HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data](https://arxiv.org/abs/2004.07347)
-- [Unsupervised Multi-hop Question Answering by Question Generation](https://arxiv.org/abs/2010.12623)
+- [Unsupervised Multi-hop Question Answering by Question Generation](https://arxiv.org/abs/2010.12623) (NAACL2021)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718) (NAALC2019)
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) (ACL2019)
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) (EMNLP2020)
@@ -196,7 +196,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ALBERT-BiLSTM for Sequential Metaphor Detection](https://www.aclweb.org/anthology/2020.figlang-1.17/) (ACL2020 WS)
 - [A BERT-based Dual Embedding Model for Chinese Idiom Prediction](https://arxiv.org/abs/2011.02378) (COLING2020)
 - [Should You Fine-Tune BERT for Automated Essay Scoring?](https://www.aclweb.org/anthology/2020.bea-1.15/) (ACL2020 WS)
-- [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252) [[github](https://github.com/facebookresearch/KILT)]
+- [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252) (NAACL2021) [[github](https://github.com/facebookresearch/KILT)]
 - [IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding](https://arxiv.org/abs/2009.05387) (AACL-IJCNLP2020)
 - [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge](https://arxiv.org/abs/2010.02246) (EMNLP2020)
 - [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (AAAI2021)
@@ -616,7 +616,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation](https://arxiv.org/abs/2010.02705) (EMNLP2020)
 - [Improving Self-supervised Pre-training via a Fully-Explored Masked Language Model](https://arxiv.org/abs/2010.06040)
 - [Focusing More on Conflicts with Mis-Predictions Helps Language Pre-Training](https://arxiv.org/abs/2012.08789)
-- [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
+- [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (NAACL2021)
 - [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2012.15723)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
