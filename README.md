@@ -317,6 +317,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Distantly-Supervised Neural Relation Extraction with Side Information using BERT](https://arxiv.org/abs/2004.14443) (IJCNN2020)
 - [Improving Distantly-Supervised Relation Extraction through BERT-based Label & Instance Embeddings](https://arxiv.org/abs/2102.01156)
 - [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://arxiv.org/abs/2102.05980) (EACL2021)
+- [ZS-BERT: Towards Zero-Shot Relation Extraction with Attribute Representation Learning](https://arxiv.org/abs/2104.04697) (NAACL2021) [[github](https://github.com/dinobby/ZS-BERT)]
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
 - [An Embarrassingly Simple Model for Dialogue Relation Extraction](https://arxiv.org/abs/2012.13873)
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
@@ -505,7 +506,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-stage Pretraining for Abstractive Summarization](https://arxiv.org/abs/1909.10599)
 - [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
 - [Abstractive Summarization with Combination of Pre-trained Sequence-to-Sequence and Saliency Models](https://arxiv.org/abs/2003.13028)
-- [GSum: A General Framework for Guided Neural Abstractive Summarization](https://arxiv.org/abs/2010.08014) [[github](https://github.com/neulab/guided_summarization)]
+- [GSum: A General Framework for Guided Neural Abstractive Summarization](https://arxiv.org/abs/2010.08014) (NAACL2021) [[github](https://github.com/neulab/guided_summarization)]
 - [STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)
 - [TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011) [[github](https://github.com/allenai/scitldr)]
 - [Product Title Generation for Conversational Systems using BERT](https://arxiv.org/abs/2007.11768)
@@ -713,13 +714,14 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SBERT-WK: A Sentence Embedding Method By Dissecting BERT-based Word Models](https://arxiv.org/abs/2002.06652)
 - [On the Sentence Embeddings from Pre-trained Language Models](https://arxiv.org/abs/2011.05864) (EMNLP2020)
 - [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) (ICLR2021)
-- [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240)
+- [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
 ## Transformer variants
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 - [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) (ACL2019) [[github](https://github.com/kimiyoung/transformer-xl)]
 - [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
 - [Do Transformers Need Deep Long-Range Memory](https://arxiv.org/abs/2007.03356) (ACL2020)
+- [DA-Transformer: Distance-aware Transformer](https://arxiv.org/abs/2010.06925) (NAACL2021)
 - [Adaptively Sparse Transformers](https://arxiv.org/abs/1909.00015) (EMNLP2019)
 - [Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (ICML2019)
