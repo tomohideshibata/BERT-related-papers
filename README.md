@@ -147,6 +147,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### Slot filling
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
 - [A Co-Interactive Transformer for Joint Slot Filling and Intent Detection](https://arxiv.org/abs/2010.03880)
+- [Few-shot Intent Classification and Slot Filling with Retrieved Examples](https://arxiv.org/abs/2104.05763) (NAACL2021)
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
 - [Data Augmentation for Spoken Language Understanding via Pretrained Models](https://arxiv.org/abs/2004.13952)
@@ -767,6 +768,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
 - [Quantity doesn't buy quality syntax with neural language models](https://arxiv.org/abs/1909.00111) (EMNLP2019)
 - [Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction](https://openreview.net/forum?id=H1xPR3NtPB) (ICLR2020)
+- [Discourse Probing of Pretrained Language Models](https://arxiv.org/abs/2104.05882) (NAACL2021)
 - [oLMpics -- On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283)
 - [Do Neural Language Models Show Preferences for Syntactic Formalisms?](https://arxiv.org/abs/2004.14096) (ACL2020)
 - [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/abs/2004.14786) (ACL2020)
@@ -883,6 +885,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer](https://arxiv.org/abs/2005.00052)
 - [From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers](https://arxiv.org/abs/2005.00633)
 - [First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT](https://arxiv.org/abs/2101.11109) (EACL2021)
+- [Multilingual BERT Post-Pretraining Alignment](https://arxiv.org/abs/2010.12547) (NAACL2021)
 - [Language Representation in Multilingual BERT and its applications to improve Cross-lingual Generalization](https://arxiv.org/abs/2010.10041)
 - [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://openreview.net/forum?id=YjNv-hzM8BE)
 - [On the Language Neutrality of Pre-trained Multilingual Representations](https://arxiv.org/abs/2004.05160)
