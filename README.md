@@ -111,7 +111,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://www.aclweb.org/anthology/P19-1227/) (ACL2019)
-- [XOR QA: Cross-lingual Open-Retrieval Question Answering](https://arxiv.org/abs/2010.11856) [[website](https://nlp.cs.washington.edu/xorqa/)]
+- [XOR QA: Cross-lingual Open-Retrieval Question Answering](https://arxiv.org/abs/2010.11856) (NAACL2021) [[website](https://nlp.cs.washington.edu/xorqa/)]
 - [Cross-Lingual Machine Reading Comprehension](https://arxiv.org/abs/1909.00361) (EMNLP2019)
 - [Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model](https://arxiv.org/abs/1909.09587)
 - [Multilingual Question Answering from Formatted Text applied to Conversational Agents](https://arxiv.org/abs/1910.04659)
@@ -962,7 +962,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Predicting Clinical Diagnosis from Patients Electronic Health Records Using BERT-based Neural Networks](https://arxiv.org/abs/2007.07562) (AIME2020)
 - [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323) (NAACL2019 WS)
-- [UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus](https://arxiv.org/abs/2010.10391)
+- [UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus](https://arxiv.org/abs/2010.10391) (NAACL2021)
 - [MT-Clinical BERT: Scaling Clinical Information Extraction with Multitask Learning](https://arxiv.org/abs/2004.10220)
 - [A clinical specific BERT developed with huge size of Japanese clinical narrative](https://www.medrxiv.org/content/10.1101/2020.07.07.20148585v1)
 - [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) (ACL2020) [[github](https://github.com/xiangyue9607/CliniRC)]
@@ -996,7 +996,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [M-BERT: Injecting Multimodal Information in the BERT Structure](https://arxiv.org/abs/1908.05787)
 - [Integrating Multimodal Information in Large Pretrained Transformers](https://arxiv.org/abs/1908.05787)
 - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490) (EMNLP2019)
-- [Weakly-supervised VisualBERT: Pre-training without Parallel Images and Captions](https://arxiv.org/abs/2010.12831)
+- [Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions](https://arxiv.org/abs/2010.12831) (NAACL2021)
 - [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://arxiv.org/abs/2009.11278) (EMNLP2020)
 - [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
