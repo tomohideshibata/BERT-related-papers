@@ -58,6 +58,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/abs/2101.00408)
 - [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756)
+- [Multi-Step Reasoning Over Unstructured Text with Beam Dense Retrieval](https://arxiv.org/abs/2104.05883) (NAACL2021) [[github](https://github.com/henryzhao5852/BeamDR)]
 - [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2010.08191) 
 - [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/abs/2002.03932) (ICLR2020)
 - [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/abs/1908.08167) (EMNLP2019)
@@ -764,6 +765,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/abs/1903.08855) (NAACL2019) [[github](https://github.com/nelson-liu/contextual-repr-analysis)]
 - [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (*SEM2019)
 - [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950) (ACL2019)
+- [Mediators in Determining what Processing BERT Performs First](https://arxiv.org/abs/2104.06400) (NAACL2021)
 - [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355) (ACL2019)
 - [Cracking the Contextual Commonsense Code: Understanding Commonsense Reasoning Aptitude of Deep Contextual Representations](https://arxiv.org/abs/1910.01157) (EMNLP2019 WS)
 - [What do you mean, BERT? Assessing BERT as a Distributional Semantics Model](https://arxiv.org/abs/1911.05758)
@@ -830,6 +832,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/abs/1909.01380) (EMNLP2019) 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) (TACL2020)
 - [Pretrained Language Model Embryology: The Birth of ALBERT](https://arxiv.org/abs/2010.02480) (EMNLP2020) [[github](https://github.com/d223302/albert-embryology)]
+- [Evaluating Saliency Methods for Neural Language Models](https://arxiv.org/abs/2104.05824) (NAACL2021)
 - [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 - [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/abs/2010.06032) [[website](https://ai.googleblog.com/2020/10/measuring-gendered-correlations-in-pre.html)]
 - [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/abs/2010.14534) (COLING2020 WS)
