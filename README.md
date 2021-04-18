@@ -320,6 +320,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Distantly-Supervised Relation Extraction through BERT-based Label & Instance Embeddings](https://arxiv.org/abs/2102.01156)
 - [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://arxiv.org/abs/2102.05980) (EACL2021)
 - [ZS-BERT: Towards Zero-Shot Relation Extraction with Attribute Representation Learning](https://arxiv.org/abs/2104.04697) (NAACL2021) [[github](https://github.com/dinobby/ZS-BERT)]
+- [AdaPrompt: Adaptive Prompt-based Finetuning for Relation Extraction](https://arxiv.org/abs/2104.07650)
 - [Dialogue-Based Relation Extraction](https://arxiv.org/abs/2004.08056) (ACL2020)
 - [An Embarrassingly Simple Model for Dialogue Relation Extraction](https://arxiv.org/abs/2012.13873)
 - [A Novel Cascade Binary Tagging Framework for Relational Triple Extraction](https://arxiv.org/abs/1909.03227) (ACL2020) [[github](https://github.com/weizhepei/CasRel)]
@@ -576,6 +577,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) [[github](https://github.com/google-research/multilingual-t5)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
+- [NT5?! Training T5 to Perform Numerical Reasoning](https://arxiv.org/abs/2104.07307) [[github](https://github.com/lesterpjy/numeric-t5)]
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
 - [Best Practices for Data-Efficient Modeling in NLG:How to Train Production-Ready Neural Models with Less Data](https://arxiv.org/abs/2011.03877) (COLING2020)
@@ -879,6 +881,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fully Unsupervised Crosslingual Semantic Textual Similarity Metric Based on BERT for Identifying Parallel Data](https://www.aclweb.org/anthology/K19-1020/) (CoNLL2019)
 - [What the \[MASK\]? Making Sense of Language-Specific BERT Models](https://arxiv.org/abs/2003.02912)
 - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080) (ICML2020)
+- [XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation](https://arxiv.org/abs/2104.07412)
 - [XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation](https://arxiv.org/abs/2004.01401)
 - [A Systematic Analysis of Morphological Content in BERT Models for Multiple Languages](https://arxiv.org/abs/2004.03032)
 - [Extending Multilingual BERT to Low-Resource Languages](https://arxiv.org/abs/2004.13640)
@@ -1179,6 +1182,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
 - [1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed](https://arxiv.org/abs/2102.02888)
 - [TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models](https://arxiv.org/abs/2102.07988)
+- [Efficient Large-Scale Language Model Training on GPU Clusters](https://arxiv.org/abs/2104.04473)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)
 - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027) [[website](https://pile.eleuther.ai/)]
