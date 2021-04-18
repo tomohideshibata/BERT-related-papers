@@ -191,6 +191,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Labeling Explicit Discourse Relations using Pre-trained Language Models](https://arxiv.org/abs/2006.11852) (TSD2020)
 - [Causal-BERT : Language models for causality detection between events expressed in text](https://arxiv.org/abs/2012.05453)
 - [BERT4SO: Neural Sentence Ordering by Fine-tuning BERT](https://arxiv.org/abs/2103.13584)
+- [Document-Level Event Argument Extraction by Conditional Generation](https://arxiv.org/abs/2104.05919) (NAACL2021)
 - [Cross-lingual Zero- and Few-shot Hate Speech Detection Utilising Frozen Transformer Language Models and AXEL](https://arxiv.org/abs/2004.13850)
 - [Same Side Stance Classification Task: Facilitating Argument Stance Classification by Fine-tuning a BERT Model](https://arxiv.org/abs/2004.11163)
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
@@ -611,6 +612,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) (TACL2020) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
 - [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/abs/2008.11869)
+- [Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese Pre-trained Language Models](https://arxiv.org/abs/2104.07204) (NAACL2021)
 - [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
 - [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://arxiv.org/abs/2010.10392) (COLING2020)
 - [MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining](https://arxiv.org/abs/2011.08539)
@@ -1204,6 +1206,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Graph-Aware Transformer: Is Attention All Graphs Need?](https://arxiv.org/abs/2006.05213)
 - [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155) (EMNLP2020 Findings)
 - [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
+- [Unified Pre-training for Program Understanding and Generation](https://arxiv.org/abs/2103.06333) (NAACL2021)
 - [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [RecoBERT: A Catalog Language Model for Text-Based Recommendations](https://arxiv.org/abs/2009.13292)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
