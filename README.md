@@ -669,6 +669,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://arxiv.org/abs/2011.05431) (COLING2020 WS)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
+- [Retrieval Augmentation Reduces Hallucination in Conversation](https://arxiv.org/abs/2104.07567)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
 - [Current Limitations of Language Models: What You Need is Retrieval](https://arxiv.org/abs/2009.06857)
 - [Taking Notes on the Fly Helps BERT Pre-training](https://arxiv.org/abs/2008.01466)
@@ -722,6 +723,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On the Sentence Embeddings from Pre-trained Language Models](https://arxiv.org/abs/2011.05864) (EMNLP2020)
 - [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) (ICLR2021)
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
+- [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
 ## Transformer variants
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 - [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
@@ -842,6 +844,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/abs/2010.14534) (COLING2020 WS)
 - [Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models](https://arxiv.org/abs/2101.09688) (EACL2021)
 - [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/abs/2010.00133) (EMNLP2020)
+- [Unmasking the Mask -- Evaluating Social Biases in Masked Language Models](https://arxiv.org/abs/2104.07496)
 - [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations](https://arxiv.org/abs/2010.02686) (EMNLP2020)
 - [Does Chinese BERT Encode Word Structure?](https://arxiv.org/abs/2010.07711) (COLING2020) [[github](https://github.com/ylwangy/BERT_zh_Analysis)]
 - [How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations](https://arxiv.org/abs/1909.04925) (CIKM2019)
