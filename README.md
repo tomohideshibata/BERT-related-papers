@@ -109,6 +109,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://arxiv.org/abs/2009.13845) (ICLR2021)
 - [Table Search Using a Deep Contextualized Language Model](https://arxiv.org/abs/2005.09207) (SIGIR2020)
 - [Open Domain Question Answering over Tables via Dense Retrieval](https://arxiv.org/abs/2103.12011) (NAACL2021)
+- [Capturing Row and Column Semantics in Transformer Based Question Answering over Tables](https://arxiv.org/abs/2104.08303) (NAACL2021)
 - [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://www.aclweb.org/anthology/P19-1227/) (ACL2019)
@@ -576,7 +577,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
-- [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) [[github](https://github.com/google-research/multilingual-t5)]
+- [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) (NAACL2021) [[github](https://github.com/google-research/multilingual-t5)]
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [NT5?! Training T5 to Perform Numerical Reasoning](https://arxiv.org/abs/2104.07307) [[github](https://github.com/lesterpjy/numeric-t5)]
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
