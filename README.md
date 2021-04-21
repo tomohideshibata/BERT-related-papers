@@ -578,6 +578,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) (NAACL2021) [[github](https://github.com/google-research/multilingual-t5)]
+- [mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs](https://arxiv.org/abs/2104.08692)
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [NT5?! Training T5 to Perform Numerical Reasoning](https://arxiv.org/abs/2104.07307) [[github](https://github.com/lesterpjy/numeric-t5)]
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
