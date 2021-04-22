@@ -123,6 +123,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering](https://arxiv.org/abs/2010.12643)
 - [Cross-lingual Machine Reading Comprehension with Language Branch Knowledge Distillation](https://arxiv.org/abs/2010.14271) (COLING2020)
 - [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://arxiv.org/abs/2007.15207) [[github](https://github.com/apple/ml-mkqa)]
+- [X-METRA-ADA: Cross-lingual Meta-Transfer Learning Adaptation to Natural Language Understanding and Question Answering](https://arxiv.org/abs/2104.09696) (NAACL2021)
 - [Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension](https://arxiv.org/abs/1904.09679) (TACL)
 - [SberQuAD - Russian Reading Comprehension Dataset: Description and Analysis](https://arxiv.org/abs/1912.09723)
 - [DuReaderrobust: A Chinese Dataset Towards Evaluating the Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.11142)
@@ -681,6 +682,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
 - [GPT Understands, Too](https://arxiv.org/abs/2103.10385) [[github](https://github.com/THUDM/P-tuning)]
 - [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (NAACL2021) [[website](https://huggingface.co/blog/how_many_data_points/)]
+- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://arxiv.org/abs/2104.06599) (NAACL2021)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Improving Event Duration Prediction via Time-aware Pre-training](https://arxiv.org/abs/2011.02610) (EMNLP2020 Findings)
 - [Knowledge-Aware Procedural Text Understanding with Multi-Stage Training](https://arxiv.org/abs/2009.13199)
