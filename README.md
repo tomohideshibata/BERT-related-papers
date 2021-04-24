@@ -685,6 +685,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [GPT Understands, Too](https://arxiv.org/abs/2103.10385) [[github](https://github.com/THUDM/P-tuning)]
 - [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (NAACL2021) [[website](https://huggingface.co/blog/how_many_data_points/)]
 - [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://arxiv.org/abs/2104.06599) (NAACL2021)
+- [Meta-tuning Language Models to Answer Prompts Better](https://arxiv.org/abs/2104.04670)
+- [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Improving Event Duration Prediction via Time-aware Pre-training](https://arxiv.org/abs/2011.02610) (EMNLP2020 Findings)
 - [Knowledge-Aware Procedural Text Understanding with Multi-Stage Training](https://arxiv.org/abs/2009.13199)
