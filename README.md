@@ -468,6 +468,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Chinese Grammatical Correction Using BERT-based Pre-trained Model](https://arxiv.org/abs/2011.02093) (AACL-IJCNLP2020)
 - [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) (ACL2020)
 ### IR
+- [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) [[github](https://github.com/UKPLab/beir)]
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
 - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)
