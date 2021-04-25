@@ -131,6 +131,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://arxiv.org/abs/1909.00109) (EMNLP2019)
 - [Few-Shot Question Answering by Pretraining Span Selection](https://arxiv.org/abs/2101.00438)
 - [DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/abs/2009.13570) [[website](https://evalai.cloudcv.org/web/challenges/challenge-page/708/overview)]
+- [A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP](https://arxiv.org/abs/2104.10810)
 - [BERT-DST: Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1907.03040) (Interspeech2019)
 - [Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/abs/1908.01946) 
 - [A Simple but Effective BERT Model for Dialog State Tracking on Resource-Limited Systems](https://arxiv.org/abs/1910.12995) (ICASSP2020)
@@ -534,6 +535,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dual Inference for Improving Language Understanding and Generation](https://arxiv.org/abs/2010.04246) (EMNLP2020 Findings)
 - [All NLP Tasks Are Generation Tasks: A General Pretraining Framework](https://arxiv.org/abs/2103.10360)
 - [ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training](https://arxiv.org/abs/2001.04063) (EMNLP2020 Findings) [[github](https://github.com/microsoft/ProphetNet)]
+- [ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation](https://arxiv.org/abs/2104.08006)
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
 - [On the use of BERT for Neural Machine Translation](https://arxiv.org/abs/1909.12744) (EMNLP2019 WS)
@@ -694,6 +696,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring](https://arxiv.org/abs/1905.01969) (ICLR2020)
 - [Rethinking Positional Encoding in Language Pre-training](https://arxiv.org/abs/2006.15595)
 - [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/abs/2009.13658) (EMNLP2020 Findings)
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
 - [Position Information in Transformers: An Overview](https://arxiv.org/abs/2102.11090)
 - [BoostingBERT:Integrating Multi-Class Boosting into BERT for NLP Tasks](https://arxiv.org/abs/2009.05959)
 - [BURT: BERT-inspired Universal Representation from Twin Structure](https://arxiv.org/abs/2004.13947)
