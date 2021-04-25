@@ -802,6 +802,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036) (EACL2021)
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869) (ICLR2021)
+- [Probing Across Time: What Does RoBERTa Know and When?](https://arxiv.org/abs/2104.07885)
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
@@ -810,6 +811,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
 - [Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models](https://arxiv.org/abs/2005.00782)
 - [Probing Task-Oriented Dialogue Representation from Language Models](https://arxiv.org/abs/2010.13912) (EMNLP2020)
+- [Probing for Bridging Inference in Transformer Language Models](https://arxiv.org/abs/2104.09400)
 - [BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? -- A Study on the RAMS Dataset](https://arxiv.org/abs/2010.04098) (EMNLP2020 WS)
 - [CxGBERT: BERT meets Construction Grammar](https://arxiv.org/abs/2011.04134) (COLING2020) [[github](https://github.com/H-TayyarMadabushi/CxGBERT-BERT-meets-Construction-Grammar)]
 ## Inside BERT
