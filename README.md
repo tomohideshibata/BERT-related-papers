@@ -1005,6 +1005,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634) (ACL2020) [[github](https://github.com/lanwuwei/BERTOverflow)]
 - [BERTweet: A pre-trained language model for English Tweets](https://arxiv.org/abs/2005.10200) (EMNLP2020 Demo)
 - [TweetBERT: A Pretrained Language Representation Model for Twitter Text Analysis](https://arxiv.org/abs/2010.11091)
+- [A Million Tweets Are Worth a Few Points: Tuning Transformers for Customer Service Tasks](https://arxiv.org/abs/2104.07944)
+- [Analyzing COVID-19 Tweets with Transformer-based Language Models](https://arxiv.org/abs/2104.10259)
 - [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media](https://arxiv.org/abs/2010.01150) (EMNLP2020 Findings)
 ## Multi-modal
 - [A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
@@ -1186,6 +1188,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245) (AACL-IJCNLP2020) [[github](https://github.com/varinf/TransformersDataAugmentation)]
 - [Mixup-Transfomer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/abs/2010.02394) (COLING2020)
+- [GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation](https://arxiv.org/abs/2104.08826)
 - [Unsupervised Text Style Transfer with Padded Masked Language Models](https://arxiv.org/abs/2010.01054) (EMNLP2020)
 - [Assessing Discourse Relations in Language Generation from Pre-trained Language Models](https://arxiv.org/abs/2004.12506)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) (ICLR2020)
