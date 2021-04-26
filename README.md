@@ -578,6 +578,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Autoregressive Entity Retrieval](https://arxiv.org/abs/2010.00904) (ICLR2021) [[github](https://github.com/facebookresearch/GENRE)]
 - [Multilingual Autoregressive Entity Linking](https://arxiv.org/abs/2103.12528)
 - [EIGEN: Event Influence GENeration using Pre-trained Language Models](https://arxiv.org/abs/2010.11764)
+- [proScript: Partially Ordered Scripts Generation via Pre-trained Language Models](https://arxiv.org/abs/2104.08251)
 - [Contrastive Triple Extraction with Generative Transformer](https://arxiv.org/abs/2009.06207) (AAAI2021)
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367)
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
@@ -672,6 +673,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning](https://www.aclweb.org/anthology/2020.emnlp-main.722/) (EMNLP2020)
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
 - [CoLAKE: Contextualized Language and Knowledge Embedding](https://arxiv.org/abs/2010.00309) (COLING2020)
+- [KI-BERT: Infusing Knowledge Context for Better Language and Domain Understanding](https://arxiv.org/abs/2104.08145)
 - [Coarse-to-Fine Pre-training for Named Entity Recognition](https://arxiv.org/abs/2010.08210) (EMNLP2020)
 - [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://arxiv.org/abs/2011.05431) (COLING2020 WS)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
@@ -1070,6 +1072,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
 - [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110) (CVPR2021)
 - [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) (KDD2020) [[github](https://github.com/microsoft/unilm/tree/master/layoutlm)]
+- [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/abs/2104.08405)
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
