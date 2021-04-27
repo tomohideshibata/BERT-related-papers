@@ -57,9 +57,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) (ACL2019)
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) (EMNLP2020)
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/abs/2101.00408)
+- [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
 - [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756)
 - [Multi-Step Reasoning Over Unstructured Text with Beam Dense Retrieval](https://arxiv.org/abs/2104.05883) (NAACL2021) [[github](https://github.com/henryzhao5852/BeamDR)]
+- [Retrieve, Read, Rerank, then Iterate: Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://arxiv.org/abs/2010.12527)
 - [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2010.08191) 
 - [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/abs/2002.03932) (ICLR2020)
 - [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/abs/1908.08167) (EMNLP2019)
@@ -69,6 +71,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [RECONSIDER: Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering](https://arxiv.org/abs/2010.10757)
 - [SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval](https://arxiv.org/abs/2009.13013)
 - [Don't Read Too Much into It: Adaptive Computation for Open-Domain Question Answering](https://arxiv.org/abs/2011.05435) (EMNLP2020 WS)
+- [Pruning the Index Contents for Memory Efficient Open-Domain QA](https://arxiv.org/abs/2102.10697) [[github](https://github.com/KNOT-FIT-BUT/R2-D2)]
 - [Is Retriever Merely an Approximator of Reader?](https://arxiv.org/abs/2010.10999)
 - [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation](https://arxiv.org/abs/2009.13815)
 - [RikiNet: Reading Wikipedia Pages for Natural Question Answering](https://arxiv.org/abs/2004.14560) (ACL2020)
@@ -494,6 +497,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Beyond \[CLS\] through Ranking by Generation](https://arxiv.org/abs/2010.03073) (EMNLP2020)
 - [Efficient Document Re-Ranking for Transformers by Precomputing Term Representations](https://arxiv.org/abs/2004.14255) (SIGIR2020)
 - [Training Curricula for Open Domain Answer Re-Ranking](https://arxiv.org/abs/2004.14269) (SIGIR2020)
+- [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](SIGIR2021)
 - [Document Ranking with a Pretrained Sequence-to-Sequence Model](https://arxiv.org/abs/2003.06713)
 - [COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List] (NAACL2021)
 - [Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search](https://arxiv.org/abs/2006.07548) (SIGIR2020)
@@ -677,6 +681,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coarse-to-Fine Pre-training for Named Entity Recognition](https://arxiv.org/abs/2010.08210) (EMNLP2020)
 - [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://arxiv.org/abs/2011.05431) (COLING2020 WS)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
+- [Simple and Efficient ways to Improve REALM](https://arxiv.org/abs/2104.08710)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
 - [Retrieval Augmentation Reduces Hallucination in Conversation](https://arxiv.org/abs/2104.07567)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
