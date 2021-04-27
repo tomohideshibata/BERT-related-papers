@@ -925,6 +925,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Inducing Language-Agnostic Multilingual Representations](https://arxiv.org/abs/2008.09112)
 - [To What Degree Can Language Borders Be Blurred In BERT-based Multilingual Spoken Language Understanding?](https://arxiv.org/abs/2011.05007) (COLING2020)
 - [It's not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT](https://arxiv.org/abs/2010.08275) (EMNLP2020 WS)
+- [XLM-T: A Multilingual Language Model Toolkit for Twitter](https://arxiv.org/abs/2104.12250)
 - [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://arxiv.org/abs/2010.12309)
 - [Translation Artifacts in Cross-lingual Transfer Learning](https://arxiv.org/abs/2004.04721) (EMNLP2020)
 - [Identifying Cultural Differences through Multi-Lingual Wikipedia](https://arxiv.org/abs/2004.04938)
@@ -969,6 +970,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922) (EMNLP2020 Findings)
 - [Intrinsic Knowledge Evaluation on Chinese Language Models](https://arxiv.org/abs/2011.14277)
 - [CPM: A Large-scale Generative Chinese Pre-trained Language Model](https://arxiv.org/abs/2012.00413) [[github](https://github.com/TsinghuaAI/CPM-Generate)]
+- [PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
 - [AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation](https://arxiv.org/abs/2009.11473)
