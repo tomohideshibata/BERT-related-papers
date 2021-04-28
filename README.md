@@ -640,6 +640,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Focusing More on Conflicts with Mis-Predictions Helps Language Pre-Training](https://arxiv.org/abs/2012.08789)
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (NAACL2021)
 - [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2012.15723)
+- [CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP](https://arxiv.org/abs/2104.08835)
+- [Lifelong Learning of Few-shot Learners across NLP Tasks](https://arxiv.org/abs/2104.08808)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
