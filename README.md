@@ -69,6 +69,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering](https://arxiv.org/abs/1911.10470) (ICLR2020)
 - [Relevance-guided Supervision for OpenQA with ColBERT](https://arxiv.org/abs/2007.00814)
 - [RECONSIDER: Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering](https://arxiv.org/abs/2010.10757)
+- [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/abs/2104.08445)
 - [SPARTA: Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval](https://arxiv.org/abs/2009.13013)
 - [Don't Read Too Much into It: Adaptive Computation for Open-Domain Question Answering](https://arxiv.org/abs/2011.05435) (EMNLP2020 WS)
 - [Pruning the Index Contents for Memory Efficient Open-Domain QA](https://arxiv.org/abs/2102.10697) [[github](https://github.com/KNOT-FIT-BUT/R2-D2)]
@@ -371,6 +372,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Inducing Taxonomic Knowledge from Pretrained Transformers](https://arxiv.org/abs/2010.12813)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
+- [Zero-shot Slot Filling with DPR and RAG](https://arxiv.org/abs/2104.08610)
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
 - [MLMLM: Link Prediction with Mean Likelihood Masked Language Model](https://arxiv.org/abs/2009.07058)
 - [Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases](https://arxiv.org/abs/2011.07743)
