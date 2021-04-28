@@ -1139,6 +1139,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925) (EMNLP2020)
 - [Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning](https://arxiv.org/abs/2002.08307) (ACL2020 SRW)
 - [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/abs/2002.10957)
+- [Extract then Distill: Efficient and Effective Task-Agnostic BERT Distillation](https://arxiv.org/abs/2104.11928)
 - [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://arxiv.org/abs/2002.11985)
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
 - [Well-Read Students Learn Better: On the Importance of Pre-training Compact Models](https://arxiv.org/abs/1908.08962)
@@ -1157,6 +1158,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance](https://arxiv.org/abs/2010.06133) (EMNLP2020) [[github](https://github.com/lxk00/BERT-EMD)]
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [XtremeDistil: Multi-stage Distillation for Massive Multilingual Models](https://www.aclweb.org/anthology/2020.acl-main.202/) (ACL2020)
+- [Robustly Optimized and Distilled Training for Natural Language Understanding](https://arxiv.org/abs/2103.08809)
 - [Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683) [[github](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)]
 - [Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning](https://arxiv.org/abs/2009.08065) (EMNLP2020 Findings)
