@@ -661,6 +661,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SegaBERT: Pre-training of Segment-aware BERT for Language Understanding](https://arxiv.org/abs/2004.14996)
 - [DisSent: Sentence Representation Learning from Explicit Discourse Relations](https://arxiv.org/abs/1710.04334) (ACL2019)
 - [Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/abs/2005.10389) (ACL2020)
+- [CAPT: Contrastive Pre-Training for Learning Denoised Sequence Representations](https://arxiv.org/abs/2010.06351)
 - [SLM: Learning a Discourse Language Representation with Sentence Unshuffling](https://arxiv.org/abs/2010.16249) (EMNLP2020)
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577) (ICLR2020)
 - [Retrofitting Structure-aware Transformer Language Model for End Tasks](https://arxiv.org/abs/2009.07408) (EMNLP2020)
