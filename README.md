@@ -194,6 +194,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PERL: Pivot-based Domain Adaptation for Pre-trained Deep Contextualized Embedding Models](https://arxiv.org/abs/2006.09075) (TACL2020)
 - [Knowledge Distillation for BERT Unsupervised Domain Adaptation](https://arxiv.org/abs/2010.11478)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
+- [Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?](https://arxiv.org/abs/2104.07762) (NAACL2021)
 - [On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification](https://arxiv.org/abs/2004.12617) (IJCAI2020)
 - [Adapting BERT to Implicit Discourse Relation Classification with a Focus on Discourse Connectives](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.144.pdf) (LREC2020)
 - [Labeling Explicit Discourse Relations using Pre-trained Language Models](https://arxiv.org/abs/2006.11852) (TSD2020)
@@ -205,6 +206,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection](https://arxiv.org/abs/2004.13432)
 - [KEIS@JUST at SemEval-2020 Task 12: Identifying Multilingual Offensive Tweets Using Weighted Ensemble and Fine-Tuned BERT](https://arxiv.org/abs/2005.07820)
 - [ALBERT-BiLSTM for Sequential Metaphor Detection](https://www.aclweb.org/anthology/2020.figlang-1.17/) (ACL2020 WS)
+- [MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://arxiv.org/abs/2104.13615) (NAACL2021)
 - [A BERT-based Dual Embedding Model for Chinese Idiom Prediction](https://arxiv.org/abs/2011.02378) (COLING2020)
 - [Should You Fine-Tune BERT for Automated Essay Scoring?](https://www.aclweb.org/anthology/2020.bea-1.15/) (ACL2020 WS)
 - [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252) (NAACL2021) [[github](https://github.com/facebookresearch/KILT)]
@@ -255,6 +257,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-Lingual Named Entity Recognition Using Parallel Corpus: A New Approach Using XLM-RoBERTa Alignment](https://arxiv.org/abs/2101.11112)
 - [Portuguese Named Entity Recognition using BERT-CRF](https://arxiv.org/abs/1909.10649)
 - [Towards Lingua Franca Named Entity Recognition with BERT](https://arxiv.org/abs/1912.01389)
+- [Larger-Context Tagging: When and Why Does It Work?](https://arxiv.org/abs/2104.04434) (NAACL2021)
 ### Pronoun/coreference resolution
 - [A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution](https://arxiv.org/abs/2009.12721)
 - [Resolving Gendered Ambiguous Pronouns with BERT](https://arxiv.org/abs/1906.01161) (ACL2019 WS)
