@@ -340,6 +340,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [AutoRC: Improving BERT Based Relation Classification Models via Architecture Search](https://arxiv.org/abs/2009.10680)
 - [Investigation of BERT Model on Biomedical Relation Extraction Based on Revised Fine-tuning Mechanism](https://arxiv.org/abs/2011.00398)
 - [Experiments on transfer learning architectures for biomedical relation extraction](https://arxiv.org/abs/2011.12380)
+- [Improving BERT Model Using Contrastive Learning for Biomedical Relation Extraction](https://arxiv.org/abs/2104.13913) (BioNLP2021)
 - [Cross-Lingual Relation Extraction with Transformers](https://arxiv.org/abs/2010.08652)
 - [Improving Scholarly Knowledge Representation: Evaluating BERT-based Models for Scientific Relation Classification](https://arxiv.org/abs/2004.06153)
 - [Robustly Pre-trained Neural Model for Direct Temporal Relation Extraction](https://arxiv.org/abs/2004.06216)
@@ -366,6 +367,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Linking Entities to Unseen Knowledge Bases with Arbitrary Schemas](https://arxiv.org/abs/2010.11333)
 - [CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata](https://arxiv.org/abs/2101.09969) (EACL2021)
 - [PEL-BERT: A Joint Model for Protocol Entity Linking](https://arxiv.org/abs/2002.00744)
+- [End-to-end Biomedical Entity Linking with Span-based Dictionary Matching](https://arxiv.org/abs/2104.10493)
 - [Efficient One-Pass End-to-End Entity Linking for Questions](https://arxiv.org/abs/2010.02413) (EMNLP2020) [[github](https://github.com/belindal/BLINK/tree/master/elq)]
 - [Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking](https://arxiv.org/abs/2010.09828)
 - [Entity Linking in 100 Languages](https://arxiv.org/abs/2011.02690) (EMNLP2020) [[github](https://github.com/google-research/google-research/tree/master/dense_representations_for_entity_retrieval/mel)]
@@ -998,6 +1000,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [On Adversarial Examples for Biomedical NLP Tasks](https://arxiv.org/abs/2004.11157)
 - [An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining](https://arxiv.org/abs/2005.02799) (ACL2020 WS)
 - [Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing](https://arxiv.org/abs/2007.15779) [[github](https://microsoft.github.io/BLURB/)]
+- [Improving Biomedical Pretrained Language Models with Knowledge](https://arxiv.org/abs/2104.10344) (BioNLP2021)
 - [BioMegatron: Larger Biomedical Domain Language Model](https://arxiv.org/abs/2010.06060) (EMNLP2020) [[website](https://developer.nvidia.com/blog/building-state-of-the-art-biomedical-and-clinical-nlp-models-with-bio-megatron/)]
 - [Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art](https://www.aclweb.org/anthology/2020.clinicalnlp-1.17/) (EMNLP2020 WS)
 - [A pre-training technique to localize medical BERT and enhance BioBERT](https://arxiv.org/abs/2005.07202) [[github](https://github.com/sy-wada/blue_benchmark_with_transformers)]
@@ -1264,8 +1267,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Generating Derivational Morphology with BERT](https://arxiv.org/abs/2005.00672)
 - [BERT has a Moral Compass: Improvements of ethical and moral values of machines](https://arxiv.org/abs/1912.05238)
 - [SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction](https://dl.acm.org/citation.cfm?id=3342186) (ACM-BCB2019)
-- [BERT Learns (and Teaches) Chemistry](https://arxiv.org/abs/2007.16012)
 - [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2010.09885)
+- [BERT Learns (and Teaches) Chemistry](https://arxiv.org/abs/2007.16012)
+- [Prediction of RNA-protein interactions using a nucleotide language model](https://www.biorxiv.org/content/10.1101/2021.04.27.441365v1)
 - [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) (CVPR2020)
 - [The Chess Transformer: Mastering Play using Generative Language Models](https://arxiv.org/abs/2008.04057)
 - [The Go Transformer: Natural Language Modeling for Game Play](https://arxiv.org/abs/2007.03500)
