@@ -820,6 +820,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA](https://arxiv.org/abs/1911.03681)
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036) (EACL2021)
+- [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/abs/2104.05240) (NAACL2021) [[github](https://github.com/princeton-nlp/OptiPrompt)]
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869) (ICLR2021)
 - [Probing Across Time: What Does RoBERTa Know and When?](https://arxiv.org/abs/2104.07885)
