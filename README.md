@@ -144,6 +144,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dialogue State Tracking with Pretrained Encoder for Multi-domain Trask-oriented Dialogue Systems](https://arxiv.org/abs/2004.10663)
 - [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891) (ACL2020)
 - [A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/abs/2008.12335) (KDD2020 WS)
+- [Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://arxiv.org/abs/2104.04466)
 - [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871) (EMNLP2020)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 - [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/abs/2004.03588)
@@ -688,6 +689,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contextualized Representations Using Textual Encyclopedic Knowledge](https://arxiv.org/abs/2004.12006)
 - [CoLAKE: Contextualized Language and Knowledge Embedding](https://arxiv.org/abs/2010.00309) (COLING2020)
 - [KI-BERT: Infusing Knowledge Context for Better Language and Domain Understanding](https://arxiv.org/abs/2104.08145)
+- [K-XLNet: A General Method for Combining Explicit Knowledge with Language Model Pretraining](https://arxiv.org/abs/2104.10649)
+- [Combining pre-trained language models and structured knowledge](https://arxiv.org/abs/2101.12294)
 - [Coarse-to-Fine Pre-training for Named Entity Recognition](https://arxiv.org/abs/2010.08210) (EMNLP2020)
 - [E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks](https://arxiv.org/abs/2011.05431) (COLING2020 WS)
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
@@ -821,6 +824,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://arxiv.org/abs/2002.08910) (EMNLP2020)
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036) (EACL2021)
 - [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/abs/2104.05240) (NAACL2021) [[github](https://github.com/princeton-nlp/OptiPrompt)]
+- [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869) (ICLR2021)
 - [Probing Across Time: What Does RoBERTa Know and When?](https://arxiv.org/abs/2104.07885)
