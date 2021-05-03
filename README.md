@@ -520,6 +520,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
 - [Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/abs/2006.09526) (NeurIPS2020)
 - [Teaching a New Dog Old Tricks: Resurrecting Multilingual Retrieval Using Zero-shot Learning](https://arxiv.org/abs/1912.13080) (ECIR2020)
+- [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) (WSDM2021)
+- [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) (SIGIR2021)
 ## Generation
 - [GLGE: A New General Language Generation Evaluation Benchmark](https://arxiv.org/abs/2011.11928) [[github](https://github.com/microsoft/glge)] 
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
