@@ -155,8 +155,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Interactive Teaching for Conversational AI](https://arxiv.org/abs/2012.00958) (NeurIPS2020 WS)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
 ### Slot filling
+
+- [A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1214.pdf) (EMNLP2019)
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
-- [A Co-Interactive Transformer for Joint Slot Filling and Intent Detection](https://arxiv.org/abs/2010.03880)
+- [A Co-Interactive Transformer for Joint Slot Filling and Intent Detection](https://arxiv.org/abs/2010.03880) (ICASSP2021)
 - [Few-shot Intent Classification and Slot Filling with Retrieved Examples](https://arxiv.org/abs/2104.05763) (NAACL2021)
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
