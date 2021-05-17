@@ -661,6 +661,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) [[github](https://github.com/pytorch/fairseq/tree/master/examples/roberta)]
 - [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694) (EMNLP2020) [[github](https://github.com/StephAO/olfmlm)]
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
+- [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW) (ICLR2021)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
 - [Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/) (EMNLP2020) [[github](https://github.com/google-research/electra)]
 - [MC-BERT: Efficient Language Pre-Training via a Meta Controller](https://arxiv.org/abs/2006.05744)
