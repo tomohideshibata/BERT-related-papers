@@ -1027,6 +1027,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A clinical specific BERT developed with huge size of Japanese clinical narrative](https://www.medrxiv.org/content/10.1101/2020.07.07.20148585v1)
 - [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574) (ACL2020) [[github](https://github.com/xiangyue9607/CliniRC)]
 - [Knowledge-Empowered Representation Learning for Chinese Medical Reading Comprehension: Task, Model and Resources](https://arxiv.org/abs/2008.10327)
+- [Classifying Long Clinical Documents with Pre-trained Transformers](https://arxiv.org/abs/2105.06752)
 - [Detecting Adverse Drug Reactions from Twitter through Domain-Specific Preprocessing and BERT Ensembling](https://arxiv.org/abs/2005.06634)
 - [Progress Notes Classification and Keyword Extraction using Attention-based Deep Learning Models with BERT](https://arxiv.org/abs/1910.05786)
 - [BERT-XML: Large Scale Automated ICD Coding Using BERT Pretraining](https://arxiv.org/abs/2006.03685)
@@ -1038,6 +1039,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
 - [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559) (EMNLP2020 Findings)
+- [Lawformer: A Pre-trained Language Model for Chinese Legal Long Documents](https://arxiv.org/abs/2105.03887)
 - [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/abs/2009.02835)
 - [BERT Goes Shopping: Comparing Distributional Models for Product Representations](https://arxiv.org/abs/2012.09807)
 - [NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application](https://arxiv.org/abs/2102.04887)
