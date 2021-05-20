@@ -1037,6 +1037,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167) (EMNLP2020)
 - [Students Need More Attention: BERT-based Attention Model for Small Data with Application to Automatic Patient Message Triage](https://arxiv.org/abs/2006.11991) (MLHC2020)
 - [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
+- [OAG-BERT: Pre-train Heterogeneous Entity-augmented Academic Language Models](https://arxiv.org/abs/2103.02410) [[github](https://github.com/thudm/oag-bert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
 - [LEGAL-BERT: The Muppets straight out of Law School](https://arxiv.org/abs/2010.02559) (EMNLP2020 Findings)
