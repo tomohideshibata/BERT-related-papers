@@ -133,7 +133,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SberQuAD - Russian Reading Comprehension Dataset: Description and Analysis](https://arxiv.org/abs/1912.09723)
 - [DuReaderrobust: A Chinese Dataset Towards Evaluating the Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.11142)
 - [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://arxiv.org/abs/1909.00109) (EMNLP2019)
-- [Few-Shot Question Answering by Pretraining Span Selection](https://arxiv.org/abs/2101.00438)
+- [Few-Shot Question Answering by Pretraining Span Selection](https://arxiv.org/abs/2101.00438) (ACL2021)
 - [DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/abs/2009.13570) [[website](https://evalai.cloudcv.org/web/challenges/challenge-page/708/overview)]
 - [A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP](https://arxiv.org/abs/2104.10810)
 - [BERT-DST: Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1907.03040) (Interspeech2019)
@@ -280,6 +280,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coreferential Reasoning Learning for Language Representation](https://arxiv.org/abs/2004.06870) (EMNLP2020)
 - [Revisiting Memory-Efficient Incremental Coreference Resolution](https://arxiv.org/abs/2005.00128)
 - [Revealing the Myth of Higher-Order Inference in Coreference Resolution](https://arxiv.org/abs/2009.12013) (EMNLP2020)
+- [Coreference Resolution without Span Representations](https://arxiv.org/abs/2101.00434) (ACL2021)
 - [Neural Mention Detection](https://arxiv.org/abs/1907.12524) (LREC2020)
 - [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://www.aclweb.org/anthology/2020.acl-main.482/) (ACL2020)
 - [Joint Coreference Resolution and Character Linking for Multiparty Conversation](https://arxiv.org/abs/2101.11204)
