@@ -253,6 +253,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition](https://arxiv.org/abs/2012.05426)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://arxiv.org/abs/2011.06854) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
+- [Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter](https://arxiv.org/abs/2105.07148) (ACL2021)
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Knowledge Guided Named Entity Recognition for BioMedical Text](https://arxiv.org/abs/1911.03869)
@@ -847,6 +848,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing for Bridging Inference in Transformer Language Models](https://arxiv.org/abs/2104.09400)
 - [BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? -- A Study on the RAMS Dataset](https://arxiv.org/abs/2010.04098) (EMNLP2020 WS)
 - [CxGBERT: BERT meets Construction Grammar](https://arxiv.org/abs/2011.04134) (COLING2020) [[github](https://github.com/H-TayyarMadabushi/CxGBERT-BERT-meets-Construction-Grammar)]
+- [BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies?](https://arxiv.org/abs/2105.04949) (ACL2021)
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/abs/1905.09418) (ACL2019) [[github](https://github.com/lena-voita/the-story-of-heads)]
