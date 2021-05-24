@@ -1280,6 +1280,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/abs/2002.08155) (EMNLP2020 Findings)
 - [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
 - [Unified Pre-training for Program Understanding and Generation](https://arxiv.org/abs/2103.06333) (NAACL2021)
+- [MathBERT: A Pre-Trained Model for Mathematical Formula Understanding](https://arxiv.org/abs/2105.00377)
+- [Investigating Math Word Problems using Pretrained Multilingual Language Models](https://arxiv.org/abs/2105.08928)
 - [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [RecoBERT: A Catalog Language Model for Text-Based Recommendations](https://arxiv.org/abs/2009.13292)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
