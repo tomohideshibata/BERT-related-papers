@@ -752,6 +752,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Enhancing Pre-trained Language Model with Lexical Simplification](https://arxiv.org/abs/2012.15070)
 - [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
+- [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
 ## Sentence embedding
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
