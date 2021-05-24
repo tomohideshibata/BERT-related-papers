@@ -526,6 +526,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) (WSDM2021)
 - [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) (SIGIR2021)
 ## Generation
+- [Pretrained Language Models for Text Generation: A Survey](https://arxiv.org/abs/2105.10311) (IJCAI2021 Survey Track)
 - [GLGE: A New General Language Generation Evaluation Benchmark](https://arxiv.org/abs/2011.11928) [[github](https://github.com/microsoft/glge)] 
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
