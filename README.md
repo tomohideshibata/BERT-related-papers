@@ -678,6 +678,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CAPT: Contrastive Pre-Training for Learning Denoised Sequence Representations](https://arxiv.org/abs/2010.06351)
 - [SLM: Learning a Discourse Language Representation with Sentence Unshuffling](https://arxiv.org/abs/2010.16249) (EMNLP2020)
 - [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/abs/1908.04577) (ICLR2020)
+- [Structural Pre-training for Dialogue Comprehension](https://arxiv.org/abs/2105.10956) (ACL2021) 
 - [Retrofitting Structure-aware Transformer Language Model for End Tasks](https://arxiv.org/abs/2009.07408) (EMNLP2020)
 - [Syntax-Enhanced Pre-trained Model](https://arxiv.org/abs/2012.14116)
 - [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/abs/1911.06156)
@@ -766,6 +767,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SBERT-WK: A Sentence Embedding Method By Dissecting BERT-based Word Models](https://arxiv.org/abs/2002.06652)
 - [On the Sentence Embeddings from Pre-trained Language Models](https://arxiv.org/abs/2011.05864) (EMNLP2020)
 - [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) (ICLR2021)
+- [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://arxiv.org/abs/2105.11741) (ACL2021)
 - [Whitening Sentence Representations for Better Semantics and Faster Retrieval](https://arxiv.org/abs/2103.15316) [[github](https://github.com/bojone/BERT-whitening)]
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
 - [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
@@ -846,6 +848,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940) (EMNLP2019)
 - [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models](https://arxiv.org/abs/2005.00683) [[github](https://github.com/INK-USC/NumerSense)] [[website](https://inklab.usc.edu/NumerSense/)]
 - [Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly](https://www.aclweb.org/anthology/2020.acl-main.698/) (ACL2020)
+- [How is BERT surprised? Layerwise detection of linguistic anomalies](https://arxiv.org/abs/2105.07452) (ACL2021)
 - [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477)
 - [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 - [A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension](https://arxiv.org/abs/2006.01346)
