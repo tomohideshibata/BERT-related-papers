@@ -709,15 +709,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Current Limitations of Language Models: What You Need is Retrieval](https://arxiv.org/abs/2009.06857)
 - [Taking Notes on the Fly Helps BERT Pre-training](https://arxiv.org/abs/2008.01466)
 - [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
-- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
-- [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
-- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
-- [GPT Understands, Too](https://arxiv.org/abs/2103.10385) [[github](https://github.com/THUDM/P-tuning)]
-- [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (NAACL2021) [[website](https://huggingface.co/blog/how_many_data_points/)]
-- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://arxiv.org/abs/2104.06599) (NAACL2021)
-- [Meta-tuning Language Models to Answer Prompts Better](https://arxiv.org/abs/2104.04670)
-- [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
-- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
 - [Improving Event Duration Prediction via Time-aware Pre-training](https://arxiv.org/abs/2011.02610) (EMNLP2020 Findings)
 - [Knowledge-Aware Procedural Text Understanding with Multi-Stage Training](https://arxiv.org/abs/2009.13199)
@@ -756,6 +747,16 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
 - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
+### Prompt
+- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
+- [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
+- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+- [GPT Understands, Too](https://arxiv.org/abs/2103.10385) [[github](https://github.com/THUDM/P-tuning)]
+- [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (NAACL2021) [[website](https://huggingface.co/blog/how_many_data_points/)]
+- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://arxiv.org/abs/2104.06599) (NAACL2021)
+- [Meta-tuning Language Models to Answer Prompts Better](https://arxiv.org/abs/2104.04670)
+- [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 ## Sentence embedding
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
