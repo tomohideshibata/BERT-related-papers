@@ -757,6 +757,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Meta-tuning Language Models to Answer Prompts Better](https://arxiv.org/abs/2104.04670)
 - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+- [True Few-Shot Learning with Language Models](https://arxiv.org/abs/2105.11447)
+- [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/abs/2105.11259)
 ## Sentence embedding
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
