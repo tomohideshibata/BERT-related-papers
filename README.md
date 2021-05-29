@@ -1068,6 +1068,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media](https://arxiv.org/abs/2010.01150) (EMNLP2020 Findings)
 ## Multi-modal
 - [A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
+- [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265) (NeurIPS2019)
 - [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)
