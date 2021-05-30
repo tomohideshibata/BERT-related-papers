@@ -310,6 +310,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving BERT Performance for Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.11731)
 - [Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.07523)
 - [Understanding Pre-trained BERT for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2011.00169) (COLING2020)
+- [Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa](https://arxiv.org/abs/2104.04986) (NAACL2021)
 - [Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification](https://arxiv.org/abs/1908.11860) (LREC2020)
 - [An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese](https://arxiv.org/abs/1905.09642) (ACL2019)
 - ["Mask and Infill" : Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/abs/1908.08039)
@@ -1197,6 +1198,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Reducing Transformer Depth on Demand with Structured Dropout](https://arxiv.org/abs/1909.11556)
 - [DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference](https://www.aclweb.org/anthology/2020.acl-main.204/) (ACL2020)
 - [BERT Loses Patience: Fast and Robust Inference with Early Exit](https://arxiv.org/abs/2006.04152) [[github](https://github.com/JetRunner/PABEE)] [[github](https://github.com/huggingface/transformers/tree/master/examples/bert-loses-patience)]
+- [TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://arxiv.org/abs/2105.11618) (NAACL2021)
 - [FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://www.aclweb.org/anthology/2020.acl-main.537/) (ACL2020)
 - [Distilling Large Language Models into Tiny and Effective Students using pQRNN](https://arxiv.org/abs/2101.08890)
 - [Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation](https://arxiv.org/abs/2004.03097)
