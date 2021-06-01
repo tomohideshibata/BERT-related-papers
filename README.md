@@ -1198,6 +1198,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Reducing Transformer Depth on Demand with Structured Dropout](https://arxiv.org/abs/1909.11556)
 - [DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference](https://www.aclweb.org/anthology/2020.acl-main.204/) (ACL2020)
 - [BERT Loses Patience: Fast and Robust Inference with Early Exit](https://arxiv.org/abs/2006.04152) [[github](https://github.com/JetRunner/PABEE)] [[github](https://github.com/huggingface/transformers/tree/master/examples/bert-loses-patience)]
+- [Accelerating BERT Inference for Sequence Labeling via Early-Exit](https://arxiv.org/abs/2105.13878) (ACL2021)
 - [TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://arxiv.org/abs/2105.11618) (NAACL2021)
 - [FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://www.aclweb.org/anthology/2020.acl-main.537/) (ACL2020)
 - [Distilling Large Language Models into Tiny and Effective Students using pQRNN](https://arxiv.org/abs/2101.08890)
