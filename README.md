@@ -976,6 +976,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Bilingual Text Extraction as Reading Comprehension](https://arxiv.org/abs/2004.14517)
 - [Evaluating Multilingual BERT for Estonian](https://arxiv.org/abs/2010.00454)
 - [How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models](https://arxiv.org/abs/2012.15613) (ACL2021)
+- [BERTologiCoMix: How does Code-Mixing interact with Multilingual BERT?](https://www.aclweb.org/anthology/2021.adaptnlp-1.12/) (EACL2021 WS)
 ## Other than English models
 - [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894) (ACL2020)
 - [On the importance of pre-training data volume for compact language models](https://arxiv.org/abs/2010.03813) (EMNLP2020)
