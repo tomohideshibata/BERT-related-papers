@@ -843,6 +843,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries](https://arxiv.org/abs/2008.09036) (EACL2021)
 - [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/abs/2104.05240) (NAACL2021) [[github](https://github.com/princeton-nlp/OptiPrompt)]
 - [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)
+- [DirectProbe: Studying Representations without Classifiers](https://www.aclweb.org/anthology/2021.naacl-main.401/) (NAACL2021)
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869) (ICLR2021)
 - [Probing Across Time: What Does RoBERTa Know and When?](https://arxiv.org/abs/2104.07885)
