@@ -183,7 +183,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TabFact: A Large-scale Dataset for Table-based Fact Verification](https://arxiv.org/abs/1909.02164) (ICLR2020)
 - [Rapid Adaptation of BERT for Information Extraction on Domain-Specific Business Documents](https://arxiv.org/abs/2002.01861)
 - [A Focused Study to Compare Arabic Pre-training Models on Newswire IE Tasks](https://arxiv.org/abs/2004.14519)
-- [LAMBERT: Layout-Aware language Modeling using BERT for information extraction](https://arxiv.org/abs/2002.08087)
+- [LAMBERT: Layout-Aware (Language) Modeling for information extraction](https://arxiv.org/abs/2002.08087) (ICDAR2021)
 - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840) (ECIR2020) [[github](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data)]
 - [Keyphrase Extraction with Span-based Feature Representations](https://arxiv.org/abs/2002.05407)
 - [Keyphrase Prediction With Pre-trained Language Model](https://arxiv.org/abs/2004.10462)
@@ -1132,7 +1132,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
 - [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110) (CVPR2021)
 - [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) (KDD2020) [[github](https://github.com/microsoft/unilm/tree/master/layoutlm)]
+- [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) (ACL2021)
+- [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836)
 - [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/abs/2104.08405)
+- [BROS: A Pre-trained Language Model for Understanding Texts in Document](https://openreview.net/forum?id=punMXQEsPr0)
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
