@@ -574,6 +574,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://arxiv.org/abs/2010.08824) (EMNLP2020)
 - [Are Pre-trained Language Models Knowledgeable to Ground Open Domain Dialogues?](https://arxiv.org/abs/2011.09708)
 - [Open-Domain Dialogue Generation Based on Pre-trained Language Models](https://arxiv.org/abs/2010.12780)
+- [Retrieval-Augmented Transformer-XL for Close-Domain Dialog Generation](https://arxiv.org/abs/2105.09235)
 - [DialogBERT: Discourse-Aware Response Generation via Learning to Recover and Rank Utterances](https://arxiv.org/abs/2012.01775) (AAAI2021)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
@@ -591,6 +592,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Facts2Story: Controlling Text Generation by Key Facts](https://arxiv.org/abs/2012.04332)
 - [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://arxiv.org/abs/1911.03705) [[github](https://github.com/INK-USC/CommonGen)] [[website](https://inklab.usc.edu/CommonGen/)] (EMNLP2020 Findings)
 - [An Enhanced Knowledge Injection Model for Commonsense Generation](https://arxiv.org/abs/2012.00366) (COLING2020)
+- [Retrieval Enhanced Model for Commonsense Generation](https://arxiv.org/abs/2105.11174) (ACL2021 Findings)
 - [Lexically-constrained Text Generation through Commonsense Knowledge Extraction and Injection](https://arxiv.org/abs/2012.10813) (AAAI2021WS)
 - [Pre-training Text-to-Text Transformers for Concept-centric Common Sense](https://arxiv.org/abs/2011.07956)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://arxiv.org/abs/2009.11692) (EMNLP2020)
@@ -706,6 +708,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
 - [Simple and Efficient ways to Improve REALM](https://arxiv.org/abs/2104.08710)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
+- [Joint Retrieval and Generation Training for Grounded Text Generation](https://arxiv.org/abs/2105.06597)
 - [Retrieval Augmentation Reduces Hallucination in Conversation](https://arxiv.org/abs/2104.07567)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
 - [Current Limitations of Language Models: What You Need is Retrieval](https://arxiv.org/abs/2009.06857)
