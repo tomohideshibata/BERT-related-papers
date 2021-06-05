@@ -1155,6 +1155,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multimodal Pretraining for Dense Video Captioning](https://arxiv.org/abs/2011.11760) (AACL-IJCNLP2020)
 - [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 - [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183) (CVPR2021) [[github](https://github.com/jayleicn/ClipBERT)]
+- [VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding](https://arxiv.org/abs/2105.09996) (ACL2021 Findings)
 - [BERT-hLSTMs: BERT and Hierarchical LSTMs for Visual Storytelling](https://arxiv.org/abs/2012.02128)
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [An Audio-enriched BERT-based Framework for Spoken Multiple-choice Question Answering](https://arxiv.org/abs/2005.12142)
@@ -1216,6 +1217,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Poor Man's BERT: Smaller and Faster Transformer Models](https://arxiv.org/abs/2004.03844)
 - [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
 - [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance](https://arxiv.org/abs/2010.06133) (EMNLP2020) [[github](https://github.com/lxk00/BERT-EMD)]
+- [One Teacher is Enough? Pre-trained Language Model Distillation from Multiple Teachers](https://arxiv.org/abs/2106.01023) (ACL2021 Findings)
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [XtremeDistil: Multi-stage Distillation for Massive Multilingual Models](https://www.aclweb.org/anthology/2020.acl-main.202/) (ACL2020)
 - [Robustly Optimized and Distilled Training for Natural Language Understanding](https://arxiv.org/abs/2103.08809)
@@ -1289,6 +1291,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
 - [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660) (ACL2020)
 - [BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984) (EMNLP2020)
+- [BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks](https://arxiv.org/abs/2106.01452) (ACL2021 Findings)
 - [Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!](https://arxiv.org/abs/2103.10013) (NAACL2021)
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
 - [Robust Encodings: A Framework for Combating Adversarial Typos](https://www.aclweb.org/anthology/2020.acl-main.245/) (ACL2020)
