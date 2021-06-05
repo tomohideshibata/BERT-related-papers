@@ -670,6 +670,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (ICLR2020)
 - [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW) (ICLR2021)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
+- [Training ELECTRA Augmented with Multi-word Selection](https://arxiv.org/abs/2106.00139) (ACL2021 Findings)
 - [Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/) (EMNLP2020) [[github](https://github.com/google-research/electra)]
 - [MC-BERT: Efficient Language Pre-Training via a Meta Controller](https://arxiv.org/abs/2006.05744)
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
@@ -932,6 +933,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [How Language-Neutral is Multilingual BERT?](https://arxiv.org/abs/1911.03310)
 - [Load What You Need: Smaller Versions of Multilingual BERT](https://arxiv.org/abs/2010.05609) (EMNLP2020) [[github](https://github.com/Geotrend-research/smaller-transformers)]
 - [Is Multilingual BERT Fluent in Language Generation?](https://arxiv.org/abs/1910.03806)
+- [ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation](https://arxiv.org/abs/2106.01597) (ACL2021 Findings)
 - [Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks](https://www.aclweb.org/anthology/D19-1252/) (EMNLP2019)
 - [BERT is Not an Interlingua and the Bias of Tokenization](https://www.aclweb.org/anthology/D19-6106/) (EMNLP2019 WS)
 - [Cross-Lingual Ability of Multilingual BERT: An Empirical Study](https://openreview.net/forum?id=HJeT3yrtDr) (ICLR2020)
