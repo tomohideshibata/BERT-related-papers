@@ -654,7 +654,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation](https://arxiv.org/abs/2010.02705) (EMNLP2020)
 - [Improving Self-supervised Pre-training via a Fully-Explored Masked Language Model](https://arxiv.org/abs/2010.06040)
 - [Focusing More on Conflicts with Mis-Predictions Helps Language Pre-Training](https://arxiv.org/abs/2012.08789)
-- [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (NAACL2021)
+- [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676) (EACL2021) [[github](https://github.com/timoschick/pet)]
+- [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (NAACL2021) [[github](https://github.com/timoschick/pet)]
 - [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2012.15723)
 - [CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP](https://arxiv.org/abs/2104.08835)
 - [Lifelong Learning of Few-shot Learners across NLP Tasks](https://arxiv.org/abs/2104.08808)
