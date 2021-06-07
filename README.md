@@ -756,7 +756,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
 ### Prompt
-- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
+- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (EMNLP2020) [[github](https://github.com/ucinlp/autoprompt)]
 - [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
 - [GPT Understands, Too](https://arxiv.org/abs/2103.10385) [[github](https://github.com/THUDM/P-tuning)]
