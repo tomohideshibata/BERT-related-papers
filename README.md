@@ -656,7 +656,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Focusing More on Conflicts with Mis-Predictions Helps Language Pre-Training](https://arxiv.org/abs/2012.08789)
 - [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676) (EACL2021) [[github](https://github.com/timoschick/pet)]
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (NAACL2021) [[github](https://github.com/timoschick/pet)]
-- [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2012.15723)
+- [Making Pre-trained Language Models Better Few-shot Learners](https://arxiv.org/abs/2012.15723) (ACL2021) [[github](https://github.com/princeton-nlp/LM-BFF)]
 - [CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP](https://arxiv.org/abs/2104.08835)
 - [Lifelong Learning of Few-shot Learners across NLP Tasks](https://arxiv.org/abs/2104.08808)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
