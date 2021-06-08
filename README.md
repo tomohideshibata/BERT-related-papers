@@ -377,7 +377,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cross-Lingual Transfer in Zero-Shot Cross-Language Entity Linking](https://arxiv.org/abs/2010.09828)
 - [Entity Linking in 100 Languages](https://arxiv.org/abs/2011.02690) (EMNLP2020) [[github](https://github.com/google-research/google-research/tree/master/dense_representations_for_entity_retrieval/mel)]
 - [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://arxiv.org/abs/2010.03295) (EMNLP2020) [[github](https://github.com/cambridgeltl/cometa)]
-- [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
+- [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543) (TACL2020) [[github](https://github.com/jzbjyb/LPAQA)]
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
 - [Constructing Taxonomies from Pretrained Language Models](https://arxiv.org/abs/2010.12813) (NAACL2021)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
