@@ -379,7 +379,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://arxiv.org/abs/2010.03295) (EMNLP2020) [[github](https://github.com/cambridgeltl/cometa)]
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
-- [Inducing Taxonomic Knowledge from Pretrained Transformers](https://arxiv.org/abs/2010.12813)
+- [Constructing Taxonomies from Pretrained Language Models](https://arxiv.org/abs/2010.12813) (NAACL2021)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
 - [Zero-shot Slot Filling with DPR and RAG](https://arxiv.org/abs/2104.08610)
