@@ -129,6 +129,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering](https://arxiv.org/abs/2010.12643)
 - [Cross-lingual Machine Reading Comprehension with Language Branch Knowledge Distillation](https://arxiv.org/abs/2010.14271) (COLING2020)
 - [MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering](https://arxiv.org/abs/2007.15207) [[github](https://github.com/apple/ml-mkqa)]
+- [Towards More Equitable Question Answering Systems: How Much More Data Do You Need?](https://arxiv.org/abs/2105.14115) (ACL2021)
 - [X-METRA-ADA: Cross-lingual Meta-Transfer Learning Adaptation to Natural Language Understanding and Question Answering](https://arxiv.org/abs/2104.09696) (NAACL2021)
 - [Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension](https://arxiv.org/abs/1904.09679) (TACL)
 - [SberQuAD - Russian Reading Comprehension Dataset: Description and Analysis](https://arxiv.org/abs/1912.09723)
@@ -380,6 +381,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://arxiv.org/abs/2010.03295) (EMNLP2020) [[github](https://github.com/cambridgeltl/cometa)]
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543) (TACL2020) [[github](https://github.com/jzbjyb/LPAQA)]
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
+- [Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model](https://arxiv.org/abs/2106.04098) (ACL2021)
 - [Constructing Taxonomies from Pretrained Language Models](https://arxiv.org/abs/2010.12813) (NAACL2021)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
 - [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
@@ -607,6 +609,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://arxiv.org/abs/2009.08942) (EMNLP2020)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (JMLR2020) [[github](https://github.com/google-research/text-to-text-transfer-transformer)]
 - [mT5: A massively multilingual pre-trained text-to-text transformer](https://arxiv.org/abs/2010.11934) (NAACL2021) [[github](https://github.com/google-research/multilingual-t5)]
+- [nmT5 -- Is parallel data still relevant for pre-training massively multilingual language models?](https://arxiv.org/abs/2106.02171) (ACL2021)
 - [mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs](https://arxiv.org/abs/2104.08692)
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [NT5?! Training T5 to Perform Numerical Reasoning](https://arxiv.org/abs/2104.07307) [[github](https://github.com/lesterpjy/numeric-t5)]
@@ -617,6 +620,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 ## Quality evaluator
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675) (ICLR2020)
+- [BERTTune: Fine-Tuning Neural Machine Translation with BERTScore](https://arxiv.org/abs/2106.02208) (ACL2021)
 - [Machine Translation Evaluation with BERT Regressor](https://arxiv.org/abs/1907.12679)
 - [TransQuest: Translation Quality Estimation with Cross-lingual Transformers](https://arxiv.org/abs/2011.01536) (COLING2020)
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
@@ -780,6 +784,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
 - [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
 - [Dual-View Distilled BERT for Sentence Embedding](https://arxiv.org/abs/2104.08675) (SIGIR2021)
+- [DefSent: Sentence Embeddings using Definition Sentences](https://arxiv.org/abs/2105.04339) (ACL2021)
 - [Paraphrastic Representations at Scale](https://arxiv.org/abs/2104.15114) [[github](https://github.com/jwieting/paraphrastic-representations-at-scale)]
 ## Transformer variants
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
@@ -1312,6 +1317,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unified Pre-training for Program Understanding and Generation](https://arxiv.org/abs/2103.06333) (NAACL2021)
 - [MathBERT: A Pre-Trained Model for Mathematical Formula Understanding](https://arxiv.org/abs/2105.00377)
 - [Investigating Math Word Problems using Pretrained Multilingual Language Models](https://arxiv.org/abs/2105.08928)
+- [Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning](https://arxiv.org/abs/2106.03921) (ACL2021)
 - [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [RecoBERT: A Catalog Language Model for Text-Based Recommendations](https://arxiv.org/abs/2009.13292)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
