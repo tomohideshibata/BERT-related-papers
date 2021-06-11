@@ -385,6 +385,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model](https://arxiv.org/abs/2106.04098) (ACL2021)
 - [Constructing Taxonomies from Pretrained Language Models](https://arxiv.org/abs/2010.12813) (NAACL2021)
 - [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967)
+- [Can Generative Pre-trained Language Models Serve as Knowledge Bases for Closed-book QA?](https://arxiv.org/abs/2106.01561) (ACL2021) 
 - [DualTKB: A Dual Learning Bridge between Text and Knowledge Base](https://arxiv.org/abs/2010.14660) (EMNLP2020) [[github](https://github.com/IBM/dualtkb)]
 - [Zero-shot Slot Filling with DPR and RAG](https://arxiv.org/abs/2104.08610)
 - [How to Avoid Being Eaten by a Grue: Structured Exploration Strategies for Textual Worlds](https://arxiv.org/abs/2006.07409) [[github](https://github.com/rajammanabrolu/Q-BERT)]
@@ -761,6 +762,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
 - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
+- [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/abs/2105.03322) (ACL2021)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
 ### Prompt
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (EMNLP2020) [[github](https://github.com/ucinlp/autoprompt)]
@@ -940,6 +942,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://arxiv.org/abs/1904.09077) (EMNLP2019)
 - [How multilingual is Multilingual BERT?](https://arxiv.org/abs/1906.01502) (ACL2019)
 - [How Language-Neutral is Multilingual BERT?](https://arxiv.org/abs/1911.03310)
+- [How to Adapt Your Pretrained Multilingual Model to 1600 Languages](https://arxiv.org/abs/2106.02124) (ACL2021)
 - [Load What You Need: Smaller Versions of Multilingual BERT](https://arxiv.org/abs/2010.05609) (EMNLP2020) [[github](https://github.com/Geotrend-research/smaller-transformers)]
 - [Is Multilingual BERT Fluent in Language Generation?](https://arxiv.org/abs/1910.03806)
 - [ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation](https://arxiv.org/abs/2106.01597) (ACL2021 Findings)
@@ -971,6 +974,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT](https://arxiv.org/abs/2101.11109) (EACL2021)
 - [Multilingual BERT Post-Pretraining Alignment](https://arxiv.org/abs/2010.12547) (NAACL2021)
 - [XeroAlign: Zero-Shot Cross-lingual Transformer Alignment](https://arxiv.org/abs/2105.02472) (ACL2021 Findings)
+- [Syntax-augmented Multilingual BERT for Cross-lingual Transfer](https://arxiv.org/abs/2106.02134) (ACL2021)
 - [Language Representation in Multilingual BERT and its applications to improve Cross-lingual Generalization](https://arxiv.org/abs/2010.10041)
 - [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://openreview.net/forum?id=YjNv-hzM8BE)
 - [On the Language Neutrality of Pre-trained Multilingual Representations](https://arxiv.org/abs/2004.05160)
