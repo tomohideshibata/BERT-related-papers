@@ -25,6 +25,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Survey on Transfer Learning in Natural Language Processing](https://arxiv.org/abs/2007.04239)
 - [Which \*BERT? A Survey Organizing Contextualized Encoders](https://arxiv.org/abs/2010.00854) (EMNLP2020)
 - [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640)
+- [Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139)
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554)
  
 ## Downstream task
