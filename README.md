@@ -637,6 +637,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/2002.07972)
 - [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671) (ICML2019)
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) (ICLR2021) [[github](https://github.com/hendrycks/test)]
+- [Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/abs/2106.04489) (ACL2021)
 - [Pre-training Text Representations as Meta Learning](https://arxiv.org/abs/2004.05568)
 - [Unifying Question Answering and Text Classification via Span Extraction](https://arxiv.org/abs/1904.09286)
 - [MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization](https://arxiv.org/abs/2004.12302) (ACL2020)
@@ -931,6 +932,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Calibration of Pre-trained Transformers](https://arxiv.org/abs/2003.07892)
 - [When BERT Plays the Lottery, All Tickets Are Winning](https://arxiv.org/abs/2005.00561) (EMNLP2020)
 - [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
+- [What Context Features Can Transformer Language Models Use?](https://arxiv.org/abs/2106.08367) (ACL2021)
 - [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://arxiv.org/abs/1910.05276) [[github](https://github.com/bhoov/exbert)]
 - [The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models](https://arxiv.org/abs/2008.05122) [[github](https://github.com/pair-code/lit)]
 - [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
