@@ -1164,7 +1164,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [lamBERT: Language and Action Learning Using Multimodal BERT](https://arxiv.org/abs/2004.07093)
 - [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[github](https://github.com/openai/image-gpt)] [[website](https://openai.com/blog/image-gpt/)]
 - [Visual Transformers: Token-based Image Representation and Processing for Computer Vision](https://arxiv.org/abs/2006.03677)
-- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy) (ICLR2021)
+- [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) [[github](https://github.com/openai/DALL-E)] [[website](https://openai.com/blog/dall-e/)]
 - [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
 - [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)
