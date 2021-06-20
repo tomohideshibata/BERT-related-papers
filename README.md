@@ -277,6 +277,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Fill the GAP: Exploiting BERT for Pronoun Resolution](https://www.aclweb.org/anthology/papers/W/W19/W19-3815/) (ACL2019 WS)
 - [On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution](https://www.aclweb.org/anthology/W19-3816/) (ACL2019 WS)
 - [Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution](https://arxiv.org/abs/1905.08868) (ACL2019 WS)
+- [Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://arxiv.org/abs/2105.12392) (ACL2021)
 - [BERT Masked Language Modeling for Co-reference Resolution](https://www.aclweb.org/anthology/papers/W/W19/W19-3811/) (ACL2019 WS)
 - [Coreference Resolution with Entity Equalization](https://www.aclweb.org/anthology/P19-1066/) (ACL2019)
 - [BERT for Coreference Resolution: Baselines and Analysis](https://arxiv.org/abs/1908.09091) (EMNLP2019) [[github](https://github.com/mandarjoshi90/coref)]
@@ -552,6 +553,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Constrained Abstractive Summarization: Preserving Factual Consistency with Constrained Generation](https://arxiv.org/abs/2010.12723)
 - [Abstractive Query Focused Summarization with Query-Free Resources](https://arxiv.org/abs/2012.14774)
 - [Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)
+- [Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization](https://arxiv.org/abs/2105.12544) (ACL2021)
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
 - [Mixed-Lingual Pre-training for Cross-lingual Summarization](https://arxiv.org/abs/2010.08892) (AACL-IJCNLP2020)
