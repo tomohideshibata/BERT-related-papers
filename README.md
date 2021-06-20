@@ -156,6 +156,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/abs/2004.04494) (ACL2020)
 - [DialBERT: A Hierarchical Pre-Trained Model for Conversation Disentanglement](https://arxiv.org/abs/2004.03760)
 - [Generalized Conditioned Dialogue Generation Based on Pre-trained Language Model](https://arxiv.org/abs/2010.11140)
+- [BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data](https://arxiv.org/abs/2106.06169) (ACL2021)
 - [Interactive Teaching for Conversational AI](https://arxiv.org/abs/2012.00958) (NeurIPS2020 WS)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
 ### Slot filling
@@ -198,6 +199,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection](https://www.aclweb.org/anthology/2020.acl-main.630/) (ACL2020)
 - [Domain Adaptation with BERT-based Domain Classification and Data Selection](https://www.aclweb.org/anthology/D19-6109/) (EMNLP2019 WS)
 - [PERL: Pivot-based Domain Adaptation for Pre-trained Deep Contextualized Embedding Models](https://arxiv.org/abs/2006.09075) (TACL2020)
+- [Unsupervised Out-of-Domain Detection via Pre-trained Transformers](https://arxiv.org/abs/2106.00948) (ACL2021) [[github](https://github.com/rivercold/BERT-unsupervised-OOD)]
 - [Knowledge Distillation for BERT Unsupervised Domain Adaptation](https://arxiv.org/abs/2010.11478)
 - [Sensitive Data Detection and Classification in Spanish Clinical Text: Experiments with BERT](https://arxiv.org/abs/2003.03106) (LREC2020)
 - [Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?](https://arxiv.org/abs/2104.07762) (NAACL2021)
@@ -747,6 +749,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874) [[github](https://github.com/google-research/language/tree/master/language/canine)]
 - [ByT5: Towards a token-free future with pre-trained byte-to-byte models](https://arxiv.org/abs/2105.13626) [[github](https://github.com/google-research/byt5)]
 - [Multi-view Subword Regularization](https://arxiv.org/abs/2103.08490) (NAACL2021)
+- [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/abs/2106.06125) (ACL2021)
 - [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
