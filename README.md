@@ -140,6 +140,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Few-Shot Question Answering by Pretraining Span Selection](https://arxiv.org/abs/2101.00438) (ACL2021)
 - [DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue](https://arxiv.org/abs/2009.13570) [[website](https://evalai.cloudcv.org/web/challenges/challenge-page/708/overview)]
 - [A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP](https://arxiv.org/abs/2104.10810)
+- [MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding](https://arxiv.org/abs/2106.01541) (ACL2021)
 - [BERT-DST: Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1907.03040) (Interspeech2019)
 - [Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/abs/1908.01946) 
 - [A Simple but Effective BERT Model for Dialog State Tracking on Resource-Limited Systems](https://arxiv.org/abs/1910.12995) (ICASSP2020)
@@ -150,6 +151,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/abs/2008.12335) (KDD2020 WS)
 - [Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://arxiv.org/abs/2104.04466)
 - [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871) (EMNLP2020)
+- [Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances](https://arxiv.org/abs/2106.02227) (ACL2021)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 - [Speaker-Aware BERT for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/abs/2004.03588)
 - [Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking](https://arxiv.org/abs/1912.08555) (ECIR2020)
