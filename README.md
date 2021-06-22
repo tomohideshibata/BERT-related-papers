@@ -436,6 +436,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [A Review of Winograd Schema Challenge Datasets and Approaches](https://arxiv.org/abs/2004.13831)
 - [Improving Natural Language Inference with a Pretrained Parser](https://arxiv.org/abs/1909.08217)
 - [Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition](https://arxiv.org/abs/2004.03066)
+- [DocNLI: A Large-scale Dataset for Document-level Natural Language Inference](https://arxiv.org/abs/2106.09449) (ACL2021 Findings)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [Adversarial Analysis of Natural Language Inference Systems](https://arxiv.org/abs/1912.03441) (ICSC2020)
 - [ANLIzing the Adversarial Natural Language Inference Dataset](https://arxiv.org/abs/2010.12729)
@@ -1114,6 +1115,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions](https://arxiv.org/abs/2010.12831) (NAACL2021)
 - [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://arxiv.org/abs/2009.11278) (EMNLP2020)
 - [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486) (ACL2020SRW) [[github](https://github.com/prajjwal1/adaptive_transformer)]
+- [GEM: A General Evaluation Benchmark for Multimodal Tasks](https://arxiv.org/abs/2106.09889) (ACL2021 Findings) [[github](https://github.com/microsoft/GEM)]
 - [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054) (EMNLP2019)
 - [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272) (AAAI2021)
 - [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b) [[github](https://github.com/gsarti/lambda-bert)]
