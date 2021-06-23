@@ -890,6 +890,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Inside BERT
 - [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) (ACL2019)
 - [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/abs/1905.09418) (ACL2019) [[github](https://github.com/lena-voita/the-story-of-heads)]
+- [Multi-head or Single-head? An Empirical Comparison for Transformer Training](https://arxiv.org/abs/2106.09650)
 - [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698) (ACL2019 WS)
 - [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284) (ACL2019 WS)
 - [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341) (ACL2019 WS)
