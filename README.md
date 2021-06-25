@@ -638,6 +638,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622) (EMNLP2019) [[github](https://github.com/AIPHES/emnlp19-moverscore)]
 - [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
 - [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696) (ACL2020)
+- [BARTScore: Evaluating Generated Text as Text Generation](https://arxiv.org/abs/2106.11520) [[github](https://github.com/neulab/BARTScore)]
 - [Masked Language Model Scoring](https://arxiv.org/abs/1910.14659) (ACL2020)
 - [Simple-QE: Better Automatic Quality Estimation for Text Simplification](https://arxiv.org/abs/2012.12382)
 ## Modification (multi-task, masking strategy, etc.)
