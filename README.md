@@ -1221,6 +1221,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Small and Practical BERT Models for Sequence Labeling](https://arxiv.org/abs/1909.00100) (EMNLP2019)
 - [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351) [[github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)]
 - [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) (NeurIPS2019 WS) [[github](https://github.com/huggingface/transformers/tree/master/examples/distillation)]
+- [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167) (EMNLP2020)
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723) (AAAI2020)
 - [Reinforced Multi-Teacher Selection for Knowledge Distillation](https://arxiv.org/abs/2012.06048) (AAAI2021)
 - [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/abs/2012.14022) (AAAI2021)
@@ -1275,6 +1276,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Exploring the Limits of Simple Learners in Knowledge Distillation for Document Classification with DocBERT](https://www.aclweb.org/anthology/2020.repl4nlp-1.10/) (ACL2020 WS)
 - [TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/abs/2002.12620) (ACL2020 Demo)
 - [TopicBERT for Energy Efficient Document Classification](https://arxiv.org/abs/2010.16407) (EMNLP2020 Findings)
+- [MiniVLM: A Smaller and Faster Vision-Language Model](https://arxiv.org/abs/2012.06946)
+- [Compressing Visual-linguistic Model via Knowledge Distillation](https://arxiv.org/abs/2104.02096)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320) (ICLR2021)
