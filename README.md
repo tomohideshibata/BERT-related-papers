@@ -750,13 +750,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Hi-Transformer: Hierarchical Interactive Transformer for Efficient and Effective Long Document Modeling](https://arxiv.org/abs/2106.01040) (ACL2021)
 - [Transfer Fine-Tuning: A BERT Case Study](https://arxiv.org/abs/1909.00931) (EMNLP2019)
 - [Improving Pre-Trained Multilingual Models with Vocabulary Expansion](https://arxiv.org/abs/1909.12440) (CoNLL2019)
-- [Training Multilingual Pre-trained Language Model with Byte-level Subwords](https://arxiv.org/abs/2101.09012)
-- [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720) (EMNLP2020 Findings)
-- [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874) [[github](https://github.com/google-research/language/tree/master/language/canine)]
-- [ByT5: Towards a token-free future with pre-trained byte-to-byte models](https://arxiv.org/abs/2105.13626) [[github](https://github.com/google-research/byt5)]
-- [Multi-view Subword Regularization](https://arxiv.org/abs/2103.08490) (NAACL2021)
-- [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/abs/2106.06125) (ACL2021)
-- [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
 - [BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance](https://arxiv.org/abs/1910.07181) (ACL2020)
 - [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537) (ACL2020)
 - [SesameBERT: Attention for Anywhere](https://arxiv.org/abs/1910.03176)
@@ -776,6 +769,14 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 - [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/abs/2105.03322) (ACL2021)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
+### Tokenization
+- [Training Multilingual Pre-trained Language Model with Byte-level Subwords](https://arxiv.org/abs/2101.09012)
+- [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720) (EMNLP2020 Findings)
+- [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874) [[github](https://github.com/google-research/language/tree/master/language/canine)]
+- [ByT5: Towards a token-free future with pre-trained byte-to-byte models](https://arxiv.org/abs/2105.13626) [[github](https://github.com/google-research/byt5)]
+- [Multi-view Subword Regularization](https://arxiv.org/abs/2103.08490) (NAACL2021)
+- [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/abs/2106.06125) (ACL2021)
+- [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
 ### Prompt
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (EMNLP2020) [[github](https://github.com/ucinlp/autoprompt)]
 - [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
