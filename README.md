@@ -1124,10 +1124,13 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b) [[github](https://github.com/gsarti/lambda-bert)]
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html) (WACV2020)
 - [Self-supervised pre-training and contrastive representation learning for multiple-choice video QA](https://arxiv.org/abs/2009.08043) (AAAI2021)
+- [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/abs/2012.15409) (ACL2021)
+- [Contrastive Visual-Linguistic Pretraining](https://arxiv.org/abs/2007.13135)
 - [What is More Likely to Happen Next? Video-and-Language Future Event Prediction](https://arxiv.org/abs/2010.07999) (EMNLP2020)
 - [VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407) 
 - [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/abs/2003.01473)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
+- [TAP: Text-Aware Pre-training for Text-VQA and Text-Caption](https://arxiv.org/abs/2012.04638)
 - [Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772)
 - [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://arxiv.org/abs/2004.10796) (ECCV2020) [[website](http://visualcomet.xyz)]
 - [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379)
@@ -1143,6 +1146,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561)
 - [E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning](https://arxiv.org/abs/2106.01804) (ACL2021)
 - [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)
+- [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
 - [Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network](https://arxiv.org/abs/2101.11562) (AAAI2021)
@@ -1161,6 +1165,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DeVLBert: Learning Deconfounded Visio-Linguistic Representations](https://arxiv.org/abs/2008.06884) (ACMMM2020)
 - [A Recurrent Vision-and-Language BERT for Navigation](https://arxiv.org/abs/2011.13922)
 - [BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations](https://arxiv.org/abs/2002.10832)
+- [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135) (CVPR2021)
 - [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/abs/2004.00849)
 - [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/) (ACL2020)
 - [BERTERS: Multimodal Representation Learning for Expert Recommendation System with Transformer](https://arxiv.org/abs/2007.07229)
