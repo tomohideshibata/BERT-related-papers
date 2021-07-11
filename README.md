@@ -949,8 +949,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
 - [Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models]() (ECCV2020)
 ## Multi-lingual
+- [A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676)
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
-- [Language Model Pretraining](https://arxiv.org/abs/1901.07291) (NeurIPS2019) [[github](https://github.com/facebookresearch/XLM)]
+- [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291) (NeurIPS2019) [[github](https://github.com/facebookresearch/XLM)]
+- [XLM-E: Cross-lingual Language Model Pre-training via ELECTRA](https://arxiv.org/abs/2106.16138)
 - [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099) (EMNLP2019) [[github](https://github.com/hyperparticle/udify)]
 - [Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations](https://arxiv.org/abs/1910.05479) (EMNLP2019 WS)
 - [Parsing with Multilingual BERT, a Small Corpus, and a Small Treebank](https://arxiv.org/abs/2009.14124) (EMNLP2020 Findings)
