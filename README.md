@@ -476,6 +476,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Differentiable Open-Ended Commonsense Reasoning](https://arxiv.org/abs/2010.14439)
 - [Adversarial Training for Commonsense Inference](https://arxiv.org/abs/2005.08156) (ACL2020 WS)
 - [Do Fine-tuned Commonsense Language Models Really Generalize?](https://arxiv.org/abs/2011.09159)
+- [Do Language Models Perform Generalizable Commonsense Inference?](https://arxiv.org/abs/2106.11533) (ACL2021 Findings)
 - [Improving Zero Shot Learning Baselines with Commonsense Knowledge](https://arxiv.org/abs/2012.06236)
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://ducdauge.github.io/files/xcopa.pdf) [[github](https://github.com/cambridgeltl/xcopa)] 
 - [Do Neural Language Representations Learn Physical Commonsense?](https://arxiv.org/abs/1908.02899) (CogSci2019)
@@ -557,6 +558,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Abstractive Query Focused Summarization with Query-Free Resources](https://arxiv.org/abs/2012.14774)
 - [Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)
 - [Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization](https://arxiv.org/abs/2105.12544) (ACL2021)
+- [XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages](https://arxiv.org/abs/2106.13822) (ACL2021 Findings) [[github](https://github.com/csebuetnlp/xl-sum)]
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
 - [Mixed-Lingual Pre-training for Cross-lingual Summarization](https://arxiv.org/abs/2010.08892) (AACL-IJCNLP2020)
@@ -686,6 +688,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW) (ICLR2021)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
 - [Training ELECTRA Augmented with Multi-word Selection](https://arxiv.org/abs/2106.00139) (ACL2021 Findings)
+- [Learning to Sample Replacements for ELECTRA Pre-Training](https://arxiv.org/abs/2106.13715) (ACL2021 Findings)
 - [Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/) (EMNLP2020) [[github](https://github.com/google-research/electra)]
 - [MC-BERT: Efficient Language Pre-Training via a Meta Controller](https://arxiv.org/abs/2006.05744)
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
@@ -758,6 +761,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
 - [Self-training Improves Pre-training for Natural Language Understanding](https://arxiv.org/abs/2010.02194) [[github](https://github.com/facebookresearch/SentAugment)]
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
+- [LV-BERT: Exploiting Layer Variety for BERT](https://arxiv.org/abs/2106.11740) (ACL2021 Findings) [[github](https://github.com/yuweihao/LV-BERT)]
 - [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881) (EMNLP2020 Findings)
 - [Enhancing Pre-trained Language Model with Lexical Simplification](https://arxiv.org/abs/2012.15070)
 - [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
@@ -1273,6 +1277,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior](https://www.aclweb.org/anthology/2020.findings-emnlp.64/) (EMNLP2020 Findings)
 - [Parameter-Efficient Transfer Learning with Diff Pruning](https://arxiv.org/abs/2012.07463)
 - [FastFormers: Highly Efficient Transformer Models for Natural Language Understanding](https://arxiv.org/abs/2010.13382) (EMNLP2020 WS) [[github](https://github.com/microsoft/fastformers)]
+- [Adapt-and-Distill: Developing Small, Fast and Effective Pretrained Language Models for Domains](https://arxiv.org/abs/2106.13474) (ACL2021 Findings)
 - [Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
 - [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/abs/2001.04246)
 - [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
