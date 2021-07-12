@@ -659,10 +659,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) (TACL2020) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
-- [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/abs/2008.11869)
-- [Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese Pre-trained Language Models](https://arxiv.org/abs/2104.07204) (NAACL2021)
-- [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
-- [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://arxiv.org/abs/2010.10392) (COLING2020)
 - [MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining](https://arxiv.org/abs/2011.08539)
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
@@ -777,6 +773,11 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-view Subword Regularization](https://arxiv.org/abs/2103.08490) (NAACL2021)
 - [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/abs/2106.06125) (ACL2021)
 - [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
+- [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/abs/2008.11869)
+- [Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese Pre-trained Language Models](https://arxiv.org/abs/2104.07204) (NAACL2021)
+- [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
+- [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://arxiv.org/abs/2010.10392) (COLING2020)
+- [Charformer: Fast Character Transformers via Gradient-based Subword Tokenization](https://arxiv.org/abs/2106.12672) [[github](https://github.com/google-research/google-research/tree/master/charformer)] 
 ### Prompt
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (EMNLP2020) [[github](https://github.com/ucinlp/autoprompt)]
 - [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
