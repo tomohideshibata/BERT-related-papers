@@ -150,6 +150,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891) (ACL2020)
 - [A Fast and Robust BERT-based Dialogue State Tracker for Schema-Guided Dialogue Dataset](https://arxiv.org/abs/2008.12335) (KDD2020 WS)
 - [Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://arxiv.org/abs/2104.04466)
+- [Coreference Augmentation for Multi-Domain Task-Oriented Dialogue State Tracking](https://arxiv.org/abs/2106.08723) (Interspeech2021)
 - [ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](https://arxiv.org/abs/2004.06871) (EMNLP2020)
 - [Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances](https://arxiv.org/abs/2106.02227) (ACL2021)
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
@@ -558,6 +559,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Abstractive Query Focused Summarization with Query-Free Resources](https://arxiv.org/abs/2012.14774)
 - [Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)
 - [Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization](https://arxiv.org/abs/2105.12544) (ACL2021)
+- [Coreference-Aware Dialogue Summarization](https://arxiv.org/abs/2106.08556) (SIGDIAL2021)
 - [XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages](https://arxiv.org/abs/2106.13822) (ACL2021 Findings) [[github](https://github.com/csebuetnlp/xl-sum)]
 - [BERT Fine-tuning For Arabic Text Summarization](https://arxiv.org/abs/2004.14135) (ICLR2020 WS)
 - [Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2](https://arxiv.org/abs/2006.01997)
