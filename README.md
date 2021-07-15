@@ -580,6 +580,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Recycling a Pre-trained BERT Encoder for Neural Machine Translation](https://www.aclweb.org/anthology/D19-5603/)
 - [Exploring Unsupervised Pretraining Objectives for Machine Translation](https://arxiv.org/abs/2106.05634) (ACL2021 Findings)
 - [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://arxiv.org/abs/2009.07610) (EMNLP2020)
+- [Language Models are Good Translators](https://arxiv.org/abs/2106.13627)
 - [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://arxiv.org/abs/1907.12461)
 - [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/abs/1904.09324) (EMNLP2019)
 - [PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159) (EMNLP2020)
@@ -1341,6 +1342,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)
 - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027) [[website](https://pile.eleuther.ai/)]
+- [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr) (ICLR2020)
 - [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) (AAAI2020)
