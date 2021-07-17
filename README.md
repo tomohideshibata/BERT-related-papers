@@ -1238,6 +1238,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection](https://arxiv.org/abs/2008.01551) (Interspeech2020)
 - [BERT for Joint Multichannel Speech Dereverberation with Spatial-aware Tasks](https://arxiv.org/abs/2010.10892)
 ## Model compression
+- [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 - [Patient Knowledge Distillation for BERT Model Compression](https://arxiv.org/abs/1908.09355) (EMNLP2019)
 - [Small and Practical BERT Models for Sequence Labeling](https://arxiv.org/abs/1909.00100) (EMNLP2019)
