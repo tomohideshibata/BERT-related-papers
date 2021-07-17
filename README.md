@@ -1200,6 +1200,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) [[github](https://github.com/openai/DALL-E)] [[website](https://openai.com/blog/dall-e/)]
 - [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
+- [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/abs/2107.06383)
 - [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)
 - [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
 - [LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval](https://arxiv.org/abs/2103.08784) (NAACL2021)
@@ -1226,6 +1227,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [End-to-end spoken language understanding using transformer networks and self-supervised pre-trained features](https://arxiv.org/abs/2011.08238)
 - [Speech-language Pre-training for End-to-end Spoken Language Understanding](https://arxiv.org/abs/2102.06283)
 - [Jointly Encoding Word Confusion Network and Dialogue Context with BERT for Spoken Language Understanding](https://arxiv.org/abs/2005.11640) (Interspeech2020)
+- [AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043)
 - [Audio ALBERT: A Lite BERT for Self-supervised Learning of Audio Representation](https://arxiv.org/abs/2005.08575)
 - [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979)
 - [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/abs/2004.10093) (ACL2020)
