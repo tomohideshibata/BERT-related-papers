@@ -60,6 +60,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) (EMNLP2020)
 - [Efficient Passage Retrieval with Hashing for Open-domain Question Answering](https://arxiv.org/abs/2106.00882) (ACL2021)
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/abs/2101.00408)
+- [Towards Robust Neural Retrieval Models with Synthetic Pre-Training](https://arxiv.org/abs/2104.07800)
 - [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
 - [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756)
@@ -539,6 +540,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Effective Transfer Learning for Identifying Similar Questions: Matching User Questions to COVID-19 FAQs](https://arxiv.org/abs/2008.13546)
 - [Cross-lingual Information Retrieval with BERT](https://arxiv.org/abs/2004.13005)
 - [Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/abs/2006.09526) (NeurIPS2020)
+- [Graph-based Multilingual Product Retrieval in E-Commerce Search(https://aclanthology.org/2021.naacl-industry.19/) (NAACL2021 Industry)
 - [Teaching a New Dog Old Tricks: Resurrecting Multilingual Retrieval Using Zero-shot Learning](https://arxiv.org/abs/1912.13080) (ECIR2020)
 - [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) (WSDM2021)
 - [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) (SIGIR2021)
@@ -732,6 +734,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909) (ICML2020) [[github](https://github.com/google-research/language/tree/master/language/realm)]
 - [Simple and Efficient ways to Improve REALM](https://arxiv.org/abs/2104.08710)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS2020)
+- [Fine-tune the Entire RAG Architecture (including DPR retriever) for Question-Answering](https://arxiv.org/abs/2106.11517)
 - [Joint Retrieval and Generation Training for Grounded Text Generation](https://arxiv.org/abs/2105.06597)
 - [Retrieval Augmentation Reduces Hallucination in Conversation](https://arxiv.org/abs/2104.07567)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
