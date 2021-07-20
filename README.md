@@ -91,6 +91,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What Are People Asking About COVID-19? A Question Classification Dataset](https://arxiv.org/abs/2005.12522)
 - [Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds](https://arxiv.org/abs/1911.02365)
 - [Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension](https://www.aclweb.org/anthology/papers/P/P19/P19-1226/) (ACL2019)
+- [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://arxiv.org/abs/2104.06378) (NAACL2021) [[github](https://github.com/michiyasunaga/qagnn)] [[blog](http://ai.stanford.edu/blog/qagnn/)]
 - [Incorporating Relation Knowledge into Commonsense Reading Comprehension with Multi-task Learning](https://arxiv.org/abs/1908.04530) (CIKM2019)
 - [SG-Net: Syntax-Guided Machine Reading Comprehension](https://arxiv.org/abs/1908.05147)
 - [MMM: Multi-stage Multi-task Learning for Multi-choice Reading Comprehension](https://arxiv.org/abs/1910.00458)
