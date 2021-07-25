@@ -597,6 +597,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Are Pre-trained Language Models Knowledgeable to Ground Open Domain Dialogues?](https://arxiv.org/abs/2011.09708)
 - [Open-Domain Dialogue Generation Based on Pre-trained Language Models](https://arxiv.org/abs/2010.12780)
 - [Retrieval-Augmented Transformer-XL for Close-Domain Dialog Generation](https://arxiv.org/abs/2105.09235)
+- [Internet-Augmented Dialogue Generation](https://arxiv.org/abs/2107.07566)
 - [DialogBERT: Discourse-Aware Response Generation via Learning to Recover and Rank Utterances](https://arxiv.org/abs/2012.01775) (AAAI2021)
 - [CG-BERT: Conditional Text Generation with BERT for Generalized Few-shot Intent Detection](https://arxiv.org/abs/2004.01881)
 - [QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/abs/2004.11026)
