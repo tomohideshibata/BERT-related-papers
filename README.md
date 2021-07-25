@@ -296,6 +296,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Coreference Resolution without Span Representations](https://arxiv.org/abs/2101.00434) (ACL2021)
 - [Neural Mention Detection](https://arxiv.org/abs/1907.12524) (LREC2020)
 - [ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://www.aclweb.org/anthology/2020.acl-main.482/) (ACL2020)
+- [An Empirical Study of Contextual Data Augmentation for Japanese Zero Anaphora Resolution](https://aclanthology.org/2020.coling-main.435/) (COLING2020)
+- [BERT-based Cohesion Analysis of Japanese Texts](https://aclanthology.org/2020.coling-main.114/) (COLING2020)
 - [Joint Coreference Resolution and Character Linking for Multiparty Conversation](https://arxiv.org/abs/2101.11204)
 - [Sequence to Sequence Coreference Resolution](https://www.aclweb.org/anthology/2020.crac-1.5/) (COLING2020 WS)
 - [Within-Document Event Coreference with BERT-Based Contextualized Representations](https://arxiv.org/abs/2102.09600)
