@@ -181,6 +181,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization](https://arxiv.org/abs/2011.02417) (EMNLP2020 WS)
 - [Does BERT agree? Evaluating knowledge of structure dependence through agreement relations](https://arxiv.org/abs/1908.09892)
 - [Simple BERT Models for Relation Extraction and Semantic Role Labeling](https://arxiv.org/abs/1904.05255)
+- [Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach](https://aclanthology.org/2020.coling-main.120/) (COLING2020)
 - [LIMIT-BERT : Linguistic Informed Multi-Task BERT](https://arxiv.org/abs/1910.14296) (EMNLP2020 Findings)
 - [Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards](https://arxiv.org/abs/2010.05567)
 - [A Simple BERT-Based Approach for Lexical Simplification](https://arxiv.org/abs/1907.06226)
