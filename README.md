@@ -795,6 +795,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://arxiv.org/abs/2010.10392) (COLING2020)
 - [Charformer: Fast Character Transformers via Gradient-based Subword Tokenization](https://arxiv.org/abs/2106.12672) [[github](https://github.com/google-research/google-research/tree/master/charformer)] 
 ### Prompt
+- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586)
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (EMNLP2020) [[github](https://github.com/ucinlp/autoprompt)]
 - [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
