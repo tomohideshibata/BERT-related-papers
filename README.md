@@ -60,6 +60,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) (EMNLP2020)
 - [Efficient Passage Retrieval with Hashing for Open-domain Question Answering](https://arxiv.org/abs/2106.00882) (ACL2021)
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/abs/2101.00408)
+- [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/abs/2107.13602)
 - [Towards Robust Neural Retrieval Models with Synthetic Pre-Training](https://arxiv.org/abs/2104.07800)
 - [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
 - [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
