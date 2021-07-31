@@ -1301,6 +1301,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior](https://www.aclweb.org/anthology/2020.findings-emnlp.64/) (EMNLP2020 Findings)
 - [Parameter-Efficient Transfer Learning with Diff Pruning](https://arxiv.org/abs/2012.07463)
 - [FastFormers: Highly Efficient Transformer Models for Natural Language Understanding](https://arxiv.org/abs/2010.13382) (EMNLP2020 WS) [[github](https://github.com/microsoft/fastformers)]
+- [AutoTinyBERT: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models](https://arxiv.org/abs/2107.13686) (ACL2021) [[github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/AutoTinyBERT)]
 - [Adapt-and-Distill: Developing Small, Fast and Effective Pretrained Language Models for Domains](https://arxiv.org/abs/2106.13474) (ACL2021 Findings)
 - [Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
 - [AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/abs/2001.04246)
