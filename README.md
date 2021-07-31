@@ -455,6 +455,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Evaluating BERT for natural language inference: A case study on the CommitmentBank](https://www.aclweb.org/anthology/D19-1630/) (EMNLP2019)
 - [Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?](https://arxiv.org/abs/2004.14839) (ACL2020)
 - [Abductive Commonsense Reasoning](https://arxiv.org/abs/1908.05739) (ICLR2020)
+- [Entailment as Few-Shot Learner](https://arxiv.org/abs/2104.14690)
 - [Collecting Entailment Data for Pretraining: New Protocols and Negative Results](https://arxiv.org/abs/2004.11997) 
 - [Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239) (EMNLP2020 Findings)
 ### Commonsense
@@ -808,6 +809,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 - [Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models](https://arxiv.org/abs/2106.13353)
 - [True Few-Shot Learning with Language Models](https://arxiv.org/abs/2105.11447)
+- [Few-shot Sequence Learning with Transformers](https://arxiv.org/abs/2012.09543) (NeurIPS2020 WS)
 - [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/abs/2105.11259)
 - [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
 - [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/abs/2107.07170)
