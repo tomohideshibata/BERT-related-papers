@@ -266,6 +266,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition](https://arxiv.org/abs/2012.05426)
 - [What's in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://arxiv.org/abs/2007.06897) (ACL2020 WS)
 - [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://arxiv.org/abs/2011.06854) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
+- [Entity Enhanced BERT Pre-training for Chinese NER](https://aclanthology.org/2020.emnlp-main.518/) (EMNLP2020)
 - [Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter](https://arxiv.org/abs/2105.07148) (ACL2021)
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
