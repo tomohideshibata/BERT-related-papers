@@ -395,6 +395,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Entity Linking in 100 Languages](https://arxiv.org/abs/2011.02690) (EMNLP2020) [[github](https://github.com/google-research/google-research/tree/master/dense_representations_for_entity_retrieval/mel)]
 - [COMETA: A Corpus for Medical Entity Linking in the Social Media](https://arxiv.org/abs/2010.03295) (EMNLP2020) [[github](https://github.com/cambridgeltl/cometa)]
 - [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543) (TACL2020) [[github](https://github.com/jzbjyb/LPAQA)]
+- [How to Query Language Models?](https://arxiv.org/abs/2108.01928)
 - [Deep Entity Matching with Pre-Trained Language Models](https://arxiv.org/abs/2004.00584)
 - [Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model](https://arxiv.org/abs/2106.04098) (ACL2021)
 - [Constructing Taxonomies from Pretrained Language Models](https://arxiv.org/abs/2010.12813) (NAACL2021)
@@ -814,6 +815,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [True Few-Shot Learning with Language Models](https://arxiv.org/abs/2105.11447)
 - [Few-shot Sequence Learning with Transformers](https://arxiv.org/abs/2012.09543) (NeurIPS2020 WS)
 - [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/abs/2105.11259)
+- [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification](https://arxiv.org/abs/2108.02035)
 - [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
 - [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/abs/2107.07170)
 ## Sentence embedding
