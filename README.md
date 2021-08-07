@@ -679,6 +679,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
 - [MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining](https://arxiv.org/abs/2011.08539)
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
+- [BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks](https://aclanthology.org/2021.acl-long.164/) (ACL2021)
 - [Train No Evil: Selective Masking for Task-guided Pre-training](https://arxiv.org/abs/2004.09733)
 - [Position Masking for Language Models](https://arxiv.org/abs/2006.05676)
 - [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/abs/2004.12406) (EMNLP2020)
@@ -779,6 +780,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/abs/2004.05323)
 - [Self-training Improves Pre-training for Natural Language Understanding](https://arxiv.org/abs/2010.02194) [[github](https://github.com/facebookresearch/SentAugment)]
 - [CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/abs/2005.12766)
+- [Robust Transfer Learning with Pretrained Language Models through Adapters](https://arxiv.org/abs/2108.02340) (ACL2021)
+- [ReadOnce Transformers: Reusable Representations of Text for Transformers](https://arxiv.org/abs/2010.12854) (ACL2021)
 - [LV-BERT: Exploiting Layer Variety for BERT](https://arxiv.org/abs/2106.11740) (ACL2021 Findings) [[github](https://github.com/yuweihao/LV-BERT)]
 - [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/abs/2010.03881) (EMNLP2020 Findings)
 - [Enhancing Pre-trained Language Model with Lexical Simplification](https://arxiv.org/abs/2012.15070)
