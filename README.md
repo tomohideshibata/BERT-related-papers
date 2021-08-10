@@ -1327,6 +1327,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TopicBERT for Energy Efficient Document Classification](https://arxiv.org/abs/2010.16407) (EMNLP2020 Findings)
 - [MiniVLM: A Smaller and Faster Vision-Language Model](https://arxiv.org/abs/2012.06946)
 - [Compressing Visual-linguistic Model via Knowledge Distillation](https://arxiv.org/abs/2104.02096)
+- [Playing Lottery Tickets with Vision and Language](https://arxiv.org/abs/2104.11832)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [Q8BERT: Quantized 8Bit BERT](https://arxiv.org/abs/1910.06188) (NeurIPS2019 WS)
 - [Training with Quantization Noise for Extreme Model Compression](https://arxiv.org/abs/2004.07320) (ICLR2021)
