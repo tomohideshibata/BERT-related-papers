@@ -427,6 +427,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VGCN-BERT: Augmenting BERT with Graph Embedding for Text Classification](https://arxiv.org/abs/2004.05707)
 - [Zero-shot Text Classification via Reinforced Self-training](https://www.aclweb.org/anthology/2020.acl-main.272/) (ACL2020)
 - [On Data Augmentation for Extreme Multi-label Classification](https://arxiv.org/abs/2009.10778)
+- [Noisy Channel Language Model Prompting for Few-Shot Text Classification](https://arxiv.org/abs/2108.04106)
 - [Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning](https://arxiv.org/abs/2104.01666) (NAACL2021)
 - [Towards Evaluating the Robustness of Chinese BERT Classifiers](https://arxiv.org/abs/2004.03742)
 - [COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter](https://arxiv.org/abs/2005.07503) [[github](https://github.com/digitalepidemiologylab/covid-twitter-bert)]
