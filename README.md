@@ -27,6 +27,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640)
 - [Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139)
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554)
+- [AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/abs/2108.05542)
  
 ## Downstream task
 ### QA, MC, Dialogue
