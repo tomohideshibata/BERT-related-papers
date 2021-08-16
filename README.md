@@ -688,6 +688,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Variance-reduced Language Pretraining via a Mask Proposal Network](https://arxiv.org/abs/2008.05333)
 - [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation](https://arxiv.org/abs/2010.02705) (EMNLP2020)
 - [Improving Self-supervised Pre-training via a Fully-Explored Masked Language Model](https://arxiv.org/abs/2010.06040)
+- [Curriculum learning for language modeling](https://arxiv.org/abs/2108.02170)
+- [Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training](https://arxiv.org/abs/2108.06084)
 - [Focusing More on Conflicts with Mis-Predictions Helps Language Pre-Training](https://arxiv.org/abs/2012.08789)
 - [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676) (EACL2021) [[github](https://github.com/timoschick/pet)]
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (NAACL2021) [[github](https://github.com/timoschick/pet)]
