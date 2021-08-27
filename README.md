@@ -804,6 +804,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/abs/2106.06125) (ACL2021)
 - [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
 - [AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization](https://arxiv.org/abs/2008.11869)
+- [LICHEE: Improving Language Model Pre-training with Multi-grained Tokenization](https://arxiv.org/abs/2108.00801) (ACL2021 Findings)
 - [Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese Pre-trained Language Models](https://arxiv.org/abs/2104.07204) (NAACL2021)
 - [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
 - [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://arxiv.org/abs/2010.10392) (COLING2020)
