@@ -680,6 +680,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) (TACL2020) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
+- [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](https://aclanthology.org/2020.findings-emnlp.425/) (EMNLP2020 Findings)
+- [ZEN 2.0: Continue Training and Adaption for N-gram Enhanced Text Encoders](https://arxiv.org/abs/2105.01279)
 - [MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining](https://arxiv.org/abs/2011.08539)
 - [Adversarial Training for Large Neural Language Models](https://arxiv.org/abs/2004.08994)
 - [BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks](https://aclanthology.org/2021.acl-long.164/) (ACL2021)
