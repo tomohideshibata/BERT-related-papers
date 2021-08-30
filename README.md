@@ -1391,6 +1391,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT](https://arxiv.org/abs/2003.04985)
 - [Robust Encodings: A Framework for Combating Adversarial Typos](https://www.aclweb.org/anthology/2020.acl-main.245/) (ACL2020)
 - [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/abs/2005.05683) (ACL2020)
+- [Evaluating the Robustness of Neural Language Models to Input Perturbations](https://arxiv.org/abs/2108.12237) (EMNLP2021)
 - [Pretrained Transformers Improve Out-of-Distribution Robustness](https://arxiv.org/abs/2004.06100) (ACL2020) [[github](https://github.com/camelop/NLP-Robustness)]
 - ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://arxiv.org/abs/2004.03012) (EMNLP2020)
 - [The Right Tool for the Job: Matching Model and Instance Complexities](https://arxiv.org/abs/2004.07453) (ACL2020) [[github](https://github.com/allenai/sledgehammer)]
