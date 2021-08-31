@@ -236,6 +236,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BERT Meets Chinese Word Segmentation](https://arxiv.org/abs/1909.09292)
 - [Unified Multi-Criteria Chinese Word Segmentation with BERT](https://arxiv.org/abs/2004.05808)
 - [RethinkCWS: Is Chinese Word Segmentation a Solved Task?](https://arxiv.org/abs/2011.06858) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
+- [Enhancing Chinese Word Segmentation via Pseudo Labels for Practicability](https://aclanthology.org/2021.findings-acl.383/) (ACL2021 Findings)
 - [Joint Persian Word Segmentation Correction and Zero-Width Non-Joiner Recognition Using BERT](https://arxiv.org/abs/2010.00287)
 - [Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning](https://arxiv.org/abs/1903.04190)
 - [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/abs/1908.04943) (FLAIRS-33)
@@ -269,6 +270,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Interpretable Multi-dataset Evaluation for Named Entity Recognition](https://arxiv.org/abs/2011.06854) (EMNLP2020) [[github](https://github.com/neulab/InterpretEval)]
 - [Entity Enhanced BERT Pre-training for Chinese NER](https://aclanthology.org/2020.emnlp-main.518/) (EMNLP2020)
 - [Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter](https://arxiv.org/abs/2105.07148) (ACL2021)
+- [FLAT: Chinese NER Using Flat-Lattice Transformer](https://aclanthology.org/2020.acl-main.611/) (ACL2020)
 - [BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition](https://arxiv.org/abs/2009.09223)
 - [MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers](https://arxiv.org/abs/2001.08904)
 - [Knowledge Guided Named Entity Recognition for BioMedical Text](https://arxiv.org/abs/1911.03869)
