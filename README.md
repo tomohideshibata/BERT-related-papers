@@ -823,7 +823,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://arxiv.org/abs/2104.06599) (NAACL2021)
 - [Meta-tuning Language Models to Answer Prompts Better](https://arxiv.org/abs/2104.04670)
 - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
-- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (EMNLP2021)
 - [Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models](https://arxiv.org/abs/2106.13353)
 - [True Few-Shot Learning with Language Models](https://arxiv.org/abs/2105.11447)
 - [Few-shot Sequence Learning with Transformers](https://arxiv.org/abs/2012.09543) (NeurIPS2020 WS)
