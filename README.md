@@ -715,6 +715,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB) (ICLR2020) [[github](https://github.com/google-research/electra)] [[blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html)]
 - [Training ELECTRA Augmented with Multi-word Selection](https://arxiv.org/abs/2106.00139) (ACL2021 Findings)
 - [Learning to Sample Replacements for ELECTRA Pre-Training](https://arxiv.org/abs/2106.13715) (ACL2021 Findings)
+- [SCRIPT: Self-Critic PreTraining of Transformers](https://aclanthology.org/2021.naacl-main.409/) (NAACL2021)
 - [Pre-Training Transformers as Energy-Based Cloze Models](https://www.aclweb.org/anthology/2020.emnlp-main.20/) (EMNLP2020) [[github](https://github.com/google-research/electra)]
 - [MC-BERT: Efficient Language Pre-Training via a Meta Controller](https://arxiv.org/abs/2006.05744)
 - [FreeLB: Enhanced Adversarial Training for Language Understanding](https://openreview.net/forum?id=BygzbyHFvB) (ICLR2020)
