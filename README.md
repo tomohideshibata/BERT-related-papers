@@ -844,6 +844,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Whitening Sentence Representations for Better Semantics and Faster Retrieval](https://arxiv.org/abs/2103.15316) [[github](https://github.com/bojone/BERT-whitening)]
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
 - [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
+- [Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models](https://arxiv.org/abs/2108.08877)
 - [Dual-View Distilled BERT for Sentence Embedding](https://arxiv.org/abs/2104.08675) (SIGIR2021)
 - [DefSent: Sentence Embeddings using Definition Sentences](https://arxiv.org/abs/2105.04339) (ACL2021)
 - [Paraphrastic Representations at Scale](https://arxiv.org/abs/2104.15114) [[github](https://github.com/jwieting/paraphrastic-representations-at-scale)]
