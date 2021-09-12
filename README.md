@@ -660,6 +660,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SumQE: a BERT-based Summary Quality Estimation Model](https://arxiv.org/abs/1909.00578) (EMNLP2019)
 - [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622) (EMNLP2019) [[github](https://github.com/AIPHES/emnlp19-moverscore)]
 - [BERT as a Teacher: Contextual Embeddings for Sequence-Level Reward](https://arxiv.org/abs/2003.02738)
+- [Language Model Augmented Relevance Score](https://arxiv.org/abs/2108.08485) (ACL2021)
 - [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696) (ACL2020)
 - [BARTScore: Evaluating Generated Text as Text Generation](https://arxiv.org/abs/2106.11520) [[github](https://github.com/neulab/BARTScore)]
 - [Masked Language Model Scoring](https://arxiv.org/abs/1910.14659) (ACL2020)
@@ -962,6 +963,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
 - [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916) (EACL2021)
 - [How Far Does BERT Look At:Distance-based Clustering and Analysis of BERT′s Attention](https://arxiv.org/abs/2011.00943)
+- [Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks](https://arxiv.org/abs/2108.08375) (ACL2021)
 - [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/abs/2010.04903) (EMNLP2020)
 - [Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/abs/1909.02597) (EMNLP2019)
 - [Are Pretrained Language Models Symbolic Reasoners Over Knowledge?](https://arxiv.org/abs/2006.10413) (CoNLL2020)
