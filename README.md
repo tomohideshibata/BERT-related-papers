@@ -122,6 +122,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Table Search Using a Deep Contextualized Language Model](https://arxiv.org/abs/2005.09207) (SIGIR2020)
 - [Open Domain Question Answering over Tables via Dense Retrieval](https://arxiv.org/abs/2103.12011) (NAACL2021)
 - [Capturing Row and Column Semantics in Transformer Based Question Answering over Tables](https://arxiv.org/abs/2104.08303) (NAACL2021)
+- [MATE: Multi-view Attention for Table Transformer Efficiency](https://arxiv.org/abs/2109.04312) (EMNLP2021)
 - [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://arxiv.org/abs/2005.00242) (EMNLP2020)
 - [Beyond English-only Reading Comprehension: Experiments in Zero-Shot Multilingual Transfer for Bulgarian](https://arxiv.org/abs/1908.01519) (RANLP2019)
 - [XQA: A Cross-lingual Open-domain Question Answering Dataset](https://www.aclweb.org/anthology/P19-1227/) (ACL2019)
@@ -682,6 +683,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529) (TACL2020) [[github](https://github.com/facebookresearch/SpanBERT)]
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/abs/2008.02496)
+- [Frustratingly Simple Pretraining Alternatives to Masked Language Modeling](https://arxiv.org/abs/2109.01819) (EMNLP2021) [[github](https://github.com/gucci-j/light-transformer-emnlp2021)]
 - [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](https://aclanthology.org/2020.findings-emnlp.425/) (EMNLP2020 Findings)
 - [ZEN 2.0: Continue Training and Adaption for N-gram Enhanced Text Encoders](https://arxiv.org/abs/2105.01279)
 - [MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining](https://arxiv.org/abs/2011.08539)
