@@ -508,6 +508,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-headed Architecture Based on BERT for Grammatical Errors Correction](https://www.aclweb.org/anthology/papers/W/W19/W19-4426/) (ACL2019 WS) 
 - [Towards Minimal Supervision BERT-based Grammar Error Correction](https://arxiv.org/abs/2001.03521)
 - [Learning to combine Grammatical Error Corrections](https://arxiv.org/abs/1906.03897) (EMNLP2019 WS)
+- [LM-Critic: Language Models for Unsupervised Grammatical Error Correction](https://arxiv.org/abs/2109.06822) (EMNLP2021) [[github](https://github.com/michiyasunaga/LM-Critic)]
 - [Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction](https://arxiv.org/abs/2005.00987) (ACL2020)
 - [Chinese Grammatical Correction Using BERT-based Pre-trained Model](https://arxiv.org/abs/2011.02093) (AACL-IJCNLP2020)
 - [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/abs/2005.07421) (ACL2020)
@@ -1101,6 +1102,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PTT5: Pretraining and validating the T5 model on Brazilian Portuguese data](https://arxiv.org/abs/2008.09144)
 - [Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages](https://arxiv.org/abs/2011.02323) (NeurIPS2020 WS)
 - [IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP](https://www.aclweb.org/anthology/2020.coling-main.66/) (COLING2020)
+- [IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization](https://arxiv.org/abs/2109.04607) (EMNLP2021)
 - [BARThez: a Skilled Pretrained French Sequence-to-Sequence Model](https://arxiv.org/abs/2010.12321)
 - [NEZHA: Neural Contextualized Representation for Chinese Language Understanding](https://arxiv.org/abs/1909.00204)
 - [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922) (EMNLP2020 Findings)
@@ -1419,6 +1421,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MathBERT: A Pre-Trained Model for Mathematical Formula Understanding](https://arxiv.org/abs/2105.00377)
 - [Investigating Math Word Problems using Pretrained Multilingual Language Models](https://arxiv.org/abs/2105.08928)
 - [Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning](https://arxiv.org/abs/2106.03921) (ACL2021)
+- [Pre-train or Annotate? Domain Adaptation with a Constrained Budget](https://arxiv.org/abs/2109.04711) (EMNLP2021)
 - [Item-based Collaborative Filtering with BERT](https://www.aclweb.org/anthology/2020.ecnlp-1.8/) (ACL2020 WS)
 - [RecoBERT: A Catalog Language Model for Text-Based Recommendations](https://arxiv.org/abs/2009.13292)
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
