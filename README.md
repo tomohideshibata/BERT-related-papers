@@ -167,7 +167,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data](https://arxiv.org/abs/2106.06169) (ACL2021)
 - [Interactive Teaching for Conversational AI](https://arxiv.org/abs/2012.00958) (NeurIPS2020 WS)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
-### Slot filling
+### Slot filling and Intent Detection
 - [A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1214/) (EMNLP2019)
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
 - [A Co-Interactive Transformer for Joint Slot Filling and Intent Detection](https://arxiv.org/abs/2010.03880) (ICASSP2021)
@@ -175,6 +175,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
 - [Data Augmentation for Spoken Language Understanding via Pretrained Models](https://arxiv.org/abs/2004.13952)
+- [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning] (EMNLP2021)
 - [STIL -- Simultaneous Slot Filling, Translation, Intent Classification, and Language Identification: Initial Results using mBART on MultiATIS++](https://arxiv.org/abs/2010.00760) (AACL-IJCNLP2020) [[github](https://github.com/amazon-research/stil-mbart-multiatis)]
 ### Analysis
 - [Fine-grained Information Status Classification Using Discourse Context-Aware Self-Attention](https://arxiv.org/abs/1908.04755)
@@ -592,6 +593,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation](https://arxiv.org/abs/2104.08006)
 - [Towards Making the Most of BERT in Neural Machine Translation](https://arxiv.org/abs/1908.05672)
 - [Improving Neural Machine Translation with Pre-trained Representation](https://arxiv.org/abs/1908.07688)
+- [BERT, mBERT, or BiBERT? A Study on Contextualized Embeddings for Neural Machine Translation](https://arxiv.org/abs/2109.04588) (EMNLP2021)
 - [On the use of BERT for Neural Machine Translation](https://arxiv.org/abs/1909.12744) (EMNLP2019 WS)
 - [Incorporating BERT into Neural Machine Translation](https://openreview.net/forum?id=Hyl7ygStwB) (ICLR2020)
 - [Recycling a Pre-trained BERT Encoder for Neural Machine Translation](https://www.aclweb.org/anthology/D19-5603/)
@@ -854,6 +856,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dual-View Distilled BERT for Sentence Embedding](https://arxiv.org/abs/2104.08675) (SIGIR2021)
 - [DefSent: Sentence Embeddings using Definition Sentences](https://arxiv.org/abs/2105.04339) (ACL2021)
 - [Paraphrastic Representations at Scale](https://arxiv.org/abs/2104.15114) [[github](https://github.com/jwieting/paraphrastic-representations-at-scale)]
+- [Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration](https://arxiv.org/abs/2109.06304) (EMNLP2021)
 ## Transformer variants
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 - [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) (ACL2019)
@@ -962,6 +965,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Analyzing Redundancy in Pretrained Transformer Models](https://arxiv.org/abs/2004.04010) (EMNLP2020)
 - [What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models](https://arxiv.org/abs/2004.06499)
 - [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102) (ACL2020 SRW)
+- [Incorporating Residual and Normalization Layers into Analysis of Masked Language Models](https://arxiv.org/abs/2109.07152) (EMNLP2021)
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928)
 - [Telling BERT's full story: from Local Attention to Global Aggregation](https://arxiv.org/abs/2004.05916) (EACL2021)
 - [How Far Does BERT Look At:Distance-based Clustering and Analysis of BERT′s Attention](https://arxiv.org/abs/2011.00943)
@@ -1067,6 +1071,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Bilingual Text Extraction as Reading Comprehension](https://arxiv.org/abs/2004.14517)
 - [Evaluating Multilingual BERT for Estonian](https://arxiv.org/abs/2010.00454)
 - [How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models](https://arxiv.org/abs/2012.15613) (ACL2021)
+- [Allocating Large Vocabulary Capacity for Cross-lingual Language Model Pre-training](https://arxiv.org/abs/2109.07306) (EMNLP2021)
 - [BERTologiCoMix: How does Code-Mixing interact with Multilingual BERT?](https://www.aclweb.org/anthology/2021.adaptnlp-1.12/) (EACL2021 WS)
 ## Other than English models
 - [CamemBERT: a Tasty French Language Model](https://arxiv.org/abs/1911.03894) (ACL2020)
