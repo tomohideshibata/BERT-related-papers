@@ -838,6 +838,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PTR: Prompt Tuning with Rules for Text Classification](https://arxiv.org/abs/2105.11259)
 - [Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification](https://arxiv.org/abs/2108.02035)
 - [Discrete and Soft Prompting for Multilingual Models](https://arxiv.org/abs/2109.03630) (EMNLP2021)
+- [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)
 - [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
 - [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/abs/2107.07170)
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/abs/2109.01247)
@@ -928,6 +929,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/abs/2104.05240) (NAACL2021) [[github](https://github.com/princeton-nlp/OptiPrompt)]
 - [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696)
 - [DirectProbe: Studying Representations without Classifiers](https://www.aclweb.org/anthology/2021.naacl-main.401/) (NAACL2021)
+- [The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation](https://arxiv.org/abs/2109.07848) (EMNLP2021 WS)
 - [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) (EMNLP2020)
 - [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869) (ICLR2021)
 - [Probing Across Time: What Does RoBERTa Know and When?](https://arxiv.org/abs/2104.07885)
@@ -1046,6 +1048,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Identifying Necessary Elements for BERT's Multilinguality](https://arxiv.org/abs/2005.00396) (EMNLP2020)
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer](https://arxiv.org/abs/2005.00052)
 - [From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers](https://arxiv.org/abs/2005.00633)
+- [Language Models are Few-shot Multilingual Learners](https://arxiv.org/abs/2109.07684)
 - [First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT](https://arxiv.org/abs/2101.11109) (EACL2021)
 - [Multilingual BERT Post-Pretraining Alignment](https://arxiv.org/abs/2010.12547) (NAACL2021)
 - [XeroAlign: Zero-Shot Cross-lingual Transformer Alignment](https://arxiv.org/abs/2105.02472) (ACL2021 Findings)
