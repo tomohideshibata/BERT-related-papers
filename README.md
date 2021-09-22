@@ -63,6 +63,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/abs/2101.00408)
 - [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/abs/2107.13602)
 - [Towards Robust Neural Retrieval Models with Synthetic Pre-Training](https://arxiv.org/abs/2104.07800)
+- [Simple Entity-Centric Questions Challenge Dense Retrievers](https://arxiv.org/abs/2109.08535) (EMNLP2021) [[github](https://github.com/princeton-nlp/EntityQuestions)]
 - [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
 - [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756)
@@ -1304,6 +1305,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723) (AAAI2020)
 - [Reinforced Multi-Teacher Selection for Knowledge Distillation](https://arxiv.org/abs/2012.06048) (AAAI2021)
 - [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/abs/2012.14022) (AAAI2021)
+- [Distilling Linguistic Context for Language Model Compression](https://arxiv.org/abs/2109.08359) (EMNLP2021)
 - [Improving Task-Agnostic BERT Distillation with Layer Mapping Search](https://arxiv.org/abs/2012.06153)
 - [PoWER-BERT: Accelerating BERT inference for Classification Tasks](https://arxiv.org/abs/2001.08950)
 - [WaLDORf: Wasteless Language-model Distillation On Reading-comprehension](https://arxiv.org/abs/1912.06638)
