@@ -1247,6 +1247,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836)
 - [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/abs/2104.08405)
 - [BROS: A Pre-trained Language Model for Understanding Texts in Document](https://openreview.net/forum?id=punMXQEsPr0)
+- [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282)
 - [LayoutReader: Pre-training of Text and Layout for Reading Order Detection](https://arxiv.org/abs/2108.11591) (EMNLP2021)
 - [BERT for Large-scale Video Segment Classification with Test-time Augmentation](https://arxiv.org/abs/1912.01127) (ICCV2019WS)
 - [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
@@ -1258,6 +1259,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) [[github](https://github.com/openai/DALL-E)] [[website](https://openai.com/blog/dall-e/)]
 - [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
 - [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/abs/2107.06383)
+- [EfficientCLIP: Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling](https://arxiv.org/abs/2109.04699)
 - [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)
 - [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
 - [LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval](https://arxiv.org/abs/2103.08784) (NAACL2021)
