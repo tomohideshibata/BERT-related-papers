@@ -1409,6 +1409,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Efficient Large-Scale Language Model Training on GPU Clusters](https://arxiv.org/abs/2104.04473)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)
+- [Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers](https://arxiv.org/abs/2109.10686)
 - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027) [[website](https://pile.eleuther.ai/)]
 - [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)
 - [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/forum?id=HkgaETNtDB) (ICLR2020)
