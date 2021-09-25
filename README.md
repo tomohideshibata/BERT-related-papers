@@ -559,6 +559,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Teaching a New Dog Old Tricks: Resurrecting Multilingual Retrieval Using Zero-shot Learning](https://arxiv.org/abs/1912.13080) (ECIR2020)
 - [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) (WSDM2021)
 - [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) (SIGIR2021)
+- [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/abs/2104.08253) (EMNLP2021)
 - [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787) [[github](https://github.com/castorini/mr.tydi)]
 ## Generation
 - [Pretrained Language Models for Text Generation: A Survey](https://arxiv.org/abs/2105.10311) (IJCAI2021 Survey Track)
@@ -1307,6 +1308,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723) (AAAI2020)
 - [Reinforced Multi-Teacher Selection for Knowledge Distillation](https://arxiv.org/abs/2012.06048) (AAAI2021)
 - [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/abs/2012.14022) (AAAI2021)
+- [Dynamic Knowledge Distillation for Pre-trained Language Models](https://arxiv.org/abs/2109.11295) (EMNLP2021)
 - [Distilling Linguistic Context for Language Model Compression](https://arxiv.org/abs/2109.08359) (EMNLP2021)
 - [Improving Task-Agnostic BERT Distillation with Layer Mapping Search](https://arxiv.org/abs/2012.06153)
 - [PoWER-BERT: Accelerating BERT inference for Classification Tasks](https://arxiv.org/abs/2001.08950)
