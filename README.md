@@ -234,6 +234,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge](https://arxiv.org/abs/2010.02246) (EMNLP2020)
 - [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (AAAI2021)
 - [UserBERT: Self-supervised User Representation Learning](https://openreview.net/forum?id=zmgJIjyWSOw)
+- [UserBERT: Contrastive User Model Pre-training](https://arxiv.org/abs/2109.01274)
 - [Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning](https://arxiv.org/abs/2012.02462) (COLING2020)
 - [Automatic punctuation restoration with BERT models](https://arxiv.org/abs/2101.07343)
 ### Word segmentation, parsing, NER
@@ -1016,6 +1017,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
 - [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291) (NeurIPS2019) [[github](https://github.com/facebookresearch/XLM)]
 - [XLM-E: Cross-lingual Language Model Pre-training via ELECTRA](https://arxiv.org/abs/2106.16138)
+- [XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge](https://arxiv.org/abs/2109.12573)
 - [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://arxiv.org/abs/1904.02099) (EMNLP2019) [[github](https://github.com/hyperparticle/udify)]
 - [Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations](https://arxiv.org/abs/1910.05479) (EMNLP2019 WS)
 - [Parsing with Multilingual BERT, a Small Corpus, and a Small Treebank](https://arxiv.org/abs/2009.14124) (EMNLP2020 Findings)
