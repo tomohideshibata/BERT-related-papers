@@ -1273,6 +1273,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 - [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183) (CVPR2021) [[github](https://github.com/jayleicn/ClipBERT)]
 - [VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding](https://arxiv.org/abs/2105.09996) (ACL2021 Findings)
+- [VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding](https://arxiv.org/abs/2109.14084) (EMNLP2021)
 - [BERT-hLSTMs: BERT and Hierarchical LSTMs for Visual Storytelling](https://arxiv.org/abs/2012.02128)
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [An Audio-enriched BERT-based Framework for Spoken Multiple-choice Question Answering](https://arxiv.org/abs/2005.12142)
