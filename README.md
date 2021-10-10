@@ -1147,6 +1147,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [BioMegatron: Larger Biomedical Domain Language Model](https://arxiv.org/abs/2010.06060) (EMNLP2020) [[website](https://developer.nvidia.com/blog/building-state-of-the-art-biomedical-and-clinical-nlp-models-with-bio-megatron/)]
 - [Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art](https://www.aclweb.org/anthology/2020.clinicalnlp-1.17/) (EMNLP2020 WS)
 - [A pre-training technique to localize medical BERT and enhance BioBERT](https://arxiv.org/abs/2005.07202) [[github](https://github.com/sy-wada/blue_benchmark_with_transformers)]
+- [exBERT: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources](https://aclanthology.org/2020.findings-emnlp.129/) [[github](https://github.com/cgmhaicenter/exBERT)] (EMNLP2020 Findings)
 - [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222) (ICLR2021)
 - [ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
 - [Predicting Clinical Diagnosis from Patients Electronic Health Records Using BERT-based Neural Networks](https://arxiv.org/abs/2007.07562) (AIME2020)
@@ -1164,7 +1165,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://arxiv.org/abs/2010.03746) (EMNLP2020)
 - [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167) (EMNLP2020)
 - [Students Need More Attention: BERT-based Attention Model for Small Data with Application to Automatic Patient Message Triage](https://arxiv.org/abs/2006.11991) (MLHC2020)
-- [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/abs/1903.10676) [[github](https://github.com/allenai/scibert)]
+- [Med-BERT: pre-trained contextualized embeddings on large-scale structured electronic health records for disease prediction](https://arxiv.org/abs/2005.12833) [[github](https://github.com/ZhiGroup/Med-BERT)]
+- [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://aclanthology.org/D19-1371/) [[github](https://github.com/allenai/scibert)] (EMNLP2019)
+- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://aclanthology.org/2020.acl-main.207/) [[github](https://github.com/allenai/specter)] (ACL2020)
 - [OAG-BERT: Pre-train Heterogeneous Entity-augmented Academic Language Models](https://arxiv.org/abs/2103.02410) [[github](https://github.com/thudm/oag-bert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
