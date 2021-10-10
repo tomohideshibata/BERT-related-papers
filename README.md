@@ -808,6 +808,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Enhancing Pre-trained Language Model with Lexical Simplification](https://arxiv.org/abs/2012.15070)
 - [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
+- [Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687) (EMNLP2021) [[github](https://github.com/RunxinXu/ChildTuning)]
 - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 - [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/abs/2105.03322) (ACL2021)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
@@ -1390,7 +1391,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
-- [Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687) (EMNLP2021) [[github](https://github.com/RunxinXu/ChildTuning)]
 - [Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems](https://arxiv.org/abs/2008.06239)
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
