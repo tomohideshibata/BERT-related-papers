@@ -1166,8 +1166,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167) (EMNLP2020)
 - [Students Need More Attention: BERT-based Attention Model for Small Data with Application to Automatic Patient Message Triage](https://arxiv.org/abs/2006.11991) (MLHC2020)
 - [Med-BERT: pre-trained contextualized embeddings on large-scale structured electronic health records for disease prediction](https://arxiv.org/abs/2005.12833) [[github](https://github.com/ZhiGroup/Med-BERT)]
-- [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://aclanthology.org/D19-1371/) [[github](https://github.com/allenai/scibert)] (EMNLP2019)
-- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://aclanthology.org/2020.acl-main.207/) [[github](https://github.com/allenai/specter)] (ACL2020)
+- [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://aclanthology.org/D19-1371/) (EMNLP2019) [[github](https://github.com/allenai/scibert)] 
+- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://aclanthology.org/2020.acl-main.207/) (ACL2020) [[github](https://github.com/allenai/specter)]
 - [OAG-BERT: Pre-train Heterogeneous Entity-augmented Academic Language Models](https://arxiv.org/abs/2103.02410) [[github](https://github.com/thudm/oag-bert)]
 - [PatentBERT: Patent Classification with Fine-Tuning a pre-trained BERT Model](https://arxiv.org/abs/1906.02124)
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://arxiv.org/abs/2006.08097)
