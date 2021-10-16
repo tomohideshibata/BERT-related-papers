@@ -65,6 +65,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/abs/2107.13602)
 - [Towards Robust Neural Retrieval Models with Synthetic Pre-Training](https://arxiv.org/abs/2104.07800)
 - [Simple Entity-Centric Questions Challenge Dense Retrievers](https://arxiv.org/abs/2109.08535) (EMNLP2021) [[github](https://github.com/princeton-nlp/EntityQuestions)]
+- [Phrase Retrieval Learns Passage Retrieval, Too](https://arxiv.org/abs/2109.08133) (EMNLP2021) [[github](https://github.com/princeton-nlp/DensePhrases)]
 - [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
 - [Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering](https://arxiv.org/abs/2005.00038) (EACL2021)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756)
@@ -866,6 +867,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Dual-View Distilled BERT for Sentence Embedding](https://arxiv.org/abs/2104.08675) (SIGIR2021)
 - [DefSent: Sentence Embeddings using Definition Sentences](https://arxiv.org/abs/2105.04339) (ACL2021)
 - [Paraphrastic Representations at Scale](https://arxiv.org/abs/2104.15114) [[github](https://github.com/jwieting/paraphrastic-representations-at-scale)]
+- [Learning Dense Representations of Phrases at Scale](https://arxiv.org/abs/2012.12624) (ACL2021) [[github](https://github.com/princeton-nlp/DensePhrases)]
 - [Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration](https://arxiv.org/abs/2109.06304) (EMNLP2021)
 ## Transformer variants
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
