@@ -1143,8 +1143,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Domain specific
 - [AMMU -- A Survey of Transformer-based Biomedical Pretrained Language Models](https://arxiv.org/abs/2105.00827)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
-- [Self-Alignment Pretraining for Biomedical Entity Representations](https://aclanthology.org/2021.naacl-main.334.pdf) (NAACL2021) [[github](https://github.com/cambridgeltl/sapbert)]
-- [Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking](https://aclanthology.org/2021.acl-short.72.pdf) (ACL2021) [[github](https://github.com/cambridgeltl/sapbert)]
+- [Self-Alignment Pretraining for Biomedical Entity Representations](https://aclanthology.org/2021.naacl-main.334/) (NAACL2021) [[github](https://github.com/cambridgeltl/sapbert)]
+- [Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking](https://aclanthology.org/2021.acl-short.72/) (ACL2021) [[github](https://github.com/cambridgeltl/sapbert)]
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
 - [BERT-based Ranking for Biomedical Entity Normalization](https://arxiv.org/abs/1908.03548)
 - [PubMedQA: A Dataset for Biomedical Research Question Answering](https://arxiv.org/abs/1909.06146) (EMNLP2019)
