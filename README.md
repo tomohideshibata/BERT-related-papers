@@ -861,7 +861,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) (ICLR2021)
 - [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://arxiv.org/abs/2105.11741) (ACL2021)
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) (EMNLP2021) [[github](https://github.com/princeton-nlp/simcse)]
-- [Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders](https://arxiv.org/abs/2104.08027) (EMNLP2021)
+- [Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders](https://arxiv.org/abs/2104.08027) (EMNLP2021) [[github](https://github.com/cambridgeltl/mirror-bert)]
+- [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/pdf/2109.13059.pdf) [[github](https://github.com/amzn/trans-encoder)]
 - [Whitening Sentence Representations for Better Semantics and Faster Retrieval](https://arxiv.org/abs/2103.15316) [[github](https://github.com/bojone/BERT-whitening)]
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
 - [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
@@ -1142,6 +1143,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Domain specific
 - [AMMU -- A Survey of Transformer-based Biomedical Pretrained Language Models](https://arxiv.org/abs/2105.00827)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
+- [Self-Alignment Pretraining for Biomedical Entity Representations](https://aclanthology.org/2021.naacl-main.334.pdf) (NAACL2021) [[github](https://github.com/cambridgeltl/sapbert)]
+- [Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking](https://aclanthology.org/2021.acl-short.72.pdf) (ACL2021) [[github](https://github.com/cambridgeltl/sapbert)]
 - [Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://arxiv.org/abs/1906.05474) (ACL2019 WS) 
 - [BERT-based Ranking for Biomedical Entity Normalization](https://arxiv.org/abs/1908.03548)
 - [PubMedQA: A Dataset for Biomedical Research Question Answering](https://arxiv.org/abs/1909.06146) (EMNLP2019)
