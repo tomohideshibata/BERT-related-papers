@@ -473,6 +473,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239) (EMNLP2020 Findings)
 ### Commonsense
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937) (NAACL2019)
+- [Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention](https://arxiv.org/abs/2112.03254)
 - [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) (ACL2019) [[website](https://rowanzellers.com/hellaswag/)]
 - [A Method for Building a Commonsense Inference Dataset Based on Basic Events](https://www.aclweb.org/anthology/2020.emnlp-main.192/) (EMNLP2020) [[website](http://nlp.ist.i.kyoto-u.ac.jp/EN/?KUCI)]
 - [Story Ending Prediction by Transferable BERT](https://arxiv.org/abs/1905.07504) (IJCAI2019)
