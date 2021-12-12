@@ -1317,6 +1317,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307)
 - [To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection](https://arxiv.org/abs/2008.01551) (Interspeech2020)
 - [BERT for Joint Multichannel Speech Dereverberation with Spatial-aware Tasks](https://arxiv.org/abs/2010.10892)
+- [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
+- [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
+- [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/pdf/2111.07991.pdf)
 ## Model compression
 - [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
