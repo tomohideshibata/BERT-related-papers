@@ -1362,6 +1362,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [schuBERT: Optimizing Elements of BERT](https://arxiv.org/abs/2005.06628) (ACL2020)
 - [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance](https://arxiv.org/abs/2010.06133) (EMNLP2020) [[github](https://github.com/lxk00/BERT-EMD)]
 - [One Teacher is Enough? Pre-trained Language Model Distillation from Multiple Teachers](https://arxiv.org/abs/2106.01023) (ACL2021 Findings)
+- [From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression](https://arxiv.org/abs/2112.07198) (AAAI2022)
 - [TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER](https://arxiv.org/abs/2004.05686) (ACL2020)
 - [XtremeDistil: Multi-stage Distillation for Massive Multilingual Models](https://www.aclweb.org/anthology/2020.acl-main.202/) (ACL2020)
 - [Robustly Optimized and Distilled Training for Natural Language Understanding](https://arxiv.org/abs/2103.08809)
@@ -1401,7 +1402,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TernaryBERT: Distillation-aware Ultra-low Bit BERT](https://arxiv.org/abs/2009.12812) (EMNLP2020)
 - [EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP](https://arxiv.org/abs/2011.14203)
 - [Optimizing Inference Performance of Transformers on CPUs](https://arxiv.org/abs/2102.06621)
-- [From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression](https://arxiv.org/abs/2112.07198) (AAAI2022)
 ## Misc.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
