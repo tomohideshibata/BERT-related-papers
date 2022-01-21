@@ -568,6 +568,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787) (EMNLP2021 WS) [[github](https://github.com/castorini/mr.tydi)] 
 ## Generation
 - [Pretrained Language Models for Text Generation: A Survey](https://arxiv.org/abs/2105.10311) (IJCAI2021 Survey Track)
+- [A Survey of Pretrained Language Models Based Text Generation](https://arxiv.org/abs/2201.05273) 
 - [GLGE: A New General Language Generation Evaluation Benchmark](https://arxiv.org/abs/2011.11928) [[github](https://github.com/microsoft/glge)] 
 - [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094) (NAACL2019 WS)
 - [Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/abs/1902.09243)
