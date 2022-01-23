@@ -861,9 +861,12 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [SBERT-WK: A Sentence Embedding Method By Dissecting BERT-based Word Models](https://arxiv.org/abs/2002.06652)
 - [On the Sentence Embeddings from Pre-trained Language Models](https://arxiv.org/abs/2011.05864) (EMNLP2020)
 - [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) (ICLR2021)
+- [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) (ACL2021)
 - [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://arxiv.org/abs/2105.11741) (ACL2021)
+- [CLEAR: Contrastive Learning for Sentence Representation]](https://arxiv.org/abs/2012.15466)
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) (EMNLP2021) [[github](https://github.com/princeton-nlp/simcse)]
 - [Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders](https://arxiv.org/abs/2104.08027) (EMNLP2021) [[github](https://github.com/cambridgeltl/mirror-bert)]
+- [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979) (EMNLP2021 Findings)
 - [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059) [[github](https://github.com/amzn/trans-encoder)]
 - [Whitening Sentence Representations for Better Semantics and Faster Retrieval](https://arxiv.org/abs/2103.15316) [[github](https://github.com/bojone/BERT-whitening)]
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
