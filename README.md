@@ -776,6 +776,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Retrieval Augmentation Reduces Hallucination in Conversation](https://arxiv.org/abs/2104.07567)
 - [On-The-Fly Information Retrieval Augmentation for Language Models](https://arxiv.org/abs/2007.01528)
 - [Current Limitations of Language Models: What You Need is Retrieval](https://arxiv.org/abs/2009.06857)
+- [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426) [[blog](https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens)] [[blog](http://jalammar.github.io/illustrated-retrieval-transformer/)]
 - [Taking Notes on the Fly Helps BERT Pre-training](https://arxiv.org/abs/2008.01466)
 - [Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
 - [SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis](https://arxiv.org/abs/2005.05635) (ACL2020)
