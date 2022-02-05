@@ -1433,6 +1433,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-node Bert-pretraining: Cost-efficient Approach](https://arxiv.org/abs/2008.00177)
 - [How to Train BERT with an Academic Budget](https://arxiv.org/abs/2104.07705)
 - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
+- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
 - [Amazon SageMaker Model Parallelism: A General and Flexible Framework for Large Model Training](https://arxiv.org/abs/2111.05972)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
 - [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857)
