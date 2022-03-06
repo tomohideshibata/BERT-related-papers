@@ -1130,6 +1130,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Bertinho: Galician BERT Representations](https://arxiv.org/abs/2103.13799)
 - [Pretraining and Fine-Tuning Strategies for Sentiment Analysis of Latvian Tweets](https://arxiv.org/abs/2010.12401)
 - [PTT5: Pretraining and validating the T5 model on Brazilian Portuguese data](https://arxiv.org/abs/2008.09144)
+- [IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages](https://aclanthology.org/2020.findings-emnlp.445/) (EMNLP2020 Findings)
 - [Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages](https://arxiv.org/abs/2011.02323) (NeurIPS2020 WS)
 - [IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP](https://www.aclweb.org/anthology/2020.coling-main.66/) (COLING2020)
 - [IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization](https://arxiv.org/abs/2109.04607) (EMNLP2021)
