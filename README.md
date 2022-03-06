@@ -1107,6 +1107,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Adaptation of Deep Bidirectional Multilingual Transformers for Russian Language](https://arxiv.org/abs/1905.07213)
 - [RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2010.15925) (EMNLP2020)
 - [AraBERT: Transformer-based Model for Arabic Language Understanding](https://arxiv.org/abs/2003.00104)
+- [ALUE: Arabic Language Understanding Evaluation](https://aclanthology.org/2021.wanlp-1.18/) (EACL2021 WS) [[website](https://www.alue.org/home)]
+- [ARBERT & MARBERT: Deep Bidirectional Transformers for Arabic](https://aclanthology.org/2021.acl-long.551/) (ACL2021) [[github](https://github.com/UBC-NLP/marbert)]
 - [Pre-Training BERT on Arabic Tweets: Practical Considerations](https://arxiv.org/abs/2102.10684)
 - [PhoBERT: Pre-trained language models for Vietnamese](https://arxiv.org/abs/2003.00744)
 - [Give your Text Representation Models some Love: the Case for Basque](https://arxiv.org/abs/2004.00033) (LREC2020)
