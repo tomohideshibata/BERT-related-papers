@@ -1136,6 +1136,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages](https://arxiv.org/abs/2011.02323) (NeurIPS2020 WS)
 - [IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP](https://www.aclweb.org/anthology/2020.coling-main.66/) (COLING2020)
 - [IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization](https://arxiv.org/abs/2109.04607) (EMNLP2021)
+- [IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation](https://arxiv.org/abs/2104.08200) (EMNLP2021)
 - [AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages](https://arxiv.org/abs/2109.04715) (EMNLP2021)
 - [BARThez: a Skilled Pretrained French Sequence-to-Sequence Model](https://arxiv.org/abs/2010.12321)
 - [NEZHA: Neural Contextualized Representation for Chinese Language Understanding](https://arxiv.org/abs/1909.00204)
