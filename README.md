@@ -659,6 +659,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [NT5?! Training T5 to Perform Numerical Reasoning](https://arxiv.org/abs/2104.07307) [[github](https://github.com/lesterpjy/numeric-t5)]
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (ACL2020)
+- [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics](https://arxiv.org/abs/2102.01672)
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) [[blog](https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html)]
 - [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)
 - [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
