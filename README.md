@@ -1266,6 +1266,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135) (CVPR2021)
 - [Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers](https://arxiv.org/abs/2109.04448) (EMNLP2021) 
 - [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/abs/2004.00849)
+- [IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages](https://arxiv.org/abs/2201.11732)
 - [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/) (ACL2020)
 - [BERTERS: Multimodal Representation Learning for Expert Recommendation System with Transformer](https://arxiv.org/abs/2007.07229)
 - [FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval](https://arxiv.org/abs/2005.09801) (SIGIR2020)
