@@ -1333,10 +1333,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/pdf/2111.07991.pdf)
-- [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/pdf/2111.02387.pdf) (CVPR2022) [[github](https://github.com/zdou0830/METER]
+- [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/pdf/2111.02387.pdf) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
 - [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/pdf/2109.05014.pdf) (AAAI2022)
 - [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf) (ICLR2022)
-- [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf) (NeurIPS 2021) [[github](https://github.com/salesforce/ALBEF]
+- [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf) (NeurIPS 2021) [[github](https://github.com/salesforce/ALBEF)]
 - [Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf) [[github](https://github.com/microsoft/GLIP)]
 - [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf) [[github](https://github.com/microsoft/unilm/tree/master/vlmo)]
 - [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
