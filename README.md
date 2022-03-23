@@ -1345,7 +1345,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/pdf/2011.15124.pdf)
 - [VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning](https://arxiv.org/pdf/2009.13682.pdf)
 - [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/pdf/2112.05230.pdf)
-- [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)[[github](https://github.com/salesforce/BLIP)]
+- [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [[github](https://github.com/salesforce/BLIP)]
 - [Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training](https://arxiv.org/pdf/2201.04026.pdf)
 ## Model compression
 - [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
