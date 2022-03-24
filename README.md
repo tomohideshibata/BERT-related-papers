@@ -1347,6 +1347,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/pdf/2112.05230.pdf)
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [[github](https://github.com/salesforce/BLIP)]
 - [Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training](https://arxiv.org/pdf/2201.04026.pdf)
+- [UNIMO-2: End-to-End Unified Vision-Language Grounded Learning](https://arxiv.org/pdf/2203.09067.pdf)
+- [Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation](https://arxiv.org/pdf/2203.06386.pdf)
 ## Model compression
 - [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
