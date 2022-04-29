@@ -1029,6 +1029,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models](https://arxiv.org/abs/2008.05122) [[github](https://github.com/pair-code/lit)]
 - [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/) (ACL2020)
 - [Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models]() (ECCV2020)
+- [Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers](https://arxiv.org/pdf/2102.00529.pdf) (TACL2021)
+- [What Vision-Language Models ‘See’ when they See Scenes](https://arxiv.org/pdf/2109.07301.pdf)
 ## Multi-lingual
 - [A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676)
 - [Multilingual Constituency Parsing with Self-Attention and Pre-Training](https://arxiv.org/abs/1812.11760) (ACL2019)
@@ -1331,6 +1333,22 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/pdf/2111.07991.pdf)
+- [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/pdf/2111.02387.pdf) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
+- [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/pdf/2109.05014.pdf) (AAAI2022)
+- [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf) (ICLR2022)
+- [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf) (NeurIPS 2021) [[github](https://github.com/salesforce/ALBEF)]
+- [Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf) [[github](https://github.com/microsoft/GLIP)]
+- [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf) [[github](https://github.com/microsoft/unilm/tree/master/vlmo)]
+- [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
+- [Scaling Up Vision-Language Pre-training for Image Captioning](https://arxiv.org/pdf/2111.12233.pdf)
+- [Towards Unified Vision-Language Modeling](https://arxiv.org/pdf/2111.12085.pdf)
+- [Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/pdf/2011.15124.pdf)
+- [VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning](https://arxiv.org/pdf/2009.13682.pdf)
+- [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/pdf/2112.05230.pdf)
+- [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [[github](https://github.com/salesforce/BLIP)]
+- [Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training](https://arxiv.org/pdf/2201.04026.pdf)
+- [UNIMO-2: End-to-End Unified Vision-Language Grounded Learning](https://arxiv.org/pdf/2203.09067.pdf)
+- [Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation](https://arxiv.org/pdf/2203.06386.pdf)
 ## Model compression
 - [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
