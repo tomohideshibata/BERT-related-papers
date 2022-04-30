@@ -1248,6 +1248,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561)
 - [E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning](https://arxiv.org/abs/2106.01804) (ACL2021)
 - [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)
+- [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
@@ -1333,7 +1334,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991)
-- [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
 - [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/pdf/2109.05014.pdf) (AAAI2022)
 - [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf) (ICLR2022)
 - [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf) (NeurIPS 2021) [[github](https://github.com/salesforce/ALBEF)]
