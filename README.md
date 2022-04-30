@@ -1233,6 +1233,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/abs/2003.01473)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
 - [TAP: Text-Aware Pre-training for Text-VQA and Text-Caption](https://arxiv.org/abs/2012.04638)
+- [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/abs/2109.05014) (AAAI2022)
 - [Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772)
 - [VisualCOMET: Reasoning about the Dynamic Context of a Still Image](https://arxiv.org/abs/2004.10796) (ECCV2020) [[website](http://visualcomet.xyz)]
 - [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379)
@@ -1334,7 +1335,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991)
-- [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/pdf/2109.05014.pdf) (AAAI2022)
 - [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf) (ICLR2022)
 - [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf) (NeurIPS 2021) [[github](https://github.com/salesforce/ALBEF)]
 - [Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf) [[github](https://github.com/microsoft/GLIP)]
