@@ -1213,6 +1213,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)
 - [Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/abs/1906.02940)
 - [ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data](https://arxiv.org/abs/2001.07966)
+- [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904) (ICLR2022)
+- [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651) (NeurIPS2021) [[github](https://github.com/salesforce/ALBEF)]
 - [Contrastive Bidirectional Transformer for Temporal Representation Learning](https://arxiv.org/abs/1906.05743)
 - [M-BERT: Injecting Multimodal Information in the BERT Structure](https://arxiv.org/abs/1908.05787)
 - [Integrating Multimodal Information in Large Pretrained Transformers](https://arxiv.org/abs/1908.05787)
@@ -1244,10 +1246,12 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/abs/2102.03334)
 - [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/abs/1909.02950)
 - [InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
-- [Multimodal Pretraining Unmasked: Unifying the Vision and Language BERTs](https://arxiv.org/abs/2011.15124)
+- [Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124) (TACL2021)
 - [SemVLP: Vision-Language Pre-training by Aligning Semantics at Multiple Levels](https://arxiv.org/abs/2103.07829)
 - [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561)
 - [E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning](https://arxiv.org/abs/2106.01804) (ACL2021)
+- [Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857) [[github](https://github.com/microsoft/GLIP)]
+- [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/abs/2111.02358) [[github](https://github.com/microsoft/unilm/tree/master/vlmo)]
 - [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
@@ -1335,14 +1339,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991)
-- [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf) (ICLR2022)
-- [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf) (NeurIPS 2021) [[github](https://github.com/salesforce/ALBEF)]
-- [Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf) [[github](https://github.com/microsoft/GLIP)]
-- [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf) [[github](https://github.com/microsoft/unilm/tree/master/vlmo)]
 - [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
 - [Scaling Up Vision-Language Pre-training for Image Captioning](https://arxiv.org/pdf/2111.12233.pdf)
 - [Towards Unified Vision-Language Modeling](https://arxiv.org/pdf/2111.12085.pdf)
-- [Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/pdf/2011.15124.pdf)
 - [VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning](https://arxiv.org/pdf/2009.13682.pdf)
 - [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/pdf/2112.05230.pdf)
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [[github](https://github.com/salesforce/BLIP)]
