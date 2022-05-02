@@ -1233,6 +1233,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [What is More Likely to Happen Next? Video-and-Language Future Event Prediction](https://arxiv.org/abs/2010.07999) (EMNLP2020)
 - [VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407) 
 - [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/abs/2003.01473)
+- [Scaling Up Vision-Language Pre-training for Image Captioning](https://arxiv.org/abs/2111.12233)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
 - [TAP: Text-Aware Pre-training for Text-VQA and Text-Caption](https://arxiv.org/abs/2012.04638)
 - [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/abs/2109.05014) (AAAI2022)
@@ -1254,6 +1255,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/abs/2111.02358) [[github](https://github.com/microsoft/unilm/tree/master/vlmo)]
 - [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
+- [Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling](https://arxiv.org/abs/2111.12085)
 - [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432) 
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
@@ -1271,6 +1273,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Cycle Text-To-Image GAN with BERT](https://arxiv.org/abs/2003.12137)
 - [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/abs/1912.03063)
 - [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/abs/2004.06165)
+- [VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning](https://arxiv.org/abs/2009.13682) 
 - [DeVLBert: Learning Deconfounded Visio-Linguistic Representations](https://arxiv.org/abs/2008.06884) (ACMMM2020)
 - [A Recurrent Vision-and-Language BERT for Navigation](https://arxiv.org/abs/2011.13922)
 - [BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations](https://arxiv.org/abs/2002.10832)
@@ -1340,9 +1343,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991)
-- [Scaling Up Vision-Language Pre-training for Image Captioning](https://arxiv.org/pdf/2111.12233.pdf)
-- [Towards Unified Vision-Language Modeling](https://arxiv.org/pdf/2111.12085.pdf)
-- [VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning](https://arxiv.org/pdf/2009.13682.pdf)
 - [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/pdf/2112.05230.pdf)
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf) [[github](https://github.com/salesforce/BLIP)]
 - [Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training](https://arxiv.org/pdf/2201.04026.pdf)
