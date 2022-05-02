@@ -1254,6 +1254,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/abs/2111.02358) [[github](https://github.com/microsoft/unilm/tree/master/vlmo)]
 - [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
+- [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432) 
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
@@ -1339,7 +1340,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
 - [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991)
-- [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf)
 - [Scaling Up Vision-Language Pre-training for Image Captioning](https://arxiv.org/pdf/2111.12233.pdf)
 - [Towards Unified Vision-Language Modeling](https://arxiv.org/pdf/2111.12085.pdf)
 - [VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning](https://arxiv.org/pdf/2009.13682.pdf)
