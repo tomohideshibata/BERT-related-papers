@@ -1236,6 +1236,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407) 
 - [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/abs/2003.01473)
 - [Scaling Up Vision-Language Pre-training for Image Captioning](https://arxiv.org/abs/2111.12233)
+- [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/abs/2112.05230) (CVPR2022)
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059) (AAAI2020) [[github](https://github.com/LuoweiZhou/VLP)]
 - [TAP: Text-Aware Pre-training for Text-VQA and Text-Caption](https://arxiv.org/abs/2012.04638)
 - [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA](https://arxiv.org/abs/2109.05014) (AAAI2022)
@@ -1251,7 +1252,9 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining](https://arxiv.org/abs/2003.13198)
 - [Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124) (TACL2021)
 - [SemVLP: Vision-Language Pre-training by Aligning Semantics at Multiple Levels](https://arxiv.org/abs/2103.07829)
+- [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991) (CVPR2022) 
 - [WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training](https://arxiv.org/abs/2103.06561)
+- [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/abs/2106.13488) (NeurIPS2021)
 - [E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning](https://arxiv.org/abs/2106.01804) (ACL2021)
 - [UNIMO-2: End-to-End Unified Vision-Language Grounded Learning](https://arxiv.org/abs/2203.09067) (ACL2022) 
 - [Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857) [[github](https://github.com/microsoft/GLIP)]
@@ -1259,6 +1262,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387) (CVPR2022) [[github](https://github.com/zdou0830/METER)]
 - [Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling](https://arxiv.org/abs/2111.12085)
+- [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/abs/2111.10023)
 - [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432) 
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
@@ -1344,10 +1348,6 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307)
 - [To BERT or Not To BERT: Comparing Speech and Language-based Approaches for Alzheimer's Disease Detection](https://arxiv.org/abs/2008.01551) (Interspeech2020)
 - [BERT for Joint Multichannel Speech Dereverberation with Spatial-aware Tasks](https://arxiv.org/abs/2010.10892)
-- [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf) (NeurIPS 2021)
-- [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/pdf/2111.10023.pdf)
-- [LiT : Zero-Shot Transfer with Locked-image Text Tuning](https://arxiv.org/abs/2111.07991)
-- [Injecting Semantic Concepts into End-to-End Image Captioning](https://arxiv.org/pdf/2112.05230.pdf)
 ## Model compression
 - [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
