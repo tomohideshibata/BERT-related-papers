@@ -822,8 +822,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ### Tokenization
 - [Training Multilingual Pre-trained Language Model with Byte-level Subwords](https://arxiv.org/abs/2101.09012)
 - [Byte Pair Encoding is Suboptimal for Language Model Pretraining](https://arxiv.org/abs/2004.03720) (EMNLP2020 Findings)
-- [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874) [[github](https://github.com/google-research/language/tree/master/language/canine)]
-- [ByT5: Towards a token-free future with pre-trained byte-to-byte models](https://arxiv.org/abs/2105.13626) [[github](https://github.com/google-research/byt5)]
+- [CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://arxiv.org/abs/2103.06874) (TACL2022) [[github](https://github.com/google-research/language/tree/master/language/canine)]
+- [ByT5: Towards a token-free future with pre-trained byte-to-byte models](https://arxiv.org/abs/2105.13626) (TACL2022) [[github](https://github.com/google-research/byt5)]
 - [Multi-view Subword Regularization](https://arxiv.org/abs/2103.08490) (NAACL2021)
 - [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/abs/2106.06125) (ACL2021)
 - [An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks](https://arxiv.org/abs/2010.02534) (AACL-IJCNLP2020)
