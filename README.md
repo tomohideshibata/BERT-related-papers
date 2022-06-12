@@ -565,6 +565,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2010.10137) (WSDM2021)
 - [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval](https://arxiv.org/abs/2104.09791) (SIGIR2021)
 - [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/abs/2104.08253) (EMNLP2021)
+- [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://arxiv.org/abs/2203.07735) (ACL2022) 
 - [Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval](https://arxiv.org/abs/2108.08787) (EMNLP2021 WS) [[github](https://github.com/castorini/mr.tydi)] 
 ## Generation
 - [Pretrained Language Models for Text Generation: A Survey](https://arxiv.org/abs/2105.10311) (IJCAI2021 Survey Track)
