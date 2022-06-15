@@ -1155,6 +1155,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PanGu-α: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369)
 - [CLUECorpus2020: A Large-scale Chinese Corpus for Pre-training Language Model](https://arxiv.org/abs/2003.01355)
 - [CLUE: A Chinese Language Understanding Evaluation Benchmark](https://arxiv.org/abs/2004.05986)
+- [CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark](https://arxiv.org/abs/2112.13610)
 - [FewCLUE: A Chinese Few-shot Learning Evaluation Benchmark](https://arxiv.org/abs/2107.07498)
 - [AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation](https://arxiv.org/abs/2009.11473)
 - [UER: An Open-Source Toolkit for Pre-training Models](https://arxiv.org/abs/1909.05658) (EMNLP2019 Demo) [[github](https://github.com/dbiir/UER-py)]
