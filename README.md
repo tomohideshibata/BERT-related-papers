@@ -818,6 +818,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Contextual BERT: Conditioning the Language Model Using a Global State](https://arxiv.org/abs/2010.15778) (COLING2020 WS)
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) (ACL2020)
 - [Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687) (EMNLP2021) [[github](https://github.com/RunxinXu/ChildTuning)]
+- [Token Dropping for Efficient BERT Pretraining](https://arxiv.org/abs/2203.13240) (ACL2022) [[github](https://github.com/tensorflow/models/tree/master/official/projects/token_dropping)]
 - [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 - [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/abs/2105.03322) (ACL2021)
 - [Pre-Training a Language Model Without Human Language](https://arxiv.org/abs/2012.11995)
