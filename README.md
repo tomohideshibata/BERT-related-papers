@@ -873,12 +873,14 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://arxiv.org/abs/2105.11741) (ACL2021)
 - [CLEAR: Contrastive Learning for Sentence Representation]](https://arxiv.org/abs/2012.15466)
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) (EMNLP2021) [[github](https://github.com/princeton-nlp/simcse)]
+- [ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding](https://arxiv.org/abs/2109.04380)
 - [Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders](https://arxiv.org/abs/2104.08027) (EMNLP2021) [[github](https://github.com/cambridgeltl/mirror-bert)]
 - [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979) (EMNLP2021 Findings)
 - [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059) [[github](https://github.com/amzn/trans-encoder)]
 - [Whitening Sentence Representations for Better Semantics and Faster Retrieval](https://arxiv.org/abs/2103.15316) [[github](https://github.com/bojone/BERT-whitening)]
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
 - [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
+- [EASE: Entity-Aware Contrastive Learning of Sentence Embedding](https://arxiv.org/abs/2205.04260) (NAACL2022)
 - [Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models](https://arxiv.org/abs/2108.08877)
 - [Dual-View Distilled BERT for Sentence Embedding](https://arxiv.org/abs/2104.08675) (SIGIR2021)
 - [DefSent: Sentence Embeddings using Definition Sentences](https://arxiv.org/abs/2105.04339) (ACL2021)
