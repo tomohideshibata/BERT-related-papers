@@ -862,6 +862,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
 - [FLEX: Unifying Evaluation for Few-Shot NLP](https://arxiv.org/abs/2107.07170)
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/abs/2109.01247)
+- [OpenPrompt: An Open-source Framework for Prompt-learning](https://aclanthology.org/2022.acl-demo.10/) (ACL2022 Demo)
 ## Sentence embedding
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) (EMNLP2019)
