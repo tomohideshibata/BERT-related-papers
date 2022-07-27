@@ -1279,6 +1279,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [UFO: A UniFied TransfOrmer for Vision-Language Representation Learning](https://arxiv.org/abs/2111.10023)
 - [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432) 
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
 - [Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network](https://arxiv.org/abs/2101.11562) (AAAI2021)
