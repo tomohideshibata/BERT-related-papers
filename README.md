@@ -1341,6 +1341,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding](https://arxiv.org/abs/2105.09996) (ACL2021 Findings)
 - [VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding](https://arxiv.org/abs/2109.14084) (EMNLP2021)
 - [BERT-hLSTMs: BERT and Hierarchical LSTMs for Visual Storytelling](https://arxiv.org/abs/2012.02128)
+- [A Generalist Agent](https://arxiv.org/abs/2205.06175) [[website](https://www.deepmind.com/publications/a-generalist-agent)]
 - [SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering](https://arxiv.org/abs/1910.11559)
 - [An Audio-enriched BERT-based Framework for Spoken Multiple-choice Question Answering](https://arxiv.org/abs/2005.12142)
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453)
