@@ -551,6 +551,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Boosted Dense Retriever](https://arxiv.org/abs/2112.07771)
 - [ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval](https://arxiv.org/abs/2205.09153)
 - [Document Ranking with a Pretrained Sequence-to-Sequence Model](https://arxiv.org/abs/2003.06713)
+- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/abs/2206.02743)
 - [COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List](https://arxiv.org/abs/2104.07186) (NAACL2021)
 - [Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search](https://arxiv.org/abs/2006.07548) (SIGIR2020)
 - [Fine-tune BERT for E-commerce Non-Default Search Ranking](https://arxiv.org/abs/2008.09689)
