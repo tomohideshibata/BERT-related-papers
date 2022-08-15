@@ -883,6 +883,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059) [[github](https://github.com/amzn/trans-encoder)]
 - [Whitening Sentence Representations for Better Semantics and Faster Retrieval](https://arxiv.org/abs/2103.15316) [[github](https://github.com/bojone/BERT-whitening)]
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks](https://arxiv.org/abs/2010.08240) (NAACL2021)
+- [DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings](https://arxiv.org/abs/2204.10298) (NAACL2022) [[code](https://github.com/voidism/DiffCSE)]
 - [Sentence Embeddings by Ensemble Distillation](https://arxiv.org/abs/2104.06719)
 - [EASE: Entity-Aware Contrastive Learning of Sentence Embedding](https://arxiv.org/abs/2205.04260) (NAACL2022)
 - [Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models](https://arxiv.org/abs/2108.08877)
