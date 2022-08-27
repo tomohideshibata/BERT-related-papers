@@ -727,6 +727,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP](https://arxiv.org/abs/2104.08835)
 - [Lifelong Learning of Few-shot Learners across NLP Tasks](https://arxiv.org/abs/2104.08808)
 - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964) (ACL2020)
+- [Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora](https://aclanthology.org/2022.naacl-main.351/) (NAACL2022)
+- [Towards Continual Knowledge Learning of Language Models](https://arxiv.org/abs/2110.03215) (ICLR2022)
 - [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training](https://arxiv.org/abs/2010.00784) [[github](https://github.com/aws-health-ai/multi_domain_lm)]
 - [To Pretrain or Not to Pretrain: Examining the Benefits of Pretraining on Resource Rich Tasks](https://arxiv.org/abs/2006.08671) (ACL2020)
 - [Revisiting Few-sample BERT Fine-tuning](https://arxiv.org/abs/2006.05987)
