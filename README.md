@@ -30,6 +30,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/abs/2108.05542)
 - [Paradigm Shift in Natural Language Processing](https://arxiv.org/abs/2109.12575)
 - [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243)
+- [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
  
 ## Downstream task
 ### QA, MC, Dialogue
