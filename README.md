@@ -1460,6 +1460,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
 - [Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems](https://arxiv.org/abs/2008.06239)
+- [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068) [[website](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/)]
+- [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
 - [Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods](https://www.aclweb.org/anthology/2020.acl-main.314/) (ACL2020)
