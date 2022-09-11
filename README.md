@@ -626,6 +626,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://arxiv.org/abs/2010.08824) (EMNLP2020)
 - [Are Pre-trained Language Models Knowledgeable to Ground Open Domain Dialogues?](https://arxiv.org/abs/2011.09708)
 - [Open-Domain Dialogue Generation Based on Pre-trained Language Models](https://arxiv.org/abs/2010.12780)
+- [LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)
 - [Retrieval-Augmented Transformer-XL for Close-Domain Dialog Generation](https://arxiv.org/abs/2105.09235)
 - [Internet-Augmented Dialogue Generation](https://arxiv.org/abs/2107.07566)
 - [DialogBERT: Discourse-Aware Response Generation via Learning to Recover and Rank Utterances](https://arxiv.org/abs/2012.01775) (AAAI2021)
