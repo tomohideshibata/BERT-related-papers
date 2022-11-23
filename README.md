@@ -1230,6 +1230,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Multi-modal
 - [A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
 - [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
+- [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/abs/2210.09263)
 - [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766) (ICCV2019)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265) (NeurIPS2019)
 - [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)
