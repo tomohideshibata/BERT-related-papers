@@ -17,6 +17,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Multi-modal](#multi-modal)
 - [Model compression](#model-compression)
 - [Large language model](#large-language-model)
+- [Reinforcement learning from human feedback](#reinforcement-learning-from-human-feedback)
 - [Misc.](#misc)
 
 ## Survey paper
@@ -1474,9 +1475,10 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) [[github](https://github.com/microsoft/DeepSpeed)]
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
 - [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857)
-## Misc.
+## Reinforcement learning from human feedback
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
+## Misc.
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
 - [Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods](https://www.aclweb.org/anthology/2020.acl-main.314/) (ACL2020)
