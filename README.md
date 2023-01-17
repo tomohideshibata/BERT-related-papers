@@ -16,6 +16,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Domain specific](#domain-specific)
 - [Multi-modal](#multi-modal)
 - [Model compression](#model-compression)
+- [Large language model](#large-language-model)
 - [Misc.](#misc)
 
 ## Survey paper
@@ -1458,12 +1459,22 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [TernaryBERT: Distillation-aware Ultra-low Bit BERT](https://arxiv.org/abs/2009.12812) (EMNLP2020)
 - [EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP](https://arxiv.org/abs/2011.14203)
 - [Optimizing Inference Performance of Transformers on CPUs](https://arxiv.org/abs/2102.06621)
-## Misc.
+## Large language model
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [[github](https://github.com/openai/gpt-2)]
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (NeurIPS2020) [[github](https://github.com/openai/gpt-3)]
 - [Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems](https://arxiv.org/abs/2008.06239)
 - [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068) [[website](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/)]
 - [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
+- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
+- [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905) [[blog](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)]
+- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) [[blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)]
+- [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
+- [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990) [[blog](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)]
+- [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) [[github](https://github.com/microsoft/DeepSpeed)]
+- [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
+- [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857)
+## Misc.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
@@ -1487,16 +1498,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178) (AAAI2021)
 - [Multi-node Bert-pretraining: Cost-efficient Approach](https://arxiv.org/abs/2008.00177)
 - [How to Train BERT with an Academic Budget](https://arxiv.org/abs/2104.07705)
-- [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
-- [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990) [[blog](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)]
-- [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) [[github](https://github.com/microsoft/DeepSpeed)]
-- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
-- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
-- [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905) [[blog](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)]
-- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) [[blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)]
 - [Amazon SageMaker Model Parallelism: A General and Flexible Framework for Large Model Training](https://arxiv.org/abs/2111.05972)
-- [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
-- [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857)
 - [PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management](https://arxiv.org/abs/2108.05818) [[github](https://github.com/Tencent/PatrickStar)]
 - [1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed](https://arxiv.org/abs/2102.02888)
 - [TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models](https://arxiv.org/abs/2102.07988)
