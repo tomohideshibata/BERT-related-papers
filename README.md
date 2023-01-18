@@ -1478,6 +1478,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 ## Reinforcement learning from human feedback
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) [[github](https://github.com/openai/lm-human-preferences)] [[blog](https://openai.com/blog/fine-tuning-gpt-2/)]
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) [[github](https://github.com/openai/following-instructions-human-feedback)] [[blog](https://openai.com/blog/instruction-following/)]
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 ## Misc.
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
