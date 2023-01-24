@@ -1339,6 +1339,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[github](https://github.com/openai/CLIP)] [[website](https://openai.com/blog/clip/)]
 - [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/abs/2107.06383)
 - [EfficientCLIP: Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling](https://arxiv.org/abs/2109.04699)
+- [e-CLIP: Large-Scale Vision-Language Representation Learning in E-commerce](https://arxiv.org/abs/2207.00208)
+- [Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese](https://arxiv.org/abs/2211.01335)
 - [Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation](https://arxiv.org/abs/2203.06386) (ACL2022) 
 - [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249)
 - [Training Vision Transformers for Image Retrieval](https://arxiv.org/abs/2102.05644)
