@@ -848,7 +848,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) (COLING2020) [[github](https://github.com/wtma/CharBERT)]
 - [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://arxiv.org/abs/2010.10392) (COLING2020)
 - [Charformer: Fast Character Transformers via Gradient-based Subword Tokenization](https://arxiv.org/abs/2106.12672) [[github](https://github.com/google-research/google-research/tree/master/charformer)]
-- [Fast WordPiece Tokenization](https://arxiv.org/abs/2012.15524) (EMNLP2021) 
+- [Fast WordPiece Tokenization](https://arxiv.org/abs/2012.15524) (EMNLP2021)
+- [MaxMatch-Dropout: Subword Regularization for WordPiece](https://arxiv.org/abs/2209.04126) (COLING2022)
 ### Prompt
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586)
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (EMNLP2020) [[github](https://github.com/ucinlp/autoprompt)]
