@@ -472,7 +472,8 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?](https://arxiv.org/abs/2004.14839) (ACL2020)
 - [Abductive Commonsense Reasoning](https://arxiv.org/abs/1908.05739) (ICLR2020)
 - [Entailment as Few-Shot Learner](https://arxiv.org/abs/2104.14690)
-- [Collecting Entailment Data for Pretraining: New Protocols and Negative Results](https://arxiv.org/abs/2004.11997) 
+- [Collecting Entailment Data for Pretraining: New Protocols and Negative Results](https://arxiv.org/abs/2004.11997)
+- [WANLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation](https://arxiv.org/abs/2201.05955) (EMNLP2022 Findings) [[github](https://github.com/alisawuffles/wanli)]
 - [Mining Knowledge for Natural Language Inference from Wikipedia Categories](https://arxiv.org/abs/2010.01239) (EMNLP2020 Findings)
 ### Commonsense
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937) (NAACL2019)
