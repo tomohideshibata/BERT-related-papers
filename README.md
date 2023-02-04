@@ -1327,6 +1327,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) (KDD2020) [[github](https://github.com/microsoft/unilm/tree/master/layoutlm)]
 - [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) (ACL2021)
 - [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836)
+- [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)
 - [LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding](https://arxiv.org/abs/2104.08405)
 - [BROS: A Pre-trained Language Model for Understanding Texts in Document](https://openreview.net/forum?id=punMXQEsPr0)
 - [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282)
