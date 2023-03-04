@@ -1479,6 +1479,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
 - [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905) [[blog](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)]
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) [[blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)]
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
 - [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990) [[blog](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)]
 - [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) [[github](https://github.com/microsoft/DeepSpeed)]
