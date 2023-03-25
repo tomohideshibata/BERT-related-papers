@@ -932,6 +932,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743)
 - [Query-Key Normalization for Transformers](https://arxiv.org/abs/2010.04245) (EMNLP2020 Findings)
 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794) (ICLR2021)
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 - [Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change](https://arxiv.org/abs/2005.02008)
 - [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/abs/2005.14187) (ACL2020) [[github](https://github.com/mit-han-lab/hardware-aware-transformers)]
 - [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768)
