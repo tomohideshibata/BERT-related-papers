@@ -33,6 +33,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Paradigm Shift in Natural Language Processing](https://arxiv.org/abs/2109.12575)
 - [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243)
 - [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
+- [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
  
 ## Downstream task
 ### QA, MC, Dialogue
