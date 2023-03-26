@@ -1494,6 +1494,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 - [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146) (ACL2022 WS)
+- [Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560) [[github](https://github.com/yizhongw/self-instruct)]
 ## Misc.
 - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
