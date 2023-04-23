@@ -1,6 +1,8 @@
 # BERT-related Papers
 This is a list of BERT-related papers. Any feedback is welcome.
 
+(ChatGPT-related papers are listed at https://github.com/tomohideshibata/ChatGPT-related-papers.)
+
 ## Table of Contents
 - [Survey paper](#survey-paper)
 - [Downstream task](#downstream-task)
