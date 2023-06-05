@@ -886,7 +886,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF) (ICLR2021)
 - [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659) (ACL2021)
 - [ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer](https://arxiv.org/abs/2105.11741) (ACL2021)
-- [CLEAR: Contrastive Learning for Sentence Representation]](https://arxiv.org/abs/2012.15466)
+- [CLEAR: Contrastive Learning for Sentence Representation](https://arxiv.org/abs/2012.15466)
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) (EMNLP2021) [[github](https://github.com/princeton-nlp/simcse)]
 - [ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding](https://arxiv.org/abs/2109.04380)
 - [Fast, Effective, and Self-Supervised: Transforming Masked Language Models into Universal Lexical and Sentence Encoders](https://arxiv.org/abs/2104.08027) (EMNLP2021) [[github](https://github.com/cambridgeltl/mirror-bert)]
