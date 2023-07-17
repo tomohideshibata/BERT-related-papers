@@ -1486,6 +1486,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) [[blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)]
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373) [[github](https://github.com/EleutherAI/pythia)]
+- [PolyLM: An Open Source Polyglot Large Language Model](https://arxiv.org/abs/2307.06018)
 - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
 - [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://arxiv.org/abs/2104.04473)
 - [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model](https://arxiv.org/abs/2201.11990) [[blog](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)]
