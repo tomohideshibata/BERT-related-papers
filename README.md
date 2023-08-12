@@ -1298,6 +1298,7 @@ This is a list of BERT-related papers. Any feedback is welcome.
 - [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432) 
 - [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195) (NeurIPS2020)
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+- [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390) [[github](https://github.com/mlfoundations/open_flamingo)]
 - [Do DALL-E and Flamingo Understand Each Other?](https://arxiv.org/abs/2212.12249)
 - [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)
 - [Unifying Vision-and-Language Tasks via Text Generation](https://arxiv.org/abs/2102.02779)
